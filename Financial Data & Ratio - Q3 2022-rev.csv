@@ -1,0 +1,813 @@
+No.,Sector,Sub Industry Code,Sub Industry,Code,Stock Name,Sharia,FS Date,Fiscal Year End,Type of FS,Auditor's Opinion,"Assets, b.IDR","Liabilities, b.IDR","Equity, b.IDR","Sales, b.IDR","EBT, b.IDR",Profit for the Period,Profit attr.to owner's,"EPS, IDR","Book Value, IDR","P/E Ratio, x","Price to BV, x","D/E Ratio, x","ROA, %","ROE, %","NPM, %",Harga Saham
+1.00,Energy,A121,Coal Production,ADMR,Adaro Minerals Indonesia Tbk,S,06/30/2022,Dec,LR,,16960.16,10885.54,6074.62,6483.46,3926.35,3037.55,3006.19,115.51,148.59,15.8,12.11,1.79,28,78,73,1799.4249
+2.00,Energy,A121,Coal Production,ADRO,Adaro Energy Indonesia Tbk,S,06/30/2022,Dec,LR,,130793.6,48844.18,81949.41,52702.34,30378.02,20022.27,18046.78,563.32,2562.04,6.28,1.38,0.6,22,35,55,3535.6152
+3.00,Energy,A121,Coal Production,AIMS,Akbar Indo Makmur Stimec Tbk,S,06/30/2022,Dec,U,,34.62,16.73,17.88,20.46,2.49,2.49,2.49,20.9,81.28,11.87,2.98,0.94,13,26,22,242.2144
+4.00,Energy,A112,Oil & Gas Storage & Distribution,AKRA,AKR Corporindo Tbk,S,06/30/2022,Dec,U,,27834.66,15843.1,11991.55,22109.45,1175.72,927.41,955.46,75.56,597.38,17.8,2.26,1.32,5,13,7,1350.0788
+5.00,Energy,A131,Oil & Gas Drilling Service,APEX,Apexindo Pratama Duta Tbk,S,06/30/2022,Dec,U,,5279.11,3295.42,1983.69,695.5,44.06,31.95,31.95,20.53,709.27,17.92,0.49,1.66,1,3,8,347.5423
+6.00,Energy,A121,Coal Production,ARII,Atlas Resources Tbk,S,06/30/2022,Dec,U,,5263.5,4411.02,852.47,1371.76,296.49,254.57,219.2,15.05,272.27,14.36,0.79,5.17,4,28,17,215.0933
+7.00,Energy,A132,"Oil, Gas & Coal Equipment & Services",ARTI,Ratu Prabu Energi Tbk,S,03/31/2022,Dec,U,,637.2,741.61,-104.41,1.52,-6.55,-6.04,-5.99,-14.02,-13.32,-3.57,-3.75,-7.1,-17,0,-7227,49.95
+8.00,Energy,A122,Coal Distribution,BBRM,Pelayaran Nasional Bina Buana Raya Tbk,S,06/30/2022,Dec,U,,532.81,162.08,370.73,63.61,-2.37,-3.17,-3.17,0.58,43.72,85.9,1.14,0.44,1,1,8,49.8408
+9.00,Energy,A122,Coal Distribution,BESS,Batulicin Nusantara Maritim Tbk,S,06/30/2022,Dec,U,,724.35,262.85,461.49,211.26,30.53,28.94,28.94,21.8,134.43,9.36,1.47,0.57,10,16,35,197.6121
+10.00,Energy,A111,Oil & Gas Production & Refinery,BIPI,Astrindo Nusantara Infrastruktur Tbk,S,06/30/2022,Dec,LR,,13716.73,7862.12,5854.61,201.15,52.42,34.49,17.2,2.25,101.08,63.69,1.4,1.34,1,2,65,141.512
+11.00,Energy,A121,Coal Production,BOSS,Borneo Olah Sarana Sukses Tbk,S,06/30/2022,Dec,U,,674.12,732.14,-58.03,192.15,19.99,19.99,19.99,-61.87,-41.45,-1.33,-2,-12.62,-13,0,-45,82.9
+12.00,Energy,A122,Coal Distribution,BSML,Bintang Samudera Mandiri Lines Tbk,S,06/30/2022,Dec,U,,262.78,160.55,102.23,110.55,8.96,7.68,7.67,5.33,55.25,169.8,16.29,1.57,4,10,9,900.0225
+13.00,Energy,A121,Coal Production,BSSR,Baramulti Suksessarana Tbk,S,06/30/2022,Dec,LR,,6252.87,1695.28,4557.59,6329.14,2463.05,1912.9,1912.89,1631.56,1741.87,2.66,2.49,0.37,68,94,67,4337.2563
+14.00,Energy,A112,Oil & Gas Storage & Distribution,BULL,Buana Lintas Lautan Tbk,S,03/31/2022,Dec,U,,7087.48,5624.24,1463.24,390.9,-221.53,-222.56,-222.03,-230.38,103.64,-0.73,1.63,3.84,-46,-222,-832,168.9332
+15.00,Energy,A121,Coal Production,BUMI,Bumi Resources Tbk,S,06/30/2022,Dec,A,WTP,66384.23,53175.18,13209.06,14416.03,3888.65,2655.57,2495.31,22.77,94.33,7.38,1.78,4.03,7,37,34,167.9074
+16.00,Energy,A121,Coal Production,BYAN,Bayan Resources Tbk,S,06/30/2022,Dec,U,,37285.63,10206.8,27078.83,29838.67,19252,15000.92,14446.84,8055.12,8123.65,8.21,8.25,0.38,72,99,90,67020.1125
+17.00,Energy,A122,Coal Distribution,CANI,Capitol Nusantara Indonesia Tbk,S,03/31/2022,Jun,U,,317.76,700.73,-382.97,31.11,-33.16,-33.3,-33.3,-35.45,-459.5,-2.71,-0.21,-1.83,-9,0,-95,96.495
+18.00,Energy,A122,Coal Distribution,CNKO,Exploitasi Energi Indonesia Tbk,S,06/30/2022,Dec,U,,1312.25,2562.49,-1250.24,748.94,-25.59,-25.23,-25.02,-4.57,-139.59,-10.93,-0.36,-2.05,-3,0,-5,50.2524
+19.00,Energy,A121,Coal Production,COAL,PT Black Diamond Resources Tbk,S,06/30/2022,Dec,A,WTP,412.42,251.68,160.74,367.07,106.76,83.38,82.4,16.45,25.72,24.92,17.11,1.57,25,64,28,440.0692
+20.00,Energy,A132,"Oil, Gas & Coal Equipment & Services",DEWA,Darma Henwa Tbk,S,06/30/2022,Dec,U,,10017.38,6124.11,3893.28,2885.4,-113.3,-121.25,-121.29,-5.85,178.15,-10.26,0.33,1.57,-1,-3,-4,58.7895
+21.00,Energy,A132,"Oil, Gas & Coal Equipment & Services",DOID,Delta Dunia Makmur Tbk,S,06/30/2022,Dec,U,,23722.94,20089.29,3633.64,10757.85,129.35,84.18,84.18,42.83,421.48,9.15,0.93,5.53,2,16,5,391.9764
+22.00,Energy,A121,Coal Production,DSSA,Dian Swastatika Sentosa Tbk,S,06/30/2022,Dec,LR,,97070.65,54997.28,42073.37,38599.39,11202.65,7759.79,3744.15,6253.69,54601.57,6.08,0.7,1.31,5,11,12,38221.099
+23.00,Energy,A122,Coal Distribution,DWGL,Dwi Guna Laksana Tbk,S,06/30/2022,Dec,U,,1522.32,1349.09,173.23,1543.89,35.85,36.06,36.06,15.22,18.74,13.93,11.32,7.79,9,81,9,212.1368
+24.00,Energy,A131,Oil & Gas Drilling Service,ELSA,Elnusa Tbk,S,06/30/2022,Dec,U,,8301.3,4269.92,4031.38,5420.54,281.54,226.33,226.33,40.41,552.36,7.77,0.56,1.06,4,7,5,309.3216
+25.00,Energy,A111,Oil & Gas Production & Refinery,ENRG,Energi Mega Persada Tbk,S,06/30/2022,Dec,U,,17862.27,10800.84,7061.44,3425.68,1108.16,384.32,384.53,25.48,284.49,10.2,0.91,1.53,4,11,23,258.8859
+26.00,Energy,A122,Coal Distribution,FIRE,Alfa Energi Investama Tbk,S,06/30/2022,Dec,U,,500.74,208.77,291.97,81.32,-20.39,-15.61,-15.6,-47.78,197.9,-6.78,1.38,0.72,-14,-24,-87,273.102
+27.00,Energy,A121,Coal Production,GEMS,Golden Energy Mines Tbk,S,06/30/2022,Dec,LR,,16068.17,8469.36,7598.81,19863.08,6571.34,5088.13,4999.19,1339.34,1291.8,5.32,5.48,1.11,49,104,40,7079.064
+28.00,Energy,A121,Coal Production,GTBO,Garda Tujuh Buana Tbk,S,09/30/2020,Dec,U,,826.76,201.74,625.02,0,-9.54,-9.54,-9.54,-0.35,250.01,0,0.3,0.32,0,0,0,75.003
+29.00,Energy,A112,Oil & Gas Storage & Distribution,GTSI,GTS Internasional Tbk,S,06/30/2022,Dec,U,,1869.36,1111.11,758.25,314.63,64.68,62.19,44.83,-10.01,47.93,-6.3,1.31,1.47,-8,-21,-50,62.7883
+30.00,Energy,A112,Oil & Gas Storage & Distribution,HITS,Humpuss Intermoda Transportasi Tbk,S,06/30/2022,Dec,U,,3413.26,2376.24,1037.02,804.87,127.25,112.21,94.85,-19.78,146.04,-28.82,3.9,2.29,-3,-9,-12,569.556
+31.00,Energy,A121,Coal Production,HRUM,Harum Energy Tbk,S,06/30/2022,Dec,U,,16052.36,3228.06,12824.3,5617.32,3388.53,2733.84,2172.58,227.83,948.68,7.83,1.88,0.25,19,24,55,1783.5184
+32.00,Energy,A121,Coal Production,INDY,Indika Energy Tbk,S,06/30/2022,Dec,U,,59076.66,41714.98,17361.68,28856.01,6751.72,3401.12,2986.09,697.69,3332.25,4.11,0.86,2.4,6,21,13,2865.735
+33.00,Energy,A112,Oil & Gas Storage & Distribution,INPS,Indah Prakasa Sentosa Tbk,S,06/30/2022,Dec,U,,360.33,272.44,87.89,136.48,-5.84,-5.84,-5.88,-51.69,135.21,-18.96,7.25,3.1,-9,-38,-25,980.2725
+34.00,Energy,A132,"Oil, Gas & Coal Equipment & Services",ITMA,SUMBER ENERGI ANDALAN Tbk,S,06/30/2022,Dec,U,,3148.25,155.96,2992.3,1.51,428.91,428.91,428.96,203.41,3436.65,4.4,0.26,0.05,17,18,35165,893.529
+35.00,Energy,A121,Coal Production,ITMG,Indo Tambangraya Megah Tbk,S,06/30/2022,Dec,LR,,29373.5,7319.52,22053.98,21155.37,8882.53,6855.87,6858,10561.25,19518.09,3.72,2.01,0.33,41,54,56,39231.3609
+36.00,Energy,A121,Coal Production,KKGI,Resource Alam Indonesia Tbk,S,06/30/2022,Dec,U,,2270.65,643.25,1627.4,1635.95,426.42,299.1,297.25,113.86,325.48,5.31,1.89,0.4,25,35,35,615.1572
+37.00,Energy,A112,Oil & Gas Storage & Distribution,KOPI,Mitra Energi Persada Tbk,S,06/30/2022,Dec,U,,148.45,54.55,93.9,90.59,6.56,4.27,4.22,8.07,134.66,64.43,3.86,0.58,4,6,6,519.7876
+38.00,Energy,A112,Oil & Gas Storage & Distribution,LEAD,Logindo Samudramakmur Tbk,S,06/30/2022,Dec,U,,2008.25,1529.89,478.36,195.85,-43.22,-45.42,-45.4,-11.81,118.12,-7.88,0.77,3.2,-2,-10,-24,90.9524
+39.00,Energy,A121,Coal Production,MBAP,Mitrabara Adiperdana Tbk,S,06/30/2022,Dec,U,,4820.4,844.21,3976.19,3694.01,2134.97,1662.13,1662.13,1517.1,3239.86,5.34,2.5,0.21,55,67,72,8099.65
+40.00,Energy,A122,Coal Distribution,MBSS,Mitrabahtera Segara Sejati Tbk,S,06/30/2022,Dec,U,,2849.25,309.54,2539.7,574.42,74.88,74.88,69.83,133.11,1451.24,7.74,0.71,0.12,8,9,41,1030.3804
+41.00,Energy,A121,Coal Production,MCOL,Prima Andalan Mandiri Tbk,S,06/30/2022,Dec,U,,9693.09,2562.85,7130.24,7365.91,3609.03,2842.32,2807.07,1375.32,2005.38,5.13,3.52,0.36,0,0,0,7058.9376
+42.00,Energy,A111,Oil & Gas Production & Refinery,MEDC,Medco Energi Internasional Tbk,S,06/30/2022,Dec,U,,103810.71,81688.91,22121.8,17075.7,7861.14,4185.82,4019.73,159.72,880.08,5.82,1.04,3.69,4,18,24,915.2832
+43.00,Energy,A111,Oil & Gas Production & Refinery,MITI,Mitra Investindo Tbk,S,06/30/2022,Dec,U,,168.7,28.19,140.51,35.42,4.11,3.66,3.93,4.5,57.52,34.45,2.69,0.2,7,8,31,154.7288
+44.00,Energy,A112,Oil & Gas Storage & Distribution,MTFN,Capitalinc Investment Tbk,S,06/30/2022,Dec,U,,773.46,812.24,-38.77,194.41,-4.82,-7.01,-6.73,-0.12,-1.22,-420.95,-41.06,-20.95,0,0,-2,50.0932
+45.00,Energy,A132,"Oil, Gas & Coal Equipment & Services",MYOH,Samindo Resources Tbk,S,06/30/2022,Dec,LR,,2432.31,305.13,2127.18,1049.12,154.4,117.53,117.29,135.64,964.14,11.39,1.62,0.14,12,14,29,1561.9068
+46.00,Energy,A112,Oil & Gas Storage & Distribution,PGAS,Perusahaan Gas Negara Tbk,S,06/30/2022,Dec,LR,,107685.07,58059.45,49625.62,25897.3,5499.01,4142.29,3550.26,207.41,2047.13,8.37,0.86,1.17,5,10,19,1760.5318
+47.00,Energy,A132,"Oil, Gas & Coal Equipment & Services",PKPK,Perdana Karya Perkasa Tbk,S,06/30/2022,Dec,A,WTP,55.72,38.2,17.52,11,-6.28,-22.54,-22.54,-1.46,29.2,-161.32,8.08,2.18,-41,-132,-210,235.936
+48.00,Energy,A122,Coal Distribution,PSSI,Pelita Samudera Shipping Tbk,S,06/30/2022,Dec,U,,2490.07,668.87,1821.2,836.27,312.37,280.61,279.13,85.12,336.2,7.7,1.95,0.37,21,29,63,655.59
+49.00,Energy,A121,Coal Production,PTBA,Bukit Asam Tbk,S,06/30/2022,Dec,LR,,35913,13208.42,22704.59,18423.06,7824.89,6275.84,6156.73,840.58,1970.77,5.06,2.16,0.58,34,54,67,4256.8632
+50.00,Energy,A122,Coal Distribution,PTIS,Indo Straits Tbk,S,06/30/2022,Dec,U,,596.58,342.79,253.79,139.25,3.46,3.46,3.46,4.98,461.3,34.53,0.37,1.35,1,2,4,170.681
+51.00,Energy,A132,"Oil, Gas & Coal Equipment & Services",PTRO,Petrosea Tbk,S,06/30/2022,Dec,U,,8385.04,4367.44,4017.6,3071.66,185.09,162.08,160.26,466.29,3983.33,6.63,0.78,1.09,6,12,15,3106.9974
+52.00,Energy,A112,Oil & Gas Storage & Distribution,RAJA,Rukun Raharja Tbk,S,06/30/2022,Dec,U,,3685.94,1787.18,1898.76,834.73,65.76,50.29,41.85,16.61,449.19,68.05,2.32,0.94,2,4,8,1042.1208
+53.00,Energy,A122,Coal Distribution,RIGS,Rig Tenders Indonesia Tbk,S,03/31/2022,Jun,,,620.09,33.95,586.14,230.93,24.15,24.15,24.15,-15.84,962.26,-35.66,0.62,0.06,-2,-2,-4,596.6012
+54.00,Energy,A122,Coal Distribution,RMKE,RMK Energy Tbk,S,06/30/2022,Dec,U,,1496.63,539.23,957.4,1071.74,195.74,154.69,141.8,69,218.83,11.74,3.7,0.56,20,32,28,809.671
+55.00,Energy,A132,"Oil, Gas & Coal Equipment & Services",RUIS,Radiant Utama Interinsco Tbk,S,06/30/2022,Dec,U,,1357.48,852.09,505.4,824.73,24.59,15.72,15.72,29.93,656.36,6.88,0.31,1.69,2,5,3,203.4716
+56.00,Energy,A122,Coal Distribution,SGER,Sumber Global Energy Tbk,S,06/30/2022,Dec,U,,1826.01,914.82,911.19,3553.57,602.49,472.95,476.18,173.38,244.46,4.44,3.03,1,35,71,18,740.7138
+57.00,Energy,A112,Oil & Gas Storage & Distribution,SHIP,Sillo Maritime Perdana Tbk,S,06/30/2022,Dec,U,,4902.65,2501.08,2401.56,801.08,181.3,157.31,104.79,65.29,883,15.01,1.12,1.04,4,7,22,988.96
+58.00,Energy,A132,"Oil, Gas & Coal Equipment & Services",SICO,PT Sigma Energy Compressindo Tbk,S,06/30/2022,Dec,LR,,117.8,14.38,103.42,35.09,5.5,4.33,4.32,0,113.64,0,1.58,0.14,0,0,0,179.5512
+59.00,Energy,A121,Coal Production,SMMT,Golden Eagle Energy Tbk,S,06/30/2022,Dec,U,,1240.35,216.32,1024.02,474.69,239.66,206.18,189,120.11,325.09,6.12,2.26,0.21,31,37,80,734.7034
+60.00,Energy,A132,"Oil, Gas & Coal Equipment & Services",SMRU,SMR Utama Tbk,S,06/30/2022,Dec,U,,964.6,807.86,156.74,248.73,-61.54,-55.23,-55.22,-19.83,12.54,-2.52,3.99,5.15,-29,-178,-112,50.0346
+61.00,Energy,A112,Oil & Gas Storage & Distribution,SOCI,Soechi Lines Tbk,S,06/30/2022,Dec,U,,9480.64,3934.58,5546.06,981.3,97.3,77.76,77.66,11.67,785.67,16.45,0.24,0.71,1,1,8,188.5608
+62.00,Energy,A111,Oil & Gas Production & Refinery,SUGI,Sugih Energy Tbk,S,09/30/2018,Dec,U,,7200.64,4903.19,2297.45,12.34,-22.65,-20.46,-20.46,-10.48,92.6,0,0.54,2.13,-4,-11,-2109,50.004
+63.00,Energy,A111,Oil & Gas Production & Refinery,SURE,Super Energy Tbk,S,06/30/2022,Dec,U,,975.93,476.8,499.13,186.88,-42.92,-35.66,-29.21,-37.49,333.29,-48.01,5.4,0.96,-6,-11,-30,1799.766
+64.00,Energy,A132,"Oil, Gas & Coal Equipment & Services",TAMU,PT Pelayaran Tamarin Samudra Tbk.,S,06/30/2022,Dec,U,,1032.75,521.71,511.03,90.97,-21.43,-21.59,-17.27,-2.2,13.63,-22.73,3.67,1.02,-5,-11,-62,50.0221
+65.00,Energy,A122,Coal Distribution,TCPI,Transcoal Pacific Tbk,S,06/30/2022,Dec,U,,2830.64,1225.41,1605.24,872.93,78.85,64.96,61.65,18.88,321.05,439.71,25.85,0.76,4,7,12,8299.1425
+66.00,Energy,A122,Coal Distribution,TEBE,Dana Brata Luhur Tbk,S,06/30/2022,Dec,U,,1080.47,221.06,859.41,276.9,134.16,103.86,103.1,176.86,668.8,4.81,1.27,0.26,21,26,82,849.376
+67.00,Energy,A121,Coal Production,TOBA,TBS Energi Utama Tbk,S,06/30/2022,Dec,U,,13122.61,7247.52,5875.09,4159.89,924.89,761.5,515.32,85.67,729.83,9.75,1.14,1.23,7,15,21,832.0062
+68.00,Energy,A122,Coal Distribution,TPMA,Trans Power Marine Tbk,S,06/30/2022,Dec,U,,1566.45,362.54,1203.91,427.96,93.35,88.21,88.21,42.85,457.19,8.31,0.78,0.3,7,9,26,356.6082
+69.00,Energy,A121,Coal Production,TRAM,Trada Alam Minera Tbk,S,12/31/2019,Dec,A,WDP,6445.85,3998.4,2447.45,4352.83,-2812.5,-2866.22,-2895.77,-58.33,49.3,0,1.01,1.63,-45,-118,-67,49.793
+70.00,Energy,A132,"Oil, Gas & Coal Equipment & Services",UNIQ,PT Ulima Nitra Tbk,S,06/30/2022,Dec,U,,509.46,182.41,327.05,159.15,-12.62,-10,-10,4.83,104.19,11.38,0.53,0.56,0,0,0,55.2207
+71.00,Energy,A132,"Oil, Gas & Coal Equipment & Services",WINS,Wintermar Offshore Marine Tbk,S,06/30/2022,Dec,U,,2880.65,624.86,2255.79,373.02,-21.63,-25.56,-15.11,-4.25,518.96,-42.08,0.34,0.28,0,0,-1,176.4464
+72.00,Energy,A132,"Oil, Gas & Coal Equipment & Services",WOWS,PT Ginting Jaya Energi Tbk,S,06/30/2022,Dec,U,,682.23,146.58,535.65,39.42,-24.73,-24.73,-24.73,-19.79,216.36,-2.53,0.23,0.27,-9,-12,-156,49.7628
+73.00,Energy,A221,Alternative Fuels,ETWA,Eterindo Wahanatama Tbk,S,06/30/2022,Dec,U,,1030.75,1206.08,-175.33,32.13,-60.51,-60.51,-60.42,-33.57,-37.55,-2.29,-2.05,-6.88,-15,0,-488,76.9775
+74.00,Energy,A211,Alternative Energy Equipment,JSKY,Sky Energy Indonesia Tbk,S,12/31/2021,Dec,A,WTP,387.39,226.76,160.64,148.29,-82.84,-72.77,-72.77,-35.8,79.03,-1.45,0.66,1.41,-19,-45,-49,52.1598
+75.00,Energy,A211,Alternative Energy Equipment,SEMA,Semacom Integrated Tbk,S,06/30/2022,Dec,U,,224.17,88.53,135.64,60.15,4.43,2.69,3.52,13.14,100.69,11.57,1.51,0.65,0,0,0,152.0419
+76.00,Basic Materials,B111,Basic Chemicals,ADMG,Polychem Indonesia Tbk,S,06/30/2022,Dec,U,,2933.64,571.49,2362.15,1314.9,-186.17,-190.05,-189.98,-64.54,607.37,-2.56,0.27,0.24,-9,-11,-19,163.9899
+77.00,Basic Materials,B111,Basic Chemicals,AGII,Aneka Gas Industri Tbk,S,06/30/2022,Dec,U,,8095.24,4482.98,3612.26,1266.38,76.49,53.84,50.61,52.14,1177.91,40.08,1.77,1.24,2,4,13,2084.9007
+78.00,Basic Materials,B113,Specialty Chemicals,AKPI,Argha Karya Prima Industry Tbk,S,06/30/2022,Dec,U,,3643.12,1969.05,1674.06,1670.56,253.86,193.05,193.05,406.94,2734.29,3.76,0.56,1.18,9,19,19,1531.2024
+79.00,Basic Materials,B131,Containers & Packaging,ALDO,Alkindo Naratama Tbk,S,06/30/2022,Dec,U,,1431.87,692.63,739.25,767.22,51.03,39.64,39.31,64.63,561.37,10.83,1.25,0.94,6,12,11,701.7125
+80.00,Basic Materials,B141,Aluminum,ALKA,Alakasa Industrindo Tbk,S,06/30/2022,Dec,U,,422.53,287.54,134.99,1979.35,1.4,1.18,1.18,37.91,265.91,7.65,1.09,2.13,4,11,1,289.8419
+81.00,Basic Materials,B141,Aluminum,ALMI,Alumindo Light Metal Industry Tbk,S,06/30/2022,Dec,U,,1487.8,904.07,583.73,775.93,47.7,37.21,37.21,17.3,152.97,22.89,2.56,1.55,4,11,9,391.6032
+82.00,Basic Materials,B146,Diversified Metals & Minerals,ANTM,Aneka Tambang Tbk,S,06/30/2022,Dec,LR,,32256.48,10784.54,21471.94,18772.86,2213.45,1525.9,1525.9,92.68,893.52,20.39,2.17,0.5,7,10,12,1938.9384
+83.00,Basic Materials,B113,Specialty Chemicals,APLI,Asiaplast Industries Tbk,S,06/30/2022,Dec,U,,464.08,218.29,245.79,251.27,20.5,14.06,14.06,22.32,180.38,9.05,1.2,0.89,7,12,12,216.456
+84.00,Basic Materials,B143,Gold,ARCI,Archi Indonesia Tbk,S,06/30/2022,Dec,U,,10576.76,6902.96,3673.8,1780.33,349.33,209.27,210.6,32.6,147.93,10.37,2.27,1.88,8,22,45,335.8011
+85.00,Basic Materials,B113,Specialty Chemicals,AVIA,Avia Avian Tbk,S,06/30/2022,Dec,U,,10607.26,1160.55,9446.71,3379.34,945.91,777.01,777.11,24.06,152.48,34.28,5.21,0.12,14,16,44,794.4208
+86.00,Basic Materials,B121,Construction Materials,AYLS,Agro Yasa Lestari Tbk,S,06/30/2022,Dec,U,,50.04,1.72,48.32,4.37,-0.39,-0.39,-0.39,-2.01,56.62,-40.71,1.4,0.04,-3,-4,-39,79.268
+87.00,Basic Materials,B144,Iron & Steel,BAJA,Saranacentral Bajatama Tbk,S,06/30/2022,Dec,U,,766.53,578.28,188.25,584.5,-33.85,-26.3,-26.3,18.87,104.58,9.54,1.72,3.07,-2,-9,-3,179.8776
+88.00,Basic Materials,B121,Construction Materials,BEBS,Berkah Beton Sadaya Tbk,S,06/30/2022,Dec,U,,813.47,82.52,730.95,345.8,104.63,82.22,82.2,16.91,81.22,270.28,56.27,0.11,19,21,44,4570.2494
+89.00,Basic Materials,B111,Basic Chemicals,BMSR,Bintang Mitra Semestaraya Tbk,S,06/30/2022,Dec,U,,1455.18,957.2,497.98,2465.4,239.06,191.49,192.05,302.22,429.59,2.76,1.89,1.92,24,70,14,811.9251
+90.00,Basic Materials,B146,Diversified Metals & Minerals,BRMS,Bumi Resources Minerals Tbk,S,06/30/2022,Dec,A,WTP,15567.74,1508.02,14059.72,82.44,34.71,58.2,56.84,6.9,99.16,20.14,1.41,0.11,6,7,1187,139.8156
+91.00,Basic Materials,B131,Containers & Packaging,BRNA,Berlina Tbk,S,06/30/2022,Dec,U,,1963.19,1156.07,807.12,545.09,-77.68,-42.48,-46.69,-178.19,824.34,-6.9,1.49,1.43,-9,-22,-32,1228.2666
+92.00,Basic Materials,B111,Basic Chemicals,BRPT,Barito Pacific Tbk,S,03/31/2022,Dec,U,,133730.76,71452.62,62278.14,11678.57,846.52,436.21,134.27,10.98,664.32,74.69,1.23,1.15,1,2,9,817.1136
+93.00,Basic Materials,B144,Iron & Steel,BTON,Betonjaya Manunggal Tbk,S,06/30/2022,Dec,U,,308.9,96.51,212.39,68.99,16.12,14.91,14.91,18.76,294.99,20.78,1.32,0.45,4,6,20,389.3868
+94.00,Basic Materials,B111,Basic Chemicals,CHEM,PT Chemstar Indonesia Tbk,S,06/30/2022,Dec,U,,102.55,54.6,47.94,64.25,7.57,5.84,5.84,9.01,28.2,11.32,3.65,1.14,15,32,24,102.93
+95.00,Basic Materials,B141,Aluminum,CITA,Cita Mineral Investindo Tbk,S,06/30/2022,Dec,U,,4951.27,1027.63,3923.64,2646.25,470.45,431.5,431.5,175.24,990.73,16.43,2.97,0.26,14,18,26,2942.4681
+96.00,Basic Materials,B113,Specialty Chemicals,CLPI,Colorpak Indonesia Tbk,S,06/30/2022,Dec,U,,775.98,283.24,492.75,437.07,10.44,8.21,8.2,102.24,1608.51,9.15,0.57,0.57,4,6,7,916.8507
+97.00,Basic Materials,B121,Construction Materials,CMNT,Cemindo Gemilang Tbk,S,06/30/2022,Dec,U,,18949.57,14806.02,4143.56,4464.21,125.59,59.02,50.08,10.85,241.95,93.97,4.22,3.57,1,3,2,1021.029
+98.00,Basic Materials,B144,Iron & Steel,CTBN,Citra Tubindo Tbk,S,06/30/2022,Dec,U,,2137.6,828.28,1309.32,905.57,-13.5,-21.75,-21.78,-271.67,1635.89,-5.65,0.93,0.63,-10,-17,-24,1521.3777
+99.00,Basic Materials,B146,Diversified Metals & Minerals,DKFT,Central Omega Resources Tbk,S,06/30/2022,Dec,U,,2287.68,1914.13,373.55,335.04,25.09,13.07,59.32,-22.91,66.25,-5.24,1.83,5.12,-6,-35,-39,121.2375
+100.00,Basic Materials,B113,Specialty Chemicals,DPNS,Duta Pertiwi Nusantara Tbk,S,06/30/2022,Dec,U,,368.64,54.93,313.71,98.49,18.3,13.92,14.61,80.56,947.4,4.84,0.41,0.18,7,9,27,388.434
+101.00,Basic Materials,B113,Specialty Chemicals,EKAD,Ekadharma International Tbk,S,06/30/2022,Dec,U,,1195.75,116.51,1079.24,311.71,57.91,47.53,45.72,27.56,308.89,10.38,0.92,0.11,8,9,31,284.1788
+102.00,Basic Materials,B131,Containers & Packaging,EPAC,Megalestari Epack Sentosaraya Tbk,S,06/30/2022,Dec,U,,363.23,186.92,176.31,56.9,-4.92,-5.61,-7.06,-0.41,53.37,-123.33,0.94,1.06,-2,-5,-15,50.1678
+103.00,Basic Materials,B131,Containers & Packaging,ESIP,Sinergi Inti Plastindo Tbk,S,06/30/2022,Dec,U,,100.13,3.93,96.2,33.05,1.84,1.82,1.82,2.04,86.67,36.75,0.87,0.04,2,2,7,75.4029
+104.00,Basic Materials,B111,Basic Chemicals,ESSA,Surya Esa Perkasa Tbk,S,06/30/2022,Dec,U,,13023.78,6944.01,6079.77,5222.75,1945.64,1564.04,995.68,86.27,388.21,12.93,2.87,1.14,10,22,26,1114.1627
+105.00,Basic Materials,B131,Containers & Packaging,FASW,Fajar Surya Wisesa Tbk,S,06/30/2022,Dec,U,,13850,8746.04,5103.96,6327.66,396.5,302.14,302.14,234.39,2059.8,26.67,3.03,1.71,4,11,9,6241.194
+106.00,Basic Materials,B111,Basic Chemicals,FPNI,Lotte Chemical Titan Tbk,S,06/30/2022,Dec,U,,2777.7,1201.23,1576.47,3729.77,20.69,19.33,19.3,4.87,283.21,55.39,1.02,0.76,1,2,1,288.8742
+107.00,Basic Materials,B144,Iron & Steel,GDST,Gunawan Dianjaya Steel Tbk,S,06/30/2022,Dec,U,,1879.31,954.66,924.66,1228.4,170.31,134.4,134.4,7.05,100.04,20.14,1.42,1.03,3,7,5,142.0568
+108.00,Basic Materials,B144,Iron & Steel,GGRP,Gunung Raja Paksi Tbk,S,06/30/2022,Dec,A,WTP,17742.17,6196.42,11545.75,6797.84,533.57,413.61,413.61,79.9,953.3,6.88,0.59,0.54,5,8,14,562.447
+109.00,Basic Materials,B141,Aluminum,HKMU,HK Metals Utama Tbk,S,06/30/2022,Dec,U,,674.93,493.2,181.73,173.92,-47.85,-43.46,-41.95,-74.53,56.41,-0.67,0.89,2.71,-39,-144,-151,50.2049
+110.00,Basic Materials,B151,Timber,IFII,Indonesia Fibreboard Industry Tbk,S,06/30/2022,Dec,U,,1475.02,347.44,1127.58,407.5,56.84,44.21,44.21,10.17,119.8,15.74,1.42,0.31,6,8,23,170.116
+111.00,Basic Materials,B146,Diversified Metals & Minerals,IFSH,Ifishdeco Tbk,S,06/30/2022,Dec,U,,993.64,323.93,669.71,458.15,61.98,44.22,44.22,79.76,315.16,13.98,3.47,0.48,17,25,37,1093.6052
+112.00,Basic Materials,B131,Containers & Packaging,IGAR,Champion Pacific Indonesia Tbk,S,06/30/2022,Dec,U,,865.24,128.83,736.41,538.02,68.85,53.45,37.66,80.73,757.46,5.9,0.63,0.17,9,11,15,477.1998
+113.00,Basic Materials,B141,Aluminum,INAI,Indal Aluminium Industry Tbk,S,06/30/2022,Dec,U,,1558,1163.83,394.17,783.81,11.19,0.6,0.6,45.12,622.11,6.69,0.49,2.95,2,9,4,304.8339
+114.00,Basic Materials,B111,Basic Chemicals,INCI,Intanwijaya Internasional Tbk,S,06/30/2022,Dec,U,,519.98,123.11,396.87,272.24,20.12,15.81,15.81,84.16,2023.6,8.32,0.35,0.31,5,6,9,708.26
+115.00,Basic Materials,B146,Diversified Metals & Minerals,INCO,Vale Indonesia Tbk,S,06/30/2022,Dec,U,,38949.39,4647.63,34301.76,8401.42,2906.9,2239.07,2239.07,377.4,3452.15,16.36,1.85,0.14,10,11,45,6386.4775
+116.00,Basic Materials,B152,Paper,INKP,Indah Kiat Pulp & Paper Tbk,S,06/30/2022,Dec,U,,137846.79,61419.35,76427.43,28886.75,7205.22,5881.8,5882.39,1697.93,13969.6,5.45,0.65,0.8,7,12,32,9080.24
+117.00,Basic Materials,B152,Paper,INRU,Toba Pulp Lestari Tbk,S,06/30/2022,Dec,U,,7112.27,4734.4,2377.88,1184.99,86.3,65.3,65.3,19.21,1712.08,38.01,0.39,1.99,0,1,2,667.7112
+118.00,Basic Materials,B152,Paper,INTD,Inter Delta Tbk,S,06/30/2022,Dec,U,,44.37,6.03,38.34,21.46,-0.62,-0.65,-0.65,2.43,64.78,81.38,3.06,0.16,3,4,7,198.2268
+119.00,Basic Materials,B121,Construction Materials,INTP,Indocement Tunggal Prakarsa Tbk,S,06/30/2022,Dec,U,,23454.8,5132.17,18322.63,6911.08,367.68,291.55,291.55,405.7,4977.31,23.29,1.9,0.28,6,8,22,9456.889
+120.00,Basic Materials,B131,Containers & Packaging,IPOL,Indopoly Swakarsa Industry Tbk,S,06/30/2022,Dec,U,,4531.68,1837.88,2693.8,1768.12,61.49,47.96,42.78,19.55,418.07,8.03,0.38,0.68,2,4,6,158.8666
+121.00,Basic Materials,B144,Iron & Steel,ISSP,Steel Pipe Industry of Indonesia Tbk,S,06/30/2022,Dec,U,,7154.53,3240.2,3914.33,3172.82,245.09,190.8,190.8,58.82,544.72,5.1,0.55,0.83,6,11,13,299.596
+122.00,Basic Materials,B121,Construction Materials,JKSW,Jakarta Kyoei Steel Works Tbk,S,06/30/2022,Dec,U,,173.62,668.32,-494.71,0,0,2.22,2.22,7.12,-3298.04,8.42,-0.02,-1.35,2,0,0,65.9608
+123.00,Basic Materials,B151,Timber,KAYU,Darmi Bersaudara Tbk,S,06/30/2022,Dec,U,,107.26,28.14,79.12,10.58,0.7,0.53,0.53,0.45,118.98,111.01,0.42,0.36,0,0,3,49.9716
+124.00,Basic Materials,B152,Paper,KBRI,Kertas Basuki Rachmat Indonesia Tbk,S,09/30/2019,Dec,U,,1012.66,876.71,135.95,0.38,-26.15,-33.74,-33.74,-3.95,15.65,0,3.2,6.45,-3,-25,-8954,50.08
+125.00,Basic Materials,B131,Containers & Packaging,KDSI,Kedawung Setia Industrial Tbk,S,06/30/2022,Dec,U,,1509.71,801.08,708.64,1166.94,42.29,33.18,33.18,168.27,1749.72,6.06,0.58,1.13,4,8,5,1014.8376
+126.00,Basic Materials,B111,Basic Chemicals,KKES,PT Kusuma Kemindo Sentosa Tbk,S,12/31/2021,Dec,A,WTP,112.1,80.74,31.36,226.4,21.74,18.49,18.49,12.33,20.91,13.79,8.13,2.57,16,59,8,169.9983
+127.00,Basic Materials,B153,Diversified Forest,KMTR,PT Kirana Megatara Tbk.,S,06/30/2022,Dec,U,,5903.79,3902.1,2001.69,6791.46,50.36,29.95,31.46,7.69,243.65,35.35,1.12,1.95,1,3,1,272.888
+128.00,Basic Materials,B144,Iron & Steel,KRAS,Krakatau Steel (Persero) Tbk,S,06/30/2022,Dec,U,,57931.74,49189.52,8742.22,19918.31,1380.6,1170.47,1152.86,81.52,451.88,4.83,0.87,5.63,3,18,8,393.1356
+129.00,Basic Materials,B144,Iron & Steel,LMSH,Lionmesh Prima Tbk,S,06/30/2022,Dec,U,,151.96,35.54,116.43,84.72,0.95,0.86,0.86,20.83,1212.77,34.56,0.59,0.31,3,3,5,715.5343
+130.00,Basic Materials,B111,Basic Chemicals,LTLS,Lautan Luas Tbk,S,06/30/2022,Dec,U,,6285.46,3433.92,2851.54,4062.5,256.38,190.03,180.82,217.03,1827.91,6.27,0.74,1.2,6,13,9,1352.6534
+131.00,Basic Materials,B143,Gold,MDKA,Merdeka Copper Gold Tbk,S,06/30/2022,Dec,LR,,49090.34,21273.68,27816.66,5080.78,1914.45,1489.21,1440.44,77.59,1153.7,50.13,3.42,0.76,4,7,37,3945.654
+132.00,Basic Materials,B111,Basic Chemicals,MDKI,Emdeki Utama Tbk,S,06/30/2022,Dec,U,,1024.81,133.1,891.71,225.9,15.19,11.88,11.8,14.9,352.43,13.09,0.55,0.15,4,4,17,193.8365
+133.00,Basic Materials,B111,Basic Chemicals,MOLI,Madusari Murni Indah Tbk,S,06/30/2022,Dec,U,,2116.24,628.81,1487.43,712.2,-1.86,-4.83,-5.22,3.89,546.04,66.85,0.48,0.42,1,1,1,262.0992
+134.00,Basic Materials,B146,Diversified Metals & Minerals,NICL,PAM Mineral Tbk,S,06/30/2022,Dec,U,,553.47,152.31,401.16,552.45,54.05,54.05,53.88,6.42,41.52,15.73,2.43,0.38,13,18,13,100.8936
+135.00,Basic Materials,B146,Diversified Metals & Minerals,NIKL,Pelat Timah Nusantara Tbk,S,06/30/2022,Dec,U,,3066.49,2195.35,871.13,2032.71,108.54,85.11,85.11,52.34,345.23,14.81,2.22,2.52,4,15,6,766.4106
+136.00,Basic Materials,B112,Agricultural Chemicals,NPGF,Nusa Palapa Gemilang Tbk,S,06/30/2022,Dec,U,,386.7,178.52,208.18,98.19,-2.39,-2.39,-2.39,0.6,64.25,91.41,0.86,0.86,-1,-2,-4,55.255
+137.00,Basic Materials,B113,Specialty Chemicals,OBMD,OBM Drilchem Tbk,S,06/30/2022,Dec,LR,,113.95,11.18,102.77,55.11,16.97,13.23,13.23,21.39,129.35,19.92,3.54,0.11,15,17,31,457.899
+138.00,Basic Materials,B111,Basic Chemicals,OKAS,Ancora Indonesia Resources Tbk,S,06/30/2022,Dec,U,,2429.51,2364.16,65.35,1054.55,121.44,92.91,40.31,4.35,37,38.2,4.49,36.18,0,12,1,166.13
+139.00,Basic Materials,B144,Iron & Steel,OPMS,Optima Prima Metal Sinergi Tbk,S,06/30/2022,Dec,LR,,93.26,0.62,92.64,14.45,0.09,0.11,0.11,-0.6,92.64,-190.12,1.21,0.01,-1,-1,-4,112.0944
+140.00,Basic Materials,B131,Containers & Packaging,PBID,Panca Budi Idaman Tbk,S,06/30/2022,Dec,U,,2976.68,688.34,2288.34,2509.4,280.87,216.39,215.02,208.01,1220.45,8.1,1.38,0.3,13,17,16,1684.221
+141.00,Basic Materials,B131,Containers & Packaging,PICO,Pelangi Indah Canindo Tbk,S,06/30/2022,Dec,U,,1045.68,850.37,195.3,268.82,5.79,5.82,5.82,-23.39,343.62,-18.98,1.28,4.35,-1,-7,-5,439.8336
+142.00,Basic Materials,B153,Diversified Forest,PNGO,PT Pinago Utama Tbk,S,06/30/2022,Dec,U,,1580.05,899.46,680.59,1165.04,134.44,100.16,100,214.39,871.16,6.04,1.49,1.32,11,25,14,1298.0284
+143.00,Basic Materials,B143,Gold,PSAB,J Resources Asia Pasifik Tbk,S,06/30/2022,Dec,U,,12307.44,6367.41,5940.04,805.65,42.08,7.83,-32.05,-0.15,224.49,-775.79,0.52,1.07,0,0,0,116.7348
+144.00,Basic Materials,B146,Diversified Metals & Minerals,PURE,Trinitan Metals and Minerals Tbk,S,09/30/2021,Dec,U,,699.12,692.11,7.01,15.39,-74.96,-69.25,-69.25,-65.5,5.09,-0.78,10.01,98.79,-13,-1286,-585,50.9509
+145.00,Basic Materials,B112,Agricultural Chemicals,SAMF,Saraswanti Anugerah Makmur Tbk,S,06/30/2022,Dec,U,,2461.66,1543.53,918.13,1449.4,174.7,143.81,140.64,49.25,179.15,9.14,2.51,1.68,10,27,17,449.6665
+146.00,Basic Materials,B111,Basic Chemicals,SBMA,Surya Biru Murni Acetylene Tbk,S,06/30/2022,Dec,U,,255.51,44.88,210.63,45.98,5.08,4.1,4.1,11.82,226.5,19.96,1.08,0.21,4,5,24,244.62
+147.00,Basic Materials,B131,Containers & Packaging,SIMA,Siwani Makmur Tbk,S,09/30/2019,Dec,U,,259.71,261.72,-2,3.28,-17.21,-17.21,-17.21,-71.74,-4.53,0,-11.04,-130.53,-12,0,-968,50.0112
+148.00,Basic Materials,B121,Construction Materials,SMBR,Semen Baturaja (Persero) Tbk,S,06/30/2022,Dec,U,,5809.85,2327.83,3482.02,825.5,25.02,15.78,15.78,6.54,350.57,70.97,1.35,0.67,1,2,8,473.2695
+149.00,Basic Materials,B121,Construction Materials,SMCB,Solusi Bangun Indonesia Tbk,S,06/30/2022,Dec,U,,21871.64,10647.45,11224.19,5581.8,371.46,260.97,260.97,81.23,1244.45,18.16,1.19,0.95,3,7,13,1480.8955
+150.00,Basic Materials,B121,Construction Materials,SMGR,Semen Indonesia (Persero) Tbk,S,06/30/2022,Dec,A,WTP,73409.92,33375.88,40034.04,15876.16,1321.61,868.23,828.76,346.59,6749.37,21.49,1.11,0.83,3,5,13,7491.8007
+151.00,Basic Materials,B131,Containers & Packaging,SMKL,Satyamitra Kemas Lestari Tbk,S,06/30/2022,Dec,U,,2082.25,1203.01,879.24,1135.58,76.73,59.57,59.57,36.56,257.23,7.66,1.08,1.37,6,14,11,277.8084
+152.00,Basic Materials,B131,Containers & Packaging,SPMA,Suparma Tbk,S,06/30/2022,Dec,U,,3092.44,1161.34,1931.1,1543.1,148.12,115.57,115.57,107.44,612.25,4.84,0.85,0.6,11,18,22,520.4125
+153.00,Basic Materials,B143,Gold,SQMI,Wilton Makmur Indonesia Tbk,S,06/30/2022,Dec,U,,476.57,298.29,178.28,2.63,-13.77,-13.77,-13.57,-1.02,11.47,-73.37,6.54,1.67,-3,-9,-605,75.0138
+154.00,Basic Materials,B111,Basic Chemicals,SRSN,Indo Acidatama Tbk,S,06/30/2022,Dec,U,,844.5,239.06,605.45,412.54,-1.47,-3.16,-3.16,3.24,100.57,16.05,0.53,0.39,2,3,5,53.3021
+155.00,Basic Materials,B151,Timber,SULI,SLJ Global Tbk,S,06/30/2022,Dec,U,,1240.44,1461.09,-220.65,420.43,-6.56,-5.63,-5.58,23.73,-55.34,4.13,-1.77,-6.62,10,0,29,97.9518
+156.00,Basic Materials,B152,Paper,SWAT,Sriwahana Adityakarta Tbk,S,06/30/2022,Dec,U,,715.7,430.12,285.58,165.29,1.07,-0.82,-0.82,-23.81,94.59,-2.77,0.74,1.51,-10,-25,-43,69.9966
+157.00,Basic Materials,B131,Containers & Packaging,TALF,Tunas Alfin Tbk,S,06/30/2022,Dec,LR,,1664.16,596.57,1067.59,651.42,28,20.74,19.52,27.58,788.8,12.04,0.42,0.56,2,3,6,331.296
+158.00,Basic Materials,B142,Cooper,TBMS,Tembaga Mulia Semanan Tbk,S,06/30/2022,Dec,U,,2408.1,1502.37,905.73,5887.78,86.19,67.3,67.3,289.22,2465.64,5.64,0.66,1.66,5,13,2,1627.3224
+159.00,Basic Materials,B111,Basic Chemicals,TDPM,Tridomain Performance Materials Tbk,S,12/31/2020,Dec,A,WTP,4925.6,2745.85,2179.75,2804.19,-56.83,-48.73,-49.4,-4.71,207.89,0,0.57,1.26,-1,-2,-2,118.4973
+160.00,Basic Materials,B146,Diversified Metals & Minerals,TINS,Timah Tbk,S,06/30/2022,Dec,LR,,14375.64,7323.94,7051.69,7478.78,1405.33,1082.07,1082.04,283.95,946.82,4.82,1.41,1.04,15,30,28,1335.0162
+161.00,Basic Materials,B151,Timber,TIRT,Tirta Mahakam Resources Tbk,S,06/30/2022,Dec,U,,267.19,820.95,-553.76,0.85,-39.01,-39.01,-39.01,-64.34,-547.32,-0.92,-0.1,-1.48,-24,0,-7683,54.732
+162.00,Basic Materials,B152,Paper,TKIM,Pabrik Kertas Tjiwi Kimia Tbk,S,06/30/2022,Dec,U,,48764.85,20203.31,28561.53,8947.15,2579.18,2496.04,2496.04,1131.98,9174.26,5.99,0.74,0.71,9,15,48,6788.9524
+163.00,Basic Materials,B111,Basic Chemicals,TPIA,Chandra Asri Petrochemical Tbk,S,03/31/2022,Dec,U,,71331.56,29468.5,41863.06,9730.41,-217.74,-159.61,-161.3,9.01,483.9,270.73,5.04,0.7,1,2,8,2438.856
+164.00,Basic Materials,B131,Containers & Packaging,TRST,Trias Sentosa Tbk,S,06/30/2022,Dec,U,,5437.31,2817.81,2619.5,2028.83,117.59,112.65,98.87,56.89,932.87,13.01,0.79,1.08,3,6,8,736.9673
+165.00,Basic Materials,B111,Basic Chemicals,UNIC,Unggul Indah Cahaya Tbk,S,06/30/2022,Dec,U,,4971.78,1022.26,3949.52,3337.74,565.48,435.43,439.88,2198.91,10303.14,5.23,1.12,0.26,17,21,25,11539.5168
+166.00,Basic Materials,B121,Construction Materials,WSBP,Waskita Beton Precast Tbk,S,06/30/2022,Dec,A,WTP,6514.9,4021.49,2493.41,743.79,1427.73,1427.73,1427.73,-13.72,94.59,-6.93,1,1.61,-6,-15,-49,94.59
+167.00,Basic Materials,B121,Construction Materials,WTON,Wijaya Karya Beton Tbk,S,06/30/2022,Dec,U,,8442.36,4950.16,3492.19,1853.1,69.18,60.3,60.72,8.92,400.69,26.24,0.58,1.42,1,3,6,232.4002
+168.00,Basic Materials,B131,Containers & Packaging,YPAS,Yanaprima Hastapersada Tbk,S,06/30/2022,Dec,U,,289.93,176.45,113.48,171.04,-8.73,-8.63,-8.63,-25.91,169.88,-24.12,3.68,1.55,-6,-15,-10,625.1584
+169.00,Basic Materials,B146,Diversified Metals & Minerals,ZINC,Kapuas Prima Coal Tbk,S,06/30/2022,Dec,U,,2178.26,1262.72,915.54,411.35,46.42,28.27,32.83,0.91,36.26,77.16,1.96,1.38,1,3,6,71.0696
+170.00,Basic Materials,B153,Diversified Forest,BANK,PT Bank Net Indonesia Syariah Tbk,S,06/30/2022,Dec,U,,2797.67,52.72,2012.31,21.86,-80.78,-80.78,-80.78,-14.41,147.23,-114.87,11.58,0.03,-7,-10,-910,1704.9234
+171.00,Industrials,C121,Building Products & Fixtures,AMFG,Asahimas Flat Glass Tbk,S,06/30/2022,Dec,U,,7441.79,3772.49,3669.3,2687.44,299.19,351.65,351.65,1487.18,8454.61,3.38,0.58,1.03,9,18,24,4903.6738
+172.00,Industrials,C143,Industrial Machinery & Components,AMIN,PT Ateliers Mecaniques D Indonesie Tbk.,S,04/30/2022,Jan,U,,318.05,171.37,146.68,42.13,0.29,0.21,0.21,6.42,135.82,18.69,0.88,1.17,2,5,16,119.5216
+173.00,Industrials,C143,Industrial Machinery & Components,APII,PT Arita Prima Indonesia Tbk.,S,06/30/2022,Dec,U,,568.39,196.47,371.92,138.32,14.72,10.55,10.55,18.93,345.73,9.98,0.55,0.53,4,5,15,190.1515
+174.00,Industrials,C143,Industrial Machinery & Components,ARKA,PT Arkha Jayanti Persada Tbk.,S,06/30/2022,Dec,U,,463.51,361.38,102.13,85.58,7.15,7.15,7.15,5.09,51.07,9.82,0.98,3.54,2,10,12,50.0486
+175.00,Industrials,C121,Building Products & Fixtures,ARNA,Arwana Citramulia Tbk,S,06/30/2022,Dec,U,,2218.15,663.44,1554.71,1358.07,396.68,309.09,305.8,75.71,211.77,11.82,4.23,0.43,25,36,41,895.7871
+176.00,Industrials,C121,Building Products & Fixtures,CAKK,Cahayaputra Asa Keramik Tbk,S,06/30/2022,Dec,U,,427.68,183.43,244.24,135.82,4.85,3.8,3.8,11.2,202.98,18.92,1.04,0.75,3,6,10,211.0992
+177.00,Industrials,C131,Electrical Components & Equipment,CCSI,Communication Cable Systems Indonesia Tbk,S,06/30/2022,Dec,U,,638.34,258.83,379.5,307.83,34.92,27.02,27.02,33.24,316.25,19.55,2.06,0.68,6,11,13,651.475
+178.00,Industrials,C121,Building Products & Fixtures,CTTH,Citatah Tbk,S,06/30/2022,Dec,U,,694.83,498.19,196.64,54.89,-7.67,-7.67,-7.67,-9.08,159.76,-5.51,0.31,2.53,-2,-6,-20,49.5256
+179.00,Industrials,C143,Industrial Machinery & Components,GPSO,Geoprima Solusi Tbk,S,06/30/2022,Dec,U,,63.12,12.73,50.39,5.62,0.08,0.08,0.08,-5.27,75.58,-23.53,1.6,0.25,-6,-7,-63,120.928
+180.00,Industrials,C141,Construction Machinery & Heavy Vehicles,HEXA,Hexindo Adiperkasa Tbk,S,06/30/2022,Mar,U,,4597.41,2085.96,2511.45,1698.15,173.11,134.74,134.74,968.75,2989.82,6.53,2.12,0.83,18,32,48,6338.4184
+181.00,Industrials,C141,Construction Machinery & Heavy Vehicles,HOPE,Harapan Duta Pertiwi Tbk,S,06/30/2022,Dec,U,,184.07,62.66,121.42,34.02,0.33,0.36,0.36,-0.33,56.99,-208.3,1.21,0.52,0,-1,-2,68.9579
+182.00,Industrials,C131,Electrical Components & Equipment,IKBI,Sumi Indo Kabel Tbk,S,06/30/2022,Mar,U,,1651.59,652.15,999.44,744.57,0.33,0.17,0.17,6.25,816.53,34.91,0.27,0.65,0,0,0,220.4631
+183.00,Industrials,C121,Building Products & Fixtures,IMPC,Impack Pratama Industri Tbk,S,06/30/2022,Dec,U,,3060.57,1243.45,1817.12,1348.94,191.4,141.71,145.34,52.04,375.94,74.75,10.35,0.68,8,14,19,3890.979
+184.00,Industrials,C141,Construction Machinery & Heavy Vehicles,INTA,Intraco Penta Tbk,S,06/30/2022,Dec,U,,2405.97,4179.76,-1773.8,334.36,-41.26,-43.47,-40.16,-107.34,-530.45,-0.69,-0.14,-2.36,-15,0,-107,74.263
+185.00,Industrials,C131,Electrical Components & Equipment,JECC,Jembo Cable Company Tbk,S,06/30/2022,Dec,U,,2181.14,1444.07,737.07,1382.76,52.75,40.84,40.84,-328.98,4874.82,-15.2,1.03,1.96,1,2,1,5021.0646
+186.00,Industrials,C131,Electrical Components & Equipment,KBLI,KMI Wire & Cable Tbk,S,06/30/2022,Dec,U,,2940.05,491.37,2448.68,973.35,14.75,11.72,12,24.84,611.06,12.24,0.5,0.2,3,3,8,305.53
+187.00,Industrials,C131,Electrical Components & Equipment,KBLM,Kabelindo Murni Tbk,S,06/30/2022,Dec,U,,1591.97,371.25,1220.72,842.82,7.94,7.29,7.29,3.61,1089.93,69.17,0.23,0.3,0,0,0,250.6839
+188.00,Industrials,C121,Building Products & Fixtures,KIAS,Keramika Indonesia Assosiasi Tbk,S,06/30/2022,Dec,U,,1007.64,172.51,835.12,298.34,-11.31,-11.31,-8.47,-0.17,55.94,-287.03,0.89,0.21,0,0,-1,49.7866
+189.00,Industrials,C141,Construction Machinery & Heavy Vehicles,KOBX,Kobexindo Tractors Tbk,S,06/30/2022,Dec,U,,2454.69,1860.15,594.55,1206.74,82.3,75.21,74.84,103.44,261.63,4.37,1.73,3.13,9,38,19,452.6199
+190.00,Industrials,C121,Building Products & Fixtures,KOIN,Kokoh Inti Arebama Tbk,S,06/30/2022,Dec,U,,1149.89,1072.43,77.46,1444.22,-19.52,-20.85,-20.85,-39.64,78.97,-3.78,1.95,13.85,-3,-50,-3,153.9915
+191.00,Industrials,C141,Construction Machinery & Heavy Vehicles,KPAL,Steadfast Marine Tbk,S,09/30/2020,Dec,U,,763.46,579.64,183.82,30.56,-13.61,-13.61,-12.9,-14.17,171.96,0,0.29,3.15,-2,-8,-50,49.8684
+192.00,Industrials,C143,Industrial Machinery & Components,KRAH,PT Grand Kartech Tbk,S,09/30/2019,Dec,U,,598.21,563.69,34.51,179.5,-24.19,-24.19,-24.19,-94.7,35.54,0,12.27,16.33,-15,-266,-51,436.0758
+193.00,Industrials,C121,Building Products & Fixtures,KUAS,Ace Oldfields Tbk,S,06/30/2022,Dec,U,,278.72,138.61,140.11,65.53,2.2,1.39,1.39,5.16,108.4,14.15,0.67,0.99,2,5,10,72.628
+194.00,Industrials,C143,Industrial Machinery & Components,LABA,Ladangbaja Murni Tbk,S,06/30/2022,Dec,U,,66.1,5.68,60.42,6.22,-3.43,-2.68,-2.68,2.06,59.74,69.09,2.43,0.09,3,3,33,145.1682
+195.00,Industrials,C143,Industrial Machinery & Components,MARK,PT Mark Dynamics Indonesia Tbk.,S,06/30/2022,Dec,U,,1127.18,368.51,758.67,628.11,267.25,205.09,205.09,116.32,199.65,5.54,3.28,0.49,39,58,70,654.852
+196.00,Industrials,C121,Building Products & Fixtures,MLIA,Mulia Industrindo Tbk,S,06/30/2022,Dec,U,,6536.19,2646.17,3890.02,2526.18,614.71,479.1,479.1,134.19,588.06,4.06,0.91,0.68,14,23,35,535.1346
+197.00,Industrials,C141,Construction Machinery & Heavy Vehicles,NTBK,Nusatama Berkah Tbk,S,06/30/2022,Dec,U,,130.99,40.49,90.51,31.07,0.75,0.51,0.51,0.15,33.52,328.94,1.49,0.45,0,0,1,49.9448
+198.00,Industrials,C131,Electrical Components & Equipment,SCCO,Supreme Cable Manufacturing & Commerce Tbk,S,06/30/2022,Dec,U,,4887.69,376.5,4511.19,3149.42,131.6,108.49,108.31,819.83,21943.36,11.92,0.45,0.08,3,4,5,9874.512
+199.00,Industrials,C121,Building Products & Fixtures,SINI,Singaraja Putra Tbk,S,06/30/2022,Dec,U,,184.83,139.14,45.69,216.29,7.54,5.25,2.44,8.97,96.53,60.79,5.65,3.05,2,9,2,545.3945
+200.00,Industrials,C141,Construction Machinery & Heavy Vehicles,SKRN,Superkrane Mitra Utama Tbk,S,06/30/2022,Dec,U,,1506.11,890.9,615.2,289.29,68.93,58,58,40.47,410.14,29.9,2.95,1.45,4,10,21,1209.913
+201.00,Industrials,C121,Building Products & Fixtures,SPTO,Surya Pertiwi Tbk,S,06/30/2022,Dec,U,,3218.14,1162.89,2055.24,1191.21,113.38,94.37,79.73,72.78,761.2,7.97,0.76,0.57,6,9,16,578.512
+202.00,Industrials,C121,Building Products & Fixtures,TOTO,Surya Toto Indonesia Tbk,S,06/30/2022,Dec,U,,3319.09,1201.45,2117.64,1042.08,199.29,155.45,155.45,23.24,205.2,11.71,1.33,0.57,9,14,28,272.916
+203.00,Industrials,C141,Construction Machinery & Heavy Vehicles,UNTR,United Tractors Tbk,S,06/30/2022,Dec,U,,129237.47,47275.91,81961.56,60446.89,14640.45,11472.11,10356.6,3413.73,21972.81,9.46,1.47,0.58,12,20,27,32300.0307
+204.00,Industrials,C131,Electrical Components & Equipment,VOKS,Voksel Electric Tbk,S,06/30/2022,Dec,U,,2946.06,2191.72,754.34,1148.76,-188.24,-152.5,-152.5,-70.08,181.52,-2.37,0.93,2.91,-10,-39,-25,168.8136
+205.00,Industrials,C224,Business Support Services,ASGR,Astra Graphia Tbk,S,06/30/2022,Dec,U,,2400.89,767.07,1633.82,1231.55,40.41,31.39,31.39,74.62,1211.33,11.86,0.73,0.47,4,6,8,884.2709
+206.00,Industrials,C223,Office Supplies,BINO,Perma Plasindo Tbk,S,06/30/2022,Dec,U,,437.97,102.46,335.52,143.48,1.6,1.6,1.84,3.89,154.26,34.71,0.88,0.31,0,0,0,135.7488
+207.00,Industrials,C223,Office Supplies,BLUE,Berkah Prima Perkasa Tbk,S,06/30/2022,Dec,U,,94.71,6.06,88.65,57.03,8.07,8.07,8.07,36.3,212.09,7.88,1.35,0.07,16,17,27,286.3215
+208.00,Industrials,C224,Business Support Services,DYAN,Dyandra Media International Tbk,S,06/30/2022,Dec,U,,1047.29,561.29,486.01,384.87,7.73,4.36,6.96,-10.8,113.74,-6.67,0.63,1.15,-1,-3,-4,71.6562
+209.00,Industrials,C224,Business Support Services,ICON,Island Concepts Indonesia Tbk,S,06/30/2022,Dec,U,,379.07,134.44,244.63,63.88,0.51,0.23,-0.16,-5.44,224.48,-13.42,0.33,0.55,-2,-2,-9,74.0784
+210.00,Industrials,C232,Research & Consulting Services,INDX,Tanah Laut Tbk,S,06/30/2022,Dec,U,,64.65,11.6,53.05,2.4,-0.52,-0.52,-0.52,0.08,121.15,2828.63,1.92,0.22,-2,-3,-57,232.608
+211.00,Industrials,C221,Commercial Printing,JTPE,Jasuindo Tiga Perkasa Tbk,S,06/30/2022,Dec,U,,1457.19,522.62,934.57,379.67,30.16,20.27,15.61,13.83,136.39,20.24,2.05,0.56,7,10,25,279.5995
+212.00,Industrials,C223,Office Supplies,KONI,Perdana Bangun Pusaka Tbk,S,06/30/2022,Dec,U,,124.47,14.22,110.25,73.34,5.24,4.37,4.37,36.29,353.37,48.91,4.95,0.13,9,10,15,1749.1815
+213.00,Industrials,C223,Office Supplies,LION,Lion Metal Works Tbk,S,06/30/2022,Dec,U,,669.5,213.17,456.32,186.35,12.53,10.98,10.98,41.09,877.27,10.22,0.48,0.47,3,5,11,421.0896
+214.00,Industrials,C223,Office Supplies,MDRN,Modern Internasional Tbk,S,06/30/2022,Dec,U,,247.65,657.71,-410.05,35.35,0.96,0.96,0.96,17.81,-53.73,2.81,-0.93,-1.6,55,0,385,49.9689
+215.00,Industrials,C224,Business Support Services,MFMI,Multifiling Mitra Indonesia Tbk,S,06/30/2022,Dec,U,,357.74,232.31,125.43,76.64,17.78,14.16,14.16,34.36,165.56,19.94,4.14,1.85,4,13,21,685.4184
+216.00,Industrials,C231,Human Resource & Employment Services,SOSS,Shield on Service Tbk,S,06/30/2022,Dec,U,,391.32,196.11,195.21,766.46,18.18,11.92,8.03,44.24,294.74,6.96,1.05,1,7,15,4,309.477
+217.00,Industrials,C211,Diversified Industrial Trading,TIRA,Tira Austenite Tbk,S,06/30/2022,Dec,U,,358.53,193.01,165.52,135.63,0.37,0.2,0.2,-5.77,281.49,-71.09,1.38,1.17,-1,-2,-3,388.4562
+218.00,Industrials,C211,Diversified Industrial Trading,TRIL,Triwira Insanlestari Tbk,S,09/30/2021,Dec,U,,124.89,17.78,107.11,19.5,-0.36,-0.82,-1.74,-2.75,89.26,-18.16,0.56,0.17,-3,-3,-17,49.9856
+219.00,Industrials,C311,Multi-sector Holdings,ABMM,ABM Investama Tbk,S,06/30/2022,Dec,U,,18223.38,11780.54,6442.84,9706.19,2773.57,2096.28,1421.04,992.85,2340.16,3.96,1.69,1.83,15,42,28,3954.8704
+220.00,Industrials,C311,Multi-sector Holdings,ASII,Astra International Tbk,S,06/30/2022,Dec,U,,392523,160440,232083,143692,28802,23917,18174,729.65,5732.77,9.08,1.16,0.69,8,13,21,6650.0132
+221.00,Industrials,C311,Multi-sector Holdings,BHIT,PT MNC Investama Tbk.,S,06/30/2022,Dec,U,,66295.03,26748.56,39546.47,8320.29,1431.94,1056.01,33.59,6.38,459.48,10.98,0.14,0.68,1,1,7,64.3272
+222.00,Industrials,C311,Multi-sector Holdings,BMTR,PT Global Mediacom Tbk,S,06/30/2022,Dec,U,,35122.68,9432.41,25690.26,6927.92,1543.8,1256.52,493.08,92.74,1549.1,3.88,0.23,0.37,4,5,19,356.293
+223.00,Industrials,C311,Multi-sector Holdings,BNBR,Bakrie & Brothers Tbk,S,06/30/2022,Dec,LR,,16438.69,15121.75,1316.94,1294.04,-80.29,-98.62,-110.88,0.47,62.23,107.1,0.82,11.48,0,1,1,51.0286
+224.00,Industrials,C311,Multi-sector Holdings,MLPL,Multipolar Tbk,S,06/30/2022,Dec,U,,13607.92,8981.56,4626.36,5579.36,19.77,3.54,78.52,11.22,295,13.55,0.52,1.94,1,4,3,153.4
+225.00,Industrials,C311,Multi-sector Holdings,ZBRA,Dosni Roha Indonesia Tbk,S,06/30/2022,Dec,U,,3169.68,1836.34,1333.34,1475.07,-35.67,-35.51,-33.85,-2.72,531.06,-205.83,1.07,1.38,0,-1,0,568.2342
+226.00,Consumer Non-Cyclicals,D113,Supermarkets & Convenience Store,AMRT,PT Sumber Alfaria Trijaya Tbk.,S,06/30/2022,Dec,U,,28897.69,19419.96,9477.72,47886.75,1597,1279.68,1253.76,56.63,228.24,42.03,10.47,2.05,8,25,5,2389.6728
+227.00,Consumer Non-Cyclicals,D112,Food Retail & Distributors,BUAH,PT Segar Kumala Indonesia Tbk,S,12/31/2021,Dec,A,WTP,247.74,192.35,55.38,1021.41,48.14,37.74,37.74,37.74,55.38,13.91,9.48,3.47,15,68,4,525.0024
+228.00,Consumer Non-Cyclicals,D111,Drug Retail & Distributors,DAYA,Duta Intidaya Tbk,S,06/30/2022,Dec,U,,647.77,580.31,67.46,556.68,-2.05,-4.49,-4.49,-14.14,27.87,-17.12,8.68,8.6,-5,-51,-6,241.9116
+229.00,Consumer Non-Cyclicals,D112,Food Retail & Distributors,DMND,Diamond Food Indonesia Tbk,S,06/30/2022,Dec,U,,6594.02,1376.65,5217.37,4050.9,253.6,197.99,195.69,43.94,551.03,18.77,1.5,0.26,6,8,10,826.545
+230.00,Consumer Non-Cyclicals,D111,Drug Retail & Distributors,EPMT,Enseval Putera Megatrading Tbk,S,06/30/2022,Dec,U,,10180.6,3463.8,6716.8,13724.49,558.47,433.62,433.81,319.91,2479.77,8.5,1.1,0.52,9,13,6,2727.747
+231.00,Consumer Non-Cyclicals,D113,Supermarkets & Convenience Store,HERO,Hero Supermarket Tbk,S,06/30/2022,Dec,LR,,6590.55,5822.89,767.67,2141.58,-123.8,-113.77,-113.77,-125.83,183.49,-13.15,8.72,7.59,-8,-69,-25,1600.0328
+232.00,Consumer Non-Cyclicals,D112,Food Retail & Distributors,KMDS,Kurniamitra Duta Sentosa Tbk,S,06/30/2022,Dec,U,,207.57,43.41,164.16,165.95,35,27.55,27.55,54.03,205.2,12.49,3.29,0.26,22,28,28,675.108
+233.00,Consumer Non-Cyclicals,D113,Supermarkets & Convenience Store,MIDI,Midi Utama Indonesia Tbk,S,06/30/2022,Dec,U,,6742.32,5014.95,1727.38,7658.71,246.84,193.64,193.54,110.48,599.29,20.28,3.74,2.9,5,20,4,2241.3446
+234.00,Consumer Non-Cyclicals,D113,Supermarkets & Convenience Store,MPPA,Matahari Putra Prima Tbk,S,06/30/2022,Dec,U,,3939.14,3513.34,425.8,3717.55,-172.92,-158.6,-158.6,-47.73,50.23,-2.79,2.61,8.25,-10,-95,-11,131.1003
+235.00,Consumer Non-Cyclicals,D112,Food Retail & Distributors,PCAR,Prima Cakrawala Abadi Tbk,S,06/30/2022,Dec,U,,110.27,45.88,64.39,132.28,2.97,2.97,2.96,2.82,55.19,62.38,2.84,0.71,3,5,2,156.7396
+236.00,Consumer Non-Cyclicals,D113,Supermarkets & Convenience Store,RANC,Supra Boga Lestari Tbk,S,06/30/2022,Dec,A,WTP,1385.19,928.38,456.82,1496.87,-51.29,-51.11,-51.05,-38.28,291.99,-30.31,4.02,2.03,-4,-13,-4,1173.7998
+237.00,Consumer Non-Cyclicals,D111,Drug Retail & Distributors,SDPC,Millennium Pharmacon International Tbk,S,06/30/2022,Dec,U,,1263.56,1013.93,249.62,1547.88,17.29,13.92,13.92,15.53,195.94,8.18,0.65,4.06,2,8,1,127.361
+238.00,Consumer Non-Cyclicals,D112,Food Retail & Distributors,WICO,Wicaksana Overseas International Tbk,S,06/30/2022,Dec,U,,541.36,536.39,4.98,885.8,-86.31,-88.6,-88.6,-119.5,3.92,-3.36,102.5,107.78,-32,-3433,-19,401.8
+239.00,Consumer Non-Cyclicals,D232,Plantations & Crops,AALI,Astra Agro Lestari Tbk,S,06/30/2022,Dec,U,,30233.99,8884.8,21349.19,10964.78,1203.4,837.62,809.31,1107.37,11092.29,7.45,0.74,0.42,7,10,19,8208.2946
+240.00,Consumer Non-Cyclicals,D212,Soft Drinks,ADES,Akasha Wira International Tbk,S,06/30/2022,Dec,U,,1470.19,343.44,1126.75,603.28,199.61,156.94,156.94,498.19,1910.09,14,3.65,0.3,23,30,55,6971.8285
+241.00,Consumer Non-Cyclicals,D231,"Fish, Meat, & Poultry",AGAR,Asia Sejahtera Mina Tbk,S,06/30/2022,Dec,A,WTP,182.11,75.46,106.65,112.05,-1.89,-1.89,-1.89,-0.79,106.65,-368.29,2.74,0.71,0,-1,-1,292.221
+242.00,Consumer Non-Cyclicals,D222,Processed Foods,AISA,FKS Food Sejahtera Tbk,S,06/30/2022,Dec,U,,1801.26,996.93,804.33,862.78,-25.3,-24.99,-24.99,-3.27,86.38,-44.9,1.7,1.24,-2,-4,-4,146.846
+243.00,Consumer Non-Cyclicals,D212,Soft Drinks,ALTO,Tri Banyan Tirta Tbk,S,06/30/2022,Dec,U,,1070.5,706.87,363.62,204.4,1.5,-0.21,-0.23,-3.58,165.9,-53.32,1.15,1.94,-1,-2,-3,190.785
+244.00,Consumer Non-Cyclicals,D231,"Fish, Meat, & Poultry",AMMS,PT Agung Menjangan Mas Tbk,0,12/31/2021,Dec,A,WTP,47.28,1.14,46.13,5.66,0.81,0.68,0.68,0.57,38.44,238.22,3.51,0.02,1,1,12,134.9244
+245.00,Consumer Non-Cyclicals,D232,Plantations & Crops,ANDI,PT Andira Agro Tbk,S,06/30/2022,Dec,U,,465.33,219.82,245.51,175.87,-4.19,-3.76,-3.76,-1.2,26.26,-41.65,1.9,0.9,-2,-5,-6,49.894
+246.00,Consumer Non-Cyclicals,D232,Plantations & Crops,ANJT,PT Austindo Nusantara Jaya Tbk.,S,06/30/2022,Dec,U,,9550.81,3149.84,6400.97,2145.22,418.29,286.52,290.43,205,1908.36,4.15,0.45,0.49,7,11,32,858.762
+247.00,Consumer Non-Cyclicals,D231,"Fish, Meat, & Poultry",ASHA,Cilacap Samudera Fishing Industry Tbk,S,06/30/2022,Dec,U,,252.88,37.95,214.93,171.9,15.09,11.66,11.66,1.92,42.99,89.14,4.16,0.18,4,4,6,178.8384
+248.00,Consumer Non-Cyclicals,D222,Processed Foods,BEEF,Estika Tata Tiara Tbk,S,06/30/2022,Dec,U,,634.55,849.59,-215.04,14.96,-52.4,-40.6,-40.58,-100.43,-114.12,-0.52,-0.46,-3.95,-30,0,-1265,52.4952
+249.00,Consumer Non-Cyclicals,D232,Plantations & Crops,BISI,BISI INTERNATIONAL Tbk,S,06/30/2022,Dec,U,,3083.23,351.26,2731.97,1174.59,260.38,207.84,207.76,147.56,910.66,9.18,1.49,0.13,14,16,38,1356.8834
+250.00,Consumer Non-Cyclicals,D222,Processed Foods,BOBA,Formosa Ingredient Factory Tbk,S,06/30/2022,Dec,U,,153.42,18.8,134.62,47.31,8.8,7.05,7.05,13.6,116.48,14.04,1.66,0.14,10,12,33,193.3568
+251.00,Consumer Non-Cyclicals,D232,Plantations & Crops,BTEK,Bumi Teknokultura Unggul Tbk,S,06/30/2022,Dec,U,,4233.42,2758.48,1474.94,84.42,-96.62,-96.62,-96.62,-2.92,31.87,-17.1,1.57,1.87,-3,-9,-160,50.0359
+252.00,Consumer Non-Cyclicals,D222,Processed Foods,BUDI,Budi Starch & Sweetener Tbk,S,06/30/2022,Dec,U,,3070.39,1644.86,1425.53,1598,47.14,37.83,36.58,16.38,316.86,14.04,0.73,1.15,2,5,5,231.3078
+253.00,Consumer Non-Cyclicals,D232,Plantations & Crops,BWPT,Eagle High Plantations Tbk,S,06/30/2022,Dec,U,,12127.11,10266.98,1860.13,2319.82,-198.43,-188.41,-188.24,2.06,59,31.99,1.12,5.52,1,3,3,66.08
+254.00,Consumer Non-Cyclicals,D221,Dairy Products,CAMP,Campina Ice Cream Industry Tbk,S,06/30/2022,Dec,U,,1265.97,173.18,1092.79,565.59,88.73,69.98,69.98,20.39,185.69,14.02,1.55,0.16,9,11,21,287.8195
+255.00,Consumer Non-Cyclicals,D222,Processed Foods,CEKA,Wilmar Cahaya Indonesia Tbk,S,06/30/2022,Dec,U,,1958.15,389.85,1568.3,3642.42,231.68,180.94,180.94,490.51,2635.8,4.83,0.9,0.25,15,19,8,2372.22
+256.00,Consumer Non-Cyclicals,D212,Soft Drinks,CLEO,Sariguna Primatirta Tbk,S,06/30/2022,Dec,U,,1566.53,474.03,1092.5,655.06,131.41,102.88,102.88,15.99,91.04,31.9,5.49,0.43,12,18,29,499.8096
+257.00,Consumer Non-Cyclicals,D221,Dairy Products,CMRY,Cisarua Mountain Dairy Tbk,S,06/30/2022,Dec,U,,5877.9,1099.82,4778.08,3133.2,735.73,581.14,581.11,126.89,602.18,34.44,7.26,0.23,17,21,32,4371.8268
+258.00,Consumer Non-Cyclicals,D222,Processed Foods,COCO,Wahana Interfood Nusantara Tbk,S,06/30/2022,Dec,U,,348.89,125.09,223.79,133.95,6.47,4.96,4.96,7.95,251.49,27.17,0.86,0.56,3,4,7,216.2814
+259.00,Consumer Non-Cyclicals,D231,"Fish, Meat, & Poultry",CPIN,Charoen Pokphand Indonesia Tbk,S,06/30/2022,Dec,U,,39091.37,13298.2,25793.16,28637.32,2998.28,2418.17,2416.99,195.45,1572.95,30.06,3.74,0.52,8,12,11,5882.833
+260.00,Consumer Non-Cyclicals,D231,"Fish, Meat, & Poultry",CPRO,Central Proteina Prima Tbk,S,06/30/2022,Dec,U,,6694.35,3641.9,3052.45,4058.95,262.95,191.24,191.08,39.44,51.24,1.57,1.15,1.19,35,77,58,58.926
+261.00,Consumer Non-Cyclicals,D231,"Fish, Meat, & Poultry",CRAB,PT Toba Surimi Industries Tbk,S,06/30/2022,Dec,U,,332.8,212.16,120.64,323.07,9.42,7.31,7.31,5.79,61.86,36.99,3.52,1.76,3,9,3,217.7472
+262.00,Consumer Non-Cyclicals,D232,Plantations & Crops,CSRA,PT Cisadane Sawit Raya Tbk.,S,06/30/2022,Dec,U,,1785.02,845.81,939.21,521.54,231.14,178.01,178.01,172.79,458.15,3.88,1.46,0.9,20,38,68,668.899
+263.00,Consumer Non-Cyclicals,D231,"Fish, Meat, & Poultry",DEWI,PT Dewi Shri Farmindo Tbk,S,06/30/2022,Dec,U,,92.8,15.42,77.38,55.58,5.05,5.05,5.05,3.21,38.69,66.72,5.53,0.2,0,0,0,213.9557
+264.00,Consumer Non-Cyclicals,D211,Liquors,DLTA,Delta Djakarta Tbk,S,06/30/2022,Dec,U,,1414.52,526.39,888.13,384.52,151.14,118.15,118.39,265.26,1109.25,14.44,3.46,0.59,15,24,55,3838.005
+265.00,Consumer Non-Cyclicals,D231,"Fish, Meat, & Poultry",DPUM,Dua Putra Utama Makmur Tbk,S,06/30/2022,Dec,U,,1374.57,780.77,593.8,244.21,-36.54,-26.66,-26.66,-13.15,142.23,-3.8,0.35,1.31,-4,-9,-22,49.7805
+266.00,Consumer Non-Cyclicals,D231,"Fish, Meat, & Poultry",DSFI,Dharma Samudera Fishing Industries Tbk,S,06/30/2022,Dec,U,,400.76,175.32,225.43,313.41,17.97,14.03,14.01,11.04,121.39,8.79,0.8,0.78,5,9,7,97.112
+267.00,Consumer Non-Cyclicals,D232,Plantations & Crops,DSNG,PT Dharma Satya Nusantara Tbk.,S,06/30/2022,Dec,U,,14482.91,7202.41,7280.5,3787.17,638.16,467.03,462.74,92.68,686.85,5.35,0.7,0.99,7,13,26,480.795
+268.00,Consumer Non-Cyclicals,D231,"Fish, Meat, & Poultry",ENZO,Morenzo Abadi Perkasa Tbk,S,06/30/2022,Dec,U,,273.5,114.54,158.97,386.31,1.67,1.29,1.28,4.65,73.51,11.62,0.73,0.72,4,6,3,53.6623
+269.00,Consumer Non-Cyclicals,D232,Plantations & Crops,FAPA,PT FAP Agri Tbk,S,06/30/2022,Dec,U,,8160.83,4517.01,3643.82,2535.4,593.64,459.11,434.49,207.44,1003.97,18.94,3.91,1.24,10,24,34,3925.5227
+270.00,Consumer Non-Cyclicals,D232,Plantations & Crops,FISH,FKS Multi Agro Tbk,S,06/30/2022,Dec,U,,8439.21,6051.62,2387.59,10894.52,375.73,284.6,280.15,951.2,4974.15,7.36,1.42,2.53,5,19,4,7063.293
+271.00,Consumer Non-Cyclicals,D222,Processed Foods,FOOD,Sentra Food Indonesia Tbk,S,03/31/2022,Dec,U,,107.76,66.14,41.62,21.73,-2.6,-2.66,-2.15,-19.31,64.03,-5.8,1.75,1.59,-12,-30,-58,112.0525
+272.00,Consumer Non-Cyclicals,D232,Plantations & Crops,GOLL,PT Golden Plantation Tbk,S,09/30/2019,Dec,U,,2595.46,1846.9,748.56,11.21,-62.16,-62.16,-48.37,-3.72,204.25,0,0.24,2.47,-1,-2,-122,49.02
+273.00,Consumer Non-Cyclicals,D222,Processed Foods,GOOD,Garudafood Putra Putri Jaya Tbk,S,06/30/2022,Dec,U,,6658.77,3626.56,3032.22,5181.56,279.24,213.61,180.82,10.94,82.18,48.45,6.45,1.2,6,13,8,530.061
+274.00,Consumer Non-Cyclicals,D222,Processed Foods,GULA,PT Aman Agrindo Tbk,S,12/31/2021,Dec,A,,135.27,41.69,93.59,188.84,9.24,7.2,7.2,6.72,87.44,32.12,2.28,0.45,5,8,4,199.3632
+275.00,Consumer Non-Cyclicals,D232,Plantations & Crops,GZCO,Gozco Plantations Tbk,S,06/30/2022,Dec,U,,1817.53,755.75,1061.78,262.09,-12.38,-13.9,-13.7,11.43,176.96,12.16,0.79,0.71,4,6,24,139.7984
+276.00,Consumer Non-Cyclicals,D222,Processed Foods,HOKI,Buyung Poetra Sembada Tbk,S,06/30/2022,Dec,U,,973.43,298.41,675.02,434.09,9.32,6.63,7.28,1.29,69.75,101.26,1.88,0.44,1,2,3,131.13
+277.00,Consumer Non-Cyclicals,D232,Plantations & Crops,IBOS,PT Indo Boga Sukses Tbk,0,06/30/2022,Dec,A,WTP,358.94,35.65,323.29,36.37,3.94,3.44,3.41,0.67,40.23,163.71,2.56,0.11,2,2,15,102.9888
+278.00,Consumer Non-Cyclicals,D222,Processed Foods,ICBP,Indofood CBP Sukses Makmur Tbk,S,06/30/2022,Dec,U,,113360.05,56562.24,56797.81,32593.29,3334.69,2411.82,1930.22,565.31,4870.37,14.68,1.7,1,4,9,16,8279.629
+279.00,Consumer Non-Cyclicals,D231,"Fish, Meat, & Poultry",IKAN,Era Mandiri Cemerlang Tbk,S,06/30/2022,Dec,U,,119.39,48.29,71.1,55.16,0.51,0.38,0.38,3.84,85.32,18.75,0.86,0.68,3,5,6,73.3752
+280.00,Consumer Non-Cyclicals,D222,Processed Foods,INDF,Indofood Sukses Makmur Tbk,S,06/30/2022,Dec,U,,179166.05,88141.55,91024.5,52787.33,5639.71,4162.03,2900.75,942,10366.75,6.61,0.6,0.97,4,8,13,6220.05
+281.00,Consumer Non-Cyclicals,D232,Plantations & Crops,IPPE,Indo Pureco Pratama Tbk,S,06/30/2022,Dec,U,,289.62,8.18,281.45,25.67,3.24,2.52,2.52,0.92,61.18,249.9,3.76,0.03,1,2,16,230.0368
+282.00,Consumer Non-Cyclicals,D232,Plantations & Crops,JARR,PT Jhonlin Agro Raya Tbk,S,12/31/2021,Dec,U,,2407.03,1656.77,750.26,619.86,16.04,15.87,15.87,1.98,93.78,221.8,4.69,2.21,1,2,3,439.8282
+283.00,Consumer Non-Cyclicals,D232,Plantations & Crops,JAWA,Jaya Agra Wattie Tbk,S,06/30/2022,Dec,U,,3663.67,3436.75,226.92,536.58,-91.66,-89.74,-89.39,-57.59,60.12,-2.29,2.2,15.15,-6,-96,-41,132.264
+284.00,Consumer Non-Cyclicals,D231,"Fish, Meat, & Poultry",JPFA,Japfa Comfeed Indonesia Tbk,S,06/30/2022,Dec,U,,32815.71,19279.16,13536.54,24483.17,1536.35,1202.09,1111.75,135.72,1154.35,11.05,1.31,1.42,5,12,7,1512.1985
+285.00,Consumer Non-Cyclicals,D221,Dairy Products,KEJU,Mulia Boga Raya Tbk,S,06/30/2022,Dec,U,,871.45,204.71,666.74,579.09,102.5,80.2,80.2,98.57,444.49,16.18,3.59,0.31,18,23,26,1595.7191
+286.00,Consumer Non-Cyclicals,D232,Plantations & Crops,LSIP,PP London Sumatra Indonesia Tbk,S,06/30/2022,Dec,U,,12506.87,1785.55,10721.32,2047.33,687.26,548.11,548.76,152.25,1571.38,7.09,0.69,0.17,8,10,51,1084.2522
+287.00,Consumer Non-Cyclicals,D232,Plantations & Crops,MAGP,Multi Agro Gemilang Plantation Tbk,S,03/31/2022,Dec,U,,840.19,764.27,75.92,32.27,-10.68,-10.68,-10.57,-7.06,8.44,-7.08,5.93,10.07,-8,-84,-197,50.0492
+288.00,Consumer Non-Cyclicals,D231,"Fish, Meat, & Poultry",MAIN,Malindo Feedmill Tbk,S,06/30/2022,Dec,U,,5654.81,3673.12,1981.69,5508.88,-74.56,-66.58,-66.58,-60.22,885.18,-10.13,0.69,1.85,-2,-7,-2,610.7742
+289.00,Consumer Non-Cyclicals,D232,Plantations & Crops,MGRO,PT Mahkota Group Tbk.,S,06/30/2022,Dec,U,,2490.6,1812.74,677.86,4178.67,14.53,-7.26,-2.59,29.54,190.71,29.79,4.61,2.67,3,11,2,879.1731
+290.00,Consumer Non-Cyclicals,D211,Liquors,MLBI,Multi Bintang Indonesia Tbk,S,06/30/2022,Dec,U,,2824.84,2191.98,632.85,1326.62,531.71,394.33,394.26,341.35,300.36,27.68,31.46,3.46,28,123,59,9449.3256
+291.00,Consumer Non-Cyclicals,D222,Processed Foods,MYOR,Mayora Indah Tbk,S,06/30/2022,Dec,U,,22102.52,10114.27,11988.24,14375.44,847.09,668.53,653.23,29.95,536.18,58.76,3.28,0.84,4,8,6,1758.6704
+292.00,Consumer Non-Cyclicals,D222,Processed Foods,NASI,Wahana Inti Makmur Tbk,S,06/30/2022,Dec,U,,69.1,9.98,59.12,25.69,0.57,0.57,0.57,0.57,73.23,239.5,1.86,0.17,0,0,0,136.2078
+293.00,Consumer Non-Cyclicals,D232,Plantations & Crops,OILS,Indo Oil Perkasa Tbk,S,06/30/2022,Dec,U,,162.08,76.38,85.7,266.26,11.09,8.59,8.59,27.74,188.75,7.93,1.17,0.89,8,15,5,220.8375
+294.00,Consumer Non-Cyclicals,D232,Plantations & Crops,PALM,Provident Agro Tbk,S,06/30/2022,Dec,A,WTP,5614.06,1.55,5612.51,0,88.7,88.91,88.91,346.48,788.32,2.5,1.1,0,24,24,0,867.152
+295.00,Consumer Non-Cyclicals,D222,Processed Foods,PANI,Pratama Abadi Nusa Industri Tbk,S,06/30/2022,Dec,U,,178.8,135.86,42.94,174.38,1.23,0.96,0.95,0.13,3.17,8451.86,288.3,3.16,1,4,1,913.911
+296.00,Consumer Non-Cyclicals,D232,Plantations & Crops,PGUN,PT Pradiksi Gunatama Tbk,S,06/30/2022,Dec,U,,2526.6,935.7,1590.9,490.44,44.12,48.59,54.17,9.98,318.28,62.63,1.95,0.59,2,3,10,620.646
+297.00,Consumer Non-Cyclicals,D222,Processed Foods,PMMP,Panca Mitra Multiperdana Tbk,S,06/30/2022,Dec,U,,4201.93,3009.48,1192.45,1496.24,120.25,96.1,96.1,50.29,506.78,8.39,0.83,2.52,3,12,9,420.6274
+298.00,Consumer Non-Cyclicals,D222,Processed Foods,PSDN,Prasidha Aneka Niaga Tbk,S,06/30/2022,Dec,U,,693.84,653.4,40.44,384.64,-2.65,-8.28,-11.57,-55.69,28.08,-2.05,4.06,16.16,-8,-134,-14,114.0048
+299.00,Consumer Non-Cyclicals,D232,Plantations & Crops,PSGO,PT Palma Serasih Tbk.,S,06/30/2022,Dec,U,,3859.65,2266.6,1593.05,1119.87,218.73,168.24,168.24,19.35,84.51,8.53,2.01,1.42,9,23,33,169.8651
+300.00,Consumer Non-Cyclicals,D222,Processed Foods,ROTI,Nippon Indosari Corpindo Tbk,S,06/30/2022,Dec,U,,4000.64,1581.81,2418.83,1791.8,187.17,137.3,137.29,47.98,390.99,26.36,3.2,0.65,7,12,17,1251.168
+301.00,Consumer Non-Cyclicals,D232,Plantations & Crops,SGRO,PT Sampoerna Agro Tbk,S,06/30/2022,Dec,U,,10114.43,5229.91,4884.52,2623.86,717.67,540.75,539.13,524.77,2685.84,3.98,0.78,1.07,9,20,36,2094.9552
+302.00,Consumer Non-Cyclicals,D232,Plantations & Crops,SIMP,Salim Ivomas Pratama Tbk,S,06/30/2022,Dec,U,,36710.23,16282.23,20428.01,8072.85,1065.03,642.38,441,76.28,1291.58,5.98,0.35,0.8,3,6,15,452.053
+303.00,Consumer Non-Cyclicals,D231,"Fish, Meat, & Poultry",SIPD,Sreeya Sewu Indonesia Tbk,S,06/30/2022,Dec,U,,2985.46,2127.3,858.15,2827.48,-87.82,-67.86,-67.86,-27.63,640.84,-47.41,2.06,2.48,-1,-4,-1,1320.1304
+304.00,Consumer Non-Cyclicals,D222,Processed Foods,SKBM,Sekar Bumi Tbk,S,06/30/2022,Dec,U,,1981.93,959.88,1022.06,1129.04,38.13,29.14,27.23,27.01,590.75,14.96,0.7,0.94,2,5,4,413.525
+305.00,Consumer Non-Cyclicals,D222,Processed Foods,SKLT,Sekar Laut Tbk,S,06/30/2022,Dec,U,,908.31,366.14,542.17,729.03,32.8,30.1,30.1,120.96,784.91,16.95,2.61,0.68,10,16,12,2048.6151
+306.00,Consumer Non-Cyclicals,D232,Plantations & Crops,SMAR,PT Sinas Mas Agro Resources and Technology Tbk,S,06/30/2022,Dec,U,,43094.17,26992.3,16101.87,36105.25,2508.47,1928.24,1925.15,1214.28,5606.12,3.83,0.83,1.68,9,23,10,4653.0796
+307.00,Consumer Non-Cyclicals,D232,Plantations & Crops,SSMS,PT Sawit Sumbermas Sarana Tbk.,S,06/30/2022,Dec,LR,,14238.13,7902.91,6335.22,3351.5,1362.53,1023.7,1015.69,244.73,665.12,5.74,2.11,1.25,13,29,55,1403.4032
+308.00,Consumer Non-Cyclicals,D232,Plantations & Crops,STAA,PT Sumber Tani Agung Resources Tbk,S,06/30/2022,Dec,U,,6922.76,2704.25,4218.51,2985.32,919.99,730.69,632.26,0,386.9,0,3.48,0.64,0,0,0,1346.412
+309.00,Consumer Non-Cyclicals,D222,Processed Foods,STTP,Siantar Top Tbk,S,06/30/2022,Dec,U,,4098.07,557.26,3540.81,2242.41,313.29,255.85,255.88,465.41,2702.91,16.33,2.81,0.16,15,17,27,7595.1771
+310.00,Consumer Non-Cyclicals,D232,Plantations & Crops,TAPG,Triputra Agro Persada Tbk,S,06/30/2022,Dec,U,,13913.69,4770.24,9143.45,4615.05,2192.46,1843.76,1779.91,127.59,460.57,5.13,1.42,0.52,18,28,55,654.0094
+311.00,Consumer Non-Cyclicals,D222,Processed Foods,TAYS,Jaya Swarasa Agung Tbk,S,06/30/2022,Dec,U,,399.75,264.06,135.69,157.92,1.84,1.8,1.8,2.85,123.48,76.42,1.77,1.95,0,0,0,218.5596
+312.00,Consumer Non-Cyclicals,D222,Processed Foods,TBLA,Tunas Baru Lampung Tbk,S,06/30/2022,Dec,U,,22488.06,15611.68,6876.38,8003.44,509.56,382.28,381.9,149.21,1287.21,4.96,0.57,2.27,4,12,10,733.7097
+313.00,Consumer Non-Cyclicals,D222,Processed Foods,TGKA,Tigaraksa Satria Tbk,S,06/30/2022,Dec,U,,3732.62,2015.16,1717.46,6491.98,286.7,227.83,227.83,499.08,1869.86,14.98,4,1.17,12,27,7,7479.44
+314.00,Consumer Non-Cyclicals,D232,Plantations & Crops,TLDN,PT Teladan Prima Agro Tbk,S,06/30/2022,Dec,,,5115.27,3045.49,2069.78,1770.14,577.69,507.13,507.13,68.07,159.87,8.59,3.63,1.47,17,43,50,580.3281
+315.00,Consumer Non-Cyclicals,D222,Processed Foods,TRGU,PT Cerestar Indonesia Tbk,S,06/30/2022,Dec,U,WTP,2439.89,1749.44,690.45,1560.87,21.39,19.69,19.69,-1.66,86.9,-167.24,3.2,2.53,-1,-2,-1,278.08
+316.00,Consumer Non-Cyclicals,D221,Dairy Products,ULTJ,Ultra Jaya Milk Industry & Trading Company Tbk,S,06/30/2022,Dec,U,,7898.32,2145.44,5752.88,3690.91,789.86,608.4,608.15,105.55,497.93,13.97,2.96,0.37,15,21,33,1473.8728
+317.00,Consumer Non-Cyclicals,D232,Plantations & Crops,UNSP,Bakrie Sumatera Plantations Tbk,S,06/30/2022,Dec,U,,5222.05,10125.27,-4903.22,1445.61,690.6,692.93,329.11,278.4,-1961.16,0.46,-0.07,-2.07,13,0,48,137.2812
+318.00,Consumer Non-Cyclicals,D232,Plantations & Crops,WAPO,Wahana Pronatural Tbk,S,06/30/2022,Dec,A,WTP,80.51,6.41,74.1,193.03,-1.25,-1.02,-1.02,-1.33,59.72,-150.2,3.58,0.09,-2,-2,-1,213.7976
+319.00,Consumer Non-Cyclicals,D231,"Fish, Meat, & Poultry",WMPP,Widodo Makmur Perkasa Tbk,S,06/30/2022,Dec,U,,6156.1,3725.44,2430.66,2175.44,42.61,14.55,-3.02,4.9,82.62,31.24,1.85,1.53,2,6,7,152.847
+320.00,Consumer Non-Cyclicals,D231,"Fish, Meat, & Poultry",WMUU,Widodo Makmur Unggas Tbk,S,06/30/2022,Dec,U,,2457.29,1154.13,1303.17,1286.34,95.49,74.45,74.45,15.09,100.7,8.88,1.33,0.89,8,15,15,133.931
+321.00,Consumer Non-Cyclicals,D311,Tobacco,GGRM,Gudang Garam Tbk,S,06/30/2022,Dec,U,,83633.04,27717.82,55915.22,61672.27,1229.83,956.15,956.14,2209.3,29060.64,10.26,0.79,0.5,5,8,7,22957.9056
+322.00,Consumer Non-Cyclicals,D311,Tobacco,HMSP,HM Sampoerna Tbk,S,06/30/2022,Dec,U,,42497.67,17666.99,24830.68,53505.47,3987.52,3048.14,3048.14,55.59,213.47,16.73,4.36,0.71,14,24,11,930.7292
+323.00,Consumer Non-Cyclicals,D311,Tobacco,ITIC,PT Indonesian Tobacco Tbk.,S,06/30/2022,Dec,U,,519.61,186.08,333.53,127.5,12.11,8.74,8.74,22.08,354.55,13.41,0.83,0.56,4,6,16,294.2765
+324.00,Consumer Non-Cyclicals,D311,Tobacco,RMBA,Bentoel International Investama Tbk,S,06/30/2022,Dec,U,,8690.39,2881,5809.4,3383.73,70.51,16.01,16.01,0.89,159.59,342.23,1.92,0.5,1,1,2,306.4128
+325.00,Consumer Non-Cyclicals,D311,Tobacco,WIIM,Wismilak Inti Makmur Tbk,S,06/30/2022,Dec,U,,1893.4,494.2,1399.2,1626.44,103.92,82.25,82.16,93.24,666.32,5.42,0.76,0.35,10,14,12,506.4032
+326.00,Consumer Non-Cyclicals,D421,Personal Care Products,EURO,PT Estee Gold Feet Tbk,0,12/31/2021,Dec,A,WTP,21.66,6.09,15.57,24.88,4.67,3.82,3.82,1.53,6.23,45.77,11.24,0.39,18,25,15,70.0252
+327.00,Consumer Non-Cyclicals,D421,Personal Care Products,FLMC,Falmaco Nonwoven Industri Tbk,0,06/30/2021,Dec,LR,,211.97,97.92,114.05,22.87,-10.54,-10.34,-10.34,-9.88,145.99,0,0.54,0.86,-4,-7,-34,78.8346
+328.00,Consumer Non-Cyclicals,D421,Personal Care Products,KINO,PT Kino Indonesia Tbk,S,06/30/2022,Dec,U,,5600.81,3101.03,2499.78,2004.79,73.6,45.9,44.85,97.08,1749.84,25.34,1.41,1.24,2,5,6,2467.2744
+329.00,Consumer Non-Cyclicals,D421,Personal Care Products,KPAS,PT Cottonindo Ariesta Tbk.,S,09/30/2021,Dec,U,,231.45,114.31,117.14,20.15,-29.7,-29.7,-29.68,-43.25,152.52,-1.43,0.41,0.98,-14,-28,-165,62.5332
+330.00,Consumer Non-Cyclicals,D421,Personal Care Products,MBTO,Martina Berto Tbk,S,06/30/2022,Dec,U,,730,307.87,422.13,133.15,-22.37,-18.2,-18.2,-109.34,394.51,-1.08,0.3,0.73,-16,-28,-88,118.353
+331.00,Consumer Non-Cyclicals,D421,Personal Care Products,MRAT,Mustika Ratu Tbk,S,06/30/2022,Dec,U,,594.55,260.32,334.23,166.9,-9.12,-9.18,-9.17,-25.87,780.91,-14.53,0.5,0.78,-2,-3,-7,390.455
+332.00,Consumer Non-Cyclicals,D421,Personal Care Products,NANO,PT Nanotech Indonesia Global Tbk,0,06/30/2022,Dec,U,,177.42,11.33,166.09,25.41,4.13,3.39,3.1,0.71,38.76,70.47,1.29,0.07,2,2,12,50.0004
+333.00,Consumer Non-Cyclicals,D421,Personal Care Products,TCID,Mandom Indonesia Tbk,S,06/30/2022,Dec,U,,2324.47,479.8,1844.67,925.42,-4.41,-6.41,-6.41,-233.33,9174.42,-23.79,0.6,0.26,-2,-3,-5,5504.652
+334.00,Consumer Non-Cyclicals,D421,Personal Care Products,UCID,PT Uni-Charm Indonesia Tbk.,S,06/30/2022,Dec,LR,,8182.86,3115.44,5067.42,5061.32,221.08,115.72,115.64,83.04,1219.13,14.03,0.96,0.61,4,7,7,1170.3648
+335.00,Consumer Non-Cyclicals,D421,Personal Care Products,UNVR,Unilever Indonesia Tbk,S,06/30/2022,Dec,U,,22144.17,17578.19,4565.98,21463.38,4442.93,3429.94,3429.94,159.4,119.69,28.29,37.68,3.85,28,135,29,4509.9192
+336.00,Consumer Cyclicals,E111,Auto Parts & Equipment,AUTO,Astra Otoparts Tbk,S,06/30/2022,Dec,U,,17569.33,5487.69,12081.65,8581.09,516.17,454.24,432.5,161.17,2506.7,7.69,0.49,0.45,4,6,9,1228.283
+337.00,Consumer Cyclicals,E111,Auto Parts & Equipment,BOLT,Garuda Metalindo Tbk,S,06/30/2022,Dec,U,,1344.3,540.31,803.99,658.77,13.47,9.82,6.01,24,343.04,33.54,2.36,0.67,4,7,9,809.5744
+338.00,Consumer Cyclicals,E112,Tires,BRAM,Indo Kordsa Tbk,S,06/30/2022,Dec,U,,4456.87,1208.02,3248.84,2593.01,315.21,238.79,217.34,926.13,7219.66,9.04,1.15,0.37,9,13,16,8302.609
+339.00,Consumer Cyclicals,E111,Auto Parts & Equipment,DRMA,Dharma Polimetal Tbk,S,06/30/2022,Dec,LR,,2343.81,1188.7,1155.11,1590.02,181.54,144.59,143.62,73.48,245.46,8.71,2.67,1.03,15,30,22,655.3782
+340.00,Consumer Cyclicals,E112,Tires,GDYR,Goodyear Indonesia Tbk,S,06/30/2022,Dec,U,,1840.93,1150.77,690.17,1250.95,-33.86,-29.47,-29.47,-112.35,1683.33,-11.93,0.8,1.67,-3,-7,-4,1346.664
+341.00,Consumer Cyclicals,E112,Tires,GJTL,Gajah Tunggal Tbk,S,06/30/2022,Dec,U,,19300.96,12340.37,6960.59,8287.49,-41.43,-67.56,-63.88,-21.72,1997.41,-29.47,0.32,1.77,0,-1,-1,639.1712
+342.00,Consumer Cyclicals,E111,Auto Parts & Equipment,INDS,Indospring Tbk,S,06/30/2022,Dec,U,,3631.37,789.03,2842.34,1683.61,76.87,58.47,54.81,219.31,4331.18,9.39,0.48,0.28,3,4,7,2078.9664
+343.00,Consumer Cyclicals,E111,Auto Parts & Equipment,LPIN,Multi Prima Sejahtera Tbk,S,06/30/2022,Dec,U,,326.78,30.55,296.22,75.93,14.71,12.31,12.31,59.71,696.99,6.6,0.57,0.1,8,9,33,397.2843
+344.00,Consumer Cyclicals,E112,Tires,MASA,Multistrada Arah Sarana Tbk,S,06/30/2022,Dec,U,,8263.92,3317.22,4946.69,4092.12,1050.97,817.69,817.63,101.04,538.68,29.59,5.55,0.67,14,23,27,2989.674
+345.00,Consumer Cyclicals,E111,Auto Parts & Equipment,NIPS,Nipress Tbk,S,09/30/2018,Dec,A,WTP,2134.39,1165.97,968.42,809.09,12.34,3.1,3.1,9.13,592.18,0,0.48,1.2,1,2,2,284.2464
+346.00,Consumer Cyclicals,E111,Auto Parts & Equipment,PRAS,Prima Alloy Steel Universal Tbk,S,06/30/2022,Dec,U,,1606.17,1147.42,458.75,59.85,-38.88,-31.88,-31.88,47.5,654.39,4.19,0.3,2.5,-2,-8,-64,196.317
+347.00,Consumer Cyclicals,E111,Auto Parts & Equipment,SMSM,Selamat Sempurna Tbk,S,06/30/2022,Dec,U,,4218.09,1001.36,3216.73,2305.96,525.01,420.22,377.44,119.78,558.59,10.85,2.33,0.31,17,23,31,1301.5147
+348.00,Consumer Cyclicals,E211,Home Furnishings,CBMF,Cahaya Bintang Medan Tbk,S,06/30/2022,Dec,U,,362.4,111.2,251.2,12.05,0.49,0.39,0.39,0.67,133.97,75.7,0.38,0.44,0,0,6,50.9086
+349.00,Consumer Cyclicals,E211,Home Furnishings,CINT,Chitose Internasional Tbk,S,06/30/2022,Dec,U,,509.92,166.17,343.75,137.41,-4.04,-4.66,-4.77,-103.85,343.75,-2.12,0.66,0.48,-20,-30,-76,226.875
+350.00,Consumer Cyclicals,E211,Home Furnishings,GEMA,Gema Grahasarana Tbk,S,06/30/2022,Dec,U,,1108.54,740.99,367.55,501.21,-17.98,-26.27,-26.35,-12.82,229.72,-26.99,1.51,2.02,-2,-6,-4,346.8772
+351.00,Consumer Cyclicals,E213,Housewares & Specialties,KICI,Kedaung Indah Can Tbk,S,06/30/2022,Dec,U,,183.25,73.44,109.81,47.14,2.71,2.12,2.12,48.98,397.85,3.78,0.46,0.67,7,12,29,183.011
+352.00,Consumer Cyclicals,E211,Home Furnishings,LFLO,Imago Mulia Persada Tbk,0,06/30/2022,Dec,A,WTP,68.98,27.49,41.49,22.64,0.95,0.95,0.95,1.11,31.73,57.58,2.14,0.66,2,4,6,67.9022
+353.00,Consumer Cyclicals,E213,Housewares & Specialties,LMPI,Langgeng Makmur Industri Tbk,S,06/30/2022,Dec,U,,706.6,487.53,219.07,277.84,-10.88,-8.94,-8.94,-12.16,217.22,-13.4,0.75,2.23,-2,-6,-4,162.915
+354.00,Consumer Cyclicals,E211,Home Furnishings,MGLV,Panca Anugrah Wisesa Tbk,0,06/30/2022,Dec,U,,238.05,134.37,103.68,93.88,12.27,10.17,10.12,7.83,54.43,15.96,2.3,1.3,6,14,16,125.189
+355.00,Consumer Cyclicals,E213,Housewares & Specialties,MICE,Multi Indocitra Tbk,S,06/30/2022,Dec,U,,1110.6,375.16,735.44,453.95,33,24.2,24.2,58.33,1225.73,8.74,0.42,0.51,3,5,8,514.8066
+356.00,Consumer Cyclicals,E211,Home Furnishings,OLIV,Oscar Mitra Sukses Sejahtera Tbk,0,06/30/2022,Dec,U,,59.85,5.9,53.95,25.56,0.72,0.53,0.53,0.29,28.4,123.15,1.27,0.11,0,0,0,36.068
+357.00,Consumer Cyclicals,E212,Household Appliances,SCNP,Selaras Citra Nusantara Perkasa Tbk,S,06/30/2022,Dec,U,,513.54,118.48,395.07,292.29,3.93,3.93,-1.81,-2,158.03,-121.05,1.53,0.3,0,0,0,241.7859
+358.00,Consumer Cyclicals,E211,Home Furnishings,SOFA,Boston Furniture Industries Tbk,0,06/30/2022,Dec,U,,64.16,22.75,41.41,18.54,-2.75,-2.26,-2.26,-1.87,25.04,-20.9,1.56,0.55,-8,-12,-26,39.0624
+359.00,Consumer Cyclicals,E211,Home Furnishings,WOOD,Integra Indocabinet Tbk,S,06/30/2022,Dec,U,,6890.07,2997.08,3892.99,3135.63,390.45,300.1,299.89,95.88,604.74,5.32,0.84,0.77,9,16,20,507.9816
+360.00,Consumer Cyclicals,E321,Sport Equipment & Hobbies Goods,BIKE,PT Sepeda Bersama Indonesia Tbk,S,06/30/2022,Dec,U,,125.95,8.62,117.33,97.21,16.7,13.35,13.35,-1.12,90.71,-202.86,2.65,0.07,-1,-1,-1,240.3815
+361.00,Consumer Cyclicals,E321,Sport Equipment & Hobbies Goods,IIKP,Inti Agri Resources Tbk,S,06/30/2022,Dec,U,,290.08,24.96,265.12,1.62,-11.63,-9.24,-9.23,-1.42,7.89,-35.31,6.34,0.09,-16,-18,-2941,50.0226
+362.00,Consumer Cyclicals,E321,Sport Equipment & Hobbies Goods,TOYS,PT Sunindo Adipersada Tbk.,S,06/30/2022,Dec,U,,371.88,109.42,262.46,56.42,3.14,2.61,2.61,-11.86,182.9,-8.18,0.53,0.42,-3,-4,-20,96.937
+363.00,Consumer Cyclicals,E413,Textiles,ARGO,Argo Pantes Tbk,S,06/30/2022,Dec,U,,1125.22,2513.25,-1388.03,42.98,-22.89,-22.89,-22.89,-103.5,-4136.5,-10.1,-0.25,-1.81,-3,0,-85,1034.125
+364.00,Consumer Cyclicals,E412,Footwear,BATA,Sepatu Bata Tbk,S,03/31/2022,Dec,U,,720.33,306.6,413.73,116.35,-14.78,-13.41,-13.4,-28.23,318.26,-17.71,1.57,0.74,-5,-9,-32,499.6682
+365.00,Consumer Cyclicals,E413,Textiles,BELL,PT Trisula Textile Industries Tbk,S,06/30/2022,Dec,U,,541.43,276.94,264.5,203.39,8.21,6.94,5.29,0.06,36.48,3739.56,6.63,1.05,0,1,1,241.8624
+366.00,Consumer Cyclicals,E412,Footwear,BIMA,Primarindo Asia Infrastructure Tbk,S,06/30/2022,Dec,U,,243.84,244.68,-0.85,34.43,-10.64,-9.88,-9.88,-17.62,-1.4,-8.74,-115.36,-288.28,-4,0,-31,161.504
+367.00,Consumer Cyclicals,E413,Textiles,CNTX,Centex Tbk,S,06/30/2022,Mar,U,,600.07,804.23,-204.16,156.91,-9.22,-9.22,-9.22,-1052.96,-2916.55,-0.31,-0.11,-3.94,-12,0,-47,320.8205
+368.00,Consumer Cyclicals,E411,"Clothing, Accessories & Bags",ERTX,Eratex Djaja Tbk,S,06/30/2022,Dec,U,,1083.37,764.96,318.41,782.92,28.27,22.07,22.07,18.88,247.49,10.43,0.8,2.4,3,10,4,197.992
+369.00,Consumer Cyclicals,E413,Textiles,ESTI,Ever Shine Textile Industry Tbk,S,06/30/2022,Dec,U,,761.49,540.6,220.89,225.71,4,3.99,3.99,9.16,109.61,9.61,0.8,2.45,2,8,8,87.688
+370.00,Consumer Cyclicals,E413,Textiles,HDTX,Panasia Indo Resources Tbk,S,06/30/2022,Dec,U,,334.17,377.18,-43.01,5.88,-23.5,-22.58,-22.57,-10.06,-11.94,-11.93,-10.05,-8.77,-11,0,-616,119.997
+371.00,Consumer Cyclicals,E411,"Clothing, Accessories & Bags",HRTA,Hartadinata Abadi Tbk,S,06/30/2022,Dec,U,,3867.97,2264.58,1603.4,3216.99,171.44,133.55,133.24,50.48,348.17,4.08,0.59,1.41,6,14,7,205.4203
+372.00,Consumer Cyclicals,E413,Textiles,INDR,Indorama Synthetics Tbk,S,06/30/2022,Dec,U,,13803.97,6718.61,7085.36,7668.69,971.76,803.66,803.69,2179.68,10828.05,3.93,0.79,0.95,10,20,19,8554.1595
+373.00,Consumer Cyclicals,E413,Textiles,INOV,PT Inocycle Technology Group Tbk.,S,06/30/2022,Dec,A,WTP,900.57,559.76,340.81,184.75,7.73,6.09,6.09,18.57,188.48,8.18,0.85,1.64,4,10,18,160.208
+374.00,Consumer Cyclicals,E413,Textiles,MYTX,PT Asia Pacific Investama Tbk.,S,06/30/2022,Dec,U,,3908,3968.51,-60.51,937.9,65.22,65.22,62.86,-6.38,-7.81,-8.63,-7.43,-65.58,-1,0,-5,58.0283
+375.00,Consumer Cyclicals,E411,"Clothing, Accessories & Bags",PBRX,Pan Brothers Tbk,S,06/30/2022,Dec,A,WTP,10483.95,6090.03,4393.92,4405.15,73.64,56.19,50.33,17.09,678.25,7.31,0.18,1.39,1,3,3,122.085
+376.00,Consumer Cyclicals,E411,"Clothing, Accessories & Bags",POLU,Golden Flower Tbk,S,06/30/2022,Dec,U,,210.39,62.97,147.42,70.28,8.8,8.8,8.8,-28.34,196.56,-16.51,2.38,0.43,-10,-14,-30,467.8128
+377.00,Consumer Cyclicals,E413,Textiles,POLY,Asia Pacific Fibers Tbk,S,06/30/2022,Dec,U,,3647.69,17762.95,-14115.25,3101.92,170.75,185.76,185.76,93.01,-5655.71,0.68,-0.01,-1.26,6,0,7,56.5571
+378.00,Consumer Cyclicals,E411,"Clothing, Accessories & Bags",RICY,Ricky Putra Globalindo Tbk,S,06/30/2022,Dec,U,,1712.85,1417.47,295.38,612.93,-5.39,-8.13,-7.48,-74.47,460.29,-1.73,0.27,4.8,-3,-16,-8,124.2783
+379.00,Consumer Cyclicals,E413,Textiles,SBAT,PT Sejahtera Bintang Abadi Textile Tbk.,S,06/30/2022,Dec,U,,692.72,459.4,233.32,62.48,-32.16,-25.44,-25.44,-10.91,49.09,-4.58,1.02,1.97,-7,-22,-83,50.0718
+380.00,Consumer Cyclicals,E413,Textiles,SRIL,PT Sri Rejeki Isman Tbk,S,06/30/2022,Dec,U,,16938.85,23784,-6845.15,5192.31,-872.56,-896.06,-896.06,-252.91,-334.69,-0.58,-0.44,-3.47,-20,0,-66,147.2636
+381.00,Consumer Cyclicals,E413,Textiles,SSTM,Sunson Textile Manufacturer Tbk,S,06/30/2022,Dec,U,,391.01,141.87,249.14,140.21,6.38,4.82,4.82,39.37,212.77,18.67,3.45,0.57,2,3,5,734.0565
+382.00,Consumer Cyclicals,E413,Textiles,TFCO,Tifico Fiber Indonesia Tbk,S,06/30/2022,Dec,U,,5039.75,464.14,4575.62,1796.68,78.16,65.59,65.59,35.19,948.69,19.89,0.74,0.1,3,4,9,702.0306
+383.00,Consumer Cyclicals,E411,"Clothing, Accessories & Bags",TRIS,Trisula International Tbk,S,06/30/2022,Dec,U,,1140.12,461.81,678.31,661.34,36.74,30.25,16.36,3.68,215.92,44.08,0.75,0.68,2,3,3,161.94
+384.00,Consumer Cyclicals,E413,Textiles,UNIT,Nusantara Inti Corpora Tbk,S,06/30/2020,Dec,U,,363.63,116.65,246.98,52.8,0.33,0.25,0.22,4.53,3274.66,0,0.1,0.47,0,0,1,327.466
+385.00,Consumer Cyclicals,E512,"Hotels, Resorts & Cruise Lines",AKKU,Anugerah Kagum Karya Utama Tbk,S,06/30/2022,Dec,U,,742.05,271.76,470.3,1.72,0.21,0.21,0.21,-18.49,72.92,-2.7,0.69,0.58,-16,-25,-6940,50.3148
+386.00,Consumer Cyclicals,E512,"Hotels, Resorts & Cruise Lines",ARTA,Arthavest Tbk,S,06/30/2022,Dec,A,WTP,377.86,50.57,327.29,10.21,-3.63,-3.54,-1.8,-6.81,732.73,-356.86,3.34,0.15,-1,-1,-30,2447.3182
+387.00,Consumer Cyclicals,E513,Travel Agencies,BAYU,Bayu Buana Tbk,S,06/30/2022,Dec,U,,704.07,322.81,381.26,618.92,10.04,8.92,8.95,58.03,1079.39,18.95,1.02,0.85,3,5,3,1100.9778
+388.00,Consumer Cyclicals,E514,Recreational & Sports Facilities,BLTZ,Graha Layar Prima Tbk,S,06/30/2022,Dec,U,,2411.7,1899.14,512.57,489.25,-22.44,-19.21,-19.21,-265.82,586.5,-8.35,3.79,3.71,-5,-23,-24,2222.835
+389.00,Consumer Cyclicals,E514,Recreational & Sports Facilities,BOLA,Bali Bintang Sejahtera Tbk,S,06/30/2022,Dec,U,,794.99,69.39,725.6,174.89,25.51,25.51,22.33,31.12,120.93,12.34,3.18,0.1,18,20,81,384.5574
+390.00,Consumer Cyclicals,E512,"Hotels, Resorts & Cruise Lines",BUVA,Bukit Uluwatu Villa Tbk,S,03/31/2022,Dec,U,,3674.59,1961.19,1713.4,20.52,-22.36,-22.36,-22,0,251.55,0,0.24,1.14,0,0,0,60.372
+391.00,Consumer Cyclicals,E512,"Hotels, Resorts & Cruise Lines",CLAY,Citra Putra Realty Tbk,S,06/30/2022,Dec,U,,599.23,584.7,14.53,32.24,-32.07,-25.04,-24.9,-27.43,5.65,-24.25,117.6,40.23,-12,-485,-219,664.44
+392.00,Consumer Cyclicals,E515,Restaurants,CSMI,Cipta Selera Murni Tbk,S,06/30/2022,Dec,U,,95.79,79.29,16.5,31.39,-3.22,-3.28,-3.28,-7.48,20.22,-421.36,155.75,4.8,-6,-37,-19,3149.265
+393.00,Consumer Cyclicals,E512,"Hotels, Resorts & Cruise Lines",DFAM,Dafam Property Indonesia Tbk,S,06/30/2022,Dec,U,,265.83,205.39,60.44,30.6,-10.54,-9.96,-9.84,-6.76,31.81,-17.3,3.65,3.4,-5,-21,-42,116.1065
+394.00,Consumer Cyclicals,E515,Restaurants,DUCK,Jaya Bersama Indo Tbk,S,09/30/2020,Dec,U,,1344.58,421.65,922.93,179.78,30.81,20.59,20.59,32.07,719.17,0,0.24,0.46,3,4,23,172.6008
+395.00,Consumer Cyclicals,E512,"Hotels, Resorts & Cruise Lines",EAST,Eastparc Hotel Tbk,S,06/30/2022,Dec,U,,267.02,19.99,247.03,39.06,16.18,13.24,13.24,5.34,59.87,19.65,1.75,0.08,8,9,56,104.7725
+396.00,Consumer Cyclicals,E515,Restaurants,ENAK,Champ Resto Indonesia Tbk,S,06/30/2022,Dec,LR,,738.68,490.94,247.74,625.01,41.59,42.92,42.92,2.89,114.34,611.9,15.48,1.98,5,16,6,1769.9832
+397.00,Consumer Cyclicals,E512,"Hotels, Resorts & Cruise Lines",ESTA,Esta Multi Usaha Tbk,S,06/30/2022,Dec,U,,241.21,20.56,220.65,5.87,1.66,1.66,1.66,1.01,98.98,127.33,1.39,0.09,1,1,38,137.5822
+398.00,Consumer Cyclicals,E515,Restaurants,FAST,Fast Food Indonesia Tbk,S,06/30/2022,Dec,U,,3556.84,2578.19,978.65,2868.98,41.77,32.66,32.66,-63.65,245.26,-15.08,3.91,2.63,-5,-19,-6,958.9666
+399.00,Consumer Cyclicals,E512,"Hotels, Resorts & Cruise Lines",FITT,Hotel Fitra International Tbk,S,06/30/2022,Dec,U,,65.33,27.98,37.35,4.47,-3.88,-3.85,-3.85,-7.44,51.44,-27.7,4,0.75,-8,-15,-122,205.76
+400.00,Consumer Cyclicals,E512,"Hotels, Resorts & Cruise Lines",HOME,Hotel Mandarine Regency Tbk,S,09/30/2020,Dec,U,,2452.28,334.09,2118.19,10.25,-12.32,-12.28,-12.28,-1.57,95.36,0,0.52,0.16,-1,-2,-341,49.5872
+401.00,Consumer Cyclicals,E512,"Hotels, Resorts & Cruise Lines",HOTL,Saraswati Griya Lestari Tbk,S,09/30/2021,Dec,U,,1315.63,1014.27,301.35,36.47,-27.02,-27.02,-27.48,-11.87,84.89,-4.21,0.59,3.37,-3,-14,-116,50.0851
+402.00,Consumer Cyclicals,E512,"Hotels, Resorts & Cruise Lines",HRME,Menteng Heritage Realty Tbk,S,06/30/2022,Dec,U,,920.3,279.71,640.59,34.32,-18.86,-14.84,-14.84,-4.87,107.5,-11.51,0.51,0.44,-3,-5,-84,54.825
+403.00,Consumer Cyclicals,E521,Education Services,IDEA,Idea Indonesia Akademi Tbk,0,06/30/2022,Dec,U,,80.68,18.79,61.89,7.35,0.34,0.34,0.34,-1.72,58.25,-35.37,1.03,0.3,-2,-3,-25,59.9975
+404.00,Consumer Cyclicals,E512,"Hotels, Resorts & Cruise Lines",IKAI,Intikeramik Alamasri Industri Tbk,S,06/30/2022,Dec,U,,1216.64,460.37,756.28,108.81,-28.55,-27.35,-26.54,-3.88,56.84,-12.87,0.88,0.61,-4,-7,-47,50.0192
+405.00,Consumer Cyclicals,E514,Recreational & Sports Facilities,JGLE,Graha Andrasentra Propertindo Tbk,S,06/30/2022,Dec,A,WTP,2966.84,1055.12,1911.73,103.85,-36.06,-36.06,-36.06,-4.51,84.66,-11.1,0.59,0.55,-3,-5,-98,49.9494
+406.00,Consumer Cyclicals,E512,"Hotels, Resorts & Cruise Lines",JIHD,Jakarta International Hotels & Development Tbk,S,06/30/2022,Dec,U,,6670.7,1856.04,4814.65,571.51,56.37,40.91,-8.04,-31.24,2067.23,-9.86,0.15,0.39,0,0,-3,310.0845
+407.00,Consumer Cyclicals,E512,"Hotels, Resorts & Cruise Lines",JSPT,Jakarta Setiabudi Internasional Tbk,S,06/30/2022,Dec,U,,5730.12,3186.24,2543.88,359.4,-167.4,-173.83,-108.98,-81.38,1097.1,-10.38,0.77,1.25,-3,-7,-53,844.767
+408.00,Consumer Cyclicals,E512,"Hotels, Resorts & Cruise Lines",KPIG,MNC Land Tbk,S,06/30/2022,Dec,U,,31768.82,6425.81,25343.01,443.37,75.47,74.85,88.12,3.91,285.75,22.74,0.31,0.25,1,1,45,88.5825
+409.00,Consumer Cyclicals,E515,Restaurants,LUCY,Lima Dua Lima Tiga Tbk,0,06/30/2022,Dec,A,WTP,61.53,19.58,41.95,21.51,4.26,3.29,3.29,3.08,40.14,56.19,4.48,0.47,5,8,15,179.8272
+410.00,Consumer Cyclicals,E512,"Hotels, Resorts & Cruise Lines",MABA,Marga Abhinaya Abadi Tbk,S,12/31/2019,Dec,A,WTP,2225.37,1941.4,283.98,45.45,-265.65,-265.65,-261.6,-17.03,18.48,0,2.71,6.84,-12,-92,-576,50.0808
+411.00,Consumer Cyclicals,E512,"Hotels, Resorts & Cruise Lines",MAMI,Mas Murni Indonesia Tbk,S,06/30/2022,Dec,U,WTP,1770.03,525.78,1244.25,20.45,-23.26,-23.26,-22.85,-2.77,101.16,-18.06,0.49,0.42,-2,-3,-167,49.5684
+412.00,Consumer Cyclicals,E512,"Hotels, Resorts & Cruise Lines",MAMIP,Mas Murni Tbk (Preferred Stock),S,09/30/2021,Dec,U,,1776.47,510.88,1265.59,29.48,-35.13,-35.13,-33.82,-6035.78,210931.31,-0.1,0,0.4,-2,-3,-123,0
+413.00,Consumer Cyclicals,E515,Restaurants,MAPB,MAP Boga Adiperkasa Tbk,S,06/30/2022,Dec,U,,2322.47,1230.88,1091.59,1557.21,93.79,76.32,76.32,39.82,502.82,37.66,2.98,1.13,4,8,6,1498.4036
+414.00,Consumer Cyclicals,E512,"Hotels, Resorts & Cruise Lines",MINA,Sanurhasta Mitra Tbk,S,06/30/2022,Dec,U,,107.83,6.36,101.47,2.59,-2.34,-2.34,-2.34,-0.72,15.46,-69.24,3.23,0.06,-4,-5,-183,49.9358
+415.00,Consumer Cyclicals,E512,"Hotels, Resorts & Cruise Lines",NASA,Andalan Perkasa Abadi Tbk,S,06/30/2022,Dec,U,,1131.48,59.33,1072.14,5.8,0.25,0.25,0.25,-0.41,97.42,-122.63,0.51,0.06,0,0,-49,49.6842
+416.00,Consumer Cyclicals,E512,"Hotels, Resorts & Cruise Lines",NATO,Surya Permata Andalan Tbk,S,06/30/2022,Dec,U,,802.39,1.76,800.63,1.92,-0.99,-0.99,-0.99,-0.68,100.06,-789.41,5.45,0,-1,-1,-285,545.327
+417.00,Consumer Cyclicals,E512,"Hotels, Resorts & Cruise Lines",NUSA,Sinergi Megah Internusa Tbk,S,09/30/2019,Dec,U,,817.91,64.77,753.15,8.78,-11.3,-11.3,-11.31,-6.57,97.81,0,0.51,0.09,-6,-7,-576,49.8831
+418.00,Consumer Cyclicals,E513,Travel Agencies,PANR,Panorama Sentrawisata Tbk,S,06/30/2022,Dec,U,,1584.24,1063.4,520.85,426.32,-27.76,-20.65,-16.67,-75.05,434.04,-3.28,0.57,2.04,-4,-13,-16,247.4028
+419.00,Consumer Cyclicals,E513,Travel Agencies,PDES,Destinasi Tirta Nusantara Tbk,S,06/30/2022,Dec,U,,280.79,256.32,24.47,22.65,-11.69,-9.12,-8.4,-71.96,34.23,-4.39,9.29,10.47,-18,-210,-227,317.9967
+420.00,Consumer Cyclicals,E512,"Hotels, Resorts & Cruise Lines",PGLI,Pembangunan Graha Lestari Indah Tbk,S,06/30/2022,Dec,U,,119.58,37.99,81.6,9.39,18.1,13.89,14.05,41.16,167.2,6.46,1.59,0.47,17,25,214,265.848
+421.00,Consumer Cyclicals,E514,Recreational & Sports Facilities,PJAA,Pembangunan Jaya Ancol Tbk,S,06/30/2022,Dec,U,,3984.78,2455.19,1529.59,413.72,49.29,36.77,37.44,-159.36,955.99,-3.89,0.65,1.61,-4,-9,-34,621.3935
+422.00,Consumer Cyclicals,E512,"Hotels, Resorts & Cruise Lines",PLAN,Planet Properindo Jaya Tbk,0,06/30/2022,Dec,U,,89.1,26.42,62.68,3.95,-0.47,-0.47,-0.47,-0.74,70.2,-41.91,0.43,0.42,-1,-1,-17,30.186
+423.00,Consumer Cyclicals,E512,"Hotels, Resorts & Cruise Lines",PNSE,Pudjiadi & Sons Tbk,S,06/30/2022,Dec,U,,375.3,201.47,173.84,49.7,-12.62,-12.91,-10,-20.15,217.89,-24.81,2.09,1.16,-4,-9,-32,455.3901
+424.00,Consumer Cyclicals,E512,"Hotels, Resorts & Cruise Lines",PSKT,Red Planet Indonesia Tbk,S,06/30/2022,Dec,U,,419.44,66.47,352.97,26.63,-4.51,-4.4,-4.4,-0.81,34.1,-99.33,2.52,0.19,-2,-2,-31,85.932
+425.00,Consumer Cyclicals,E515,Restaurants,PTSP,Pioneerindo Gourmet International Tbk,S,06/30/2022,Dec,U,,299.5,169.16,130.35,284.32,7.96,5.16,4.1,-16.57,590.32,-255.86,7.18,1.3,-1,-3,-1,4238.4976
+426.00,Consumer Cyclicals,E515,Restaurants,PZZA,Sarimelati Kencana Tbk,S,06/30/2022,Dec,U,,2343.71,1241.65,1102.06,1749.04,-5.94,-5.7,-5.7,19.27,364.69,26.72,1.41,1.13,1,2,1,514.2129
+427.00,Consumer Cyclicals,E515,Restaurants,RAFI,PT Sari Kreasi Boga Tbk,S,12/31/2021,Dec,A,,75.13,27.43,47.69,117.11,18.18,14.17,14.17,4.53,15.25,48.13,15.35,0.58,19,30,12,234.0875
+428.00,Consumer Cyclicals,E512,"Hotels, Resorts & Cruise Lines",SHID,Hotel Sahid Jaya International Tbk,S,06/30/2022,Dec,U,,1316.1,524.76,791.34,33.22,-20.42,-21.02,-21.02,-37.05,706.98,-46.43,2.43,0.66,-4,-6,-151,1717.9614
+429.00,Consumer Cyclicals,E512,"Hotels, Resorts & Cruise Lines",SNLK,Sunter Lakeside Hotel Tbk,S,06/30/2022,Dec,U,,202.79,52.01,150.79,14.62,-3.74,-3.74,-3.74,-18.55,335.08,-40.97,2.27,0.34,-4,-5,-56,760.6316
+430.00,Consumer Cyclicals,E512,"Hotels, Resorts & Cruise Lines",SOTS,Satria Mega Kencana Tbk,S,06/30/2022,Dec,U,,410.4,163.41,246.98,7.81,-10.42,-10.42,-6.25,-21.32,246.98,-13.69,1.18,0.66,-5,-9,-273,291.4364
+431.00,Consumer Cyclicals,E512,"Hotels, Resorts & Cruise Lines",UANG,Pakuan Tbk,S,06/30/2022,Dec,U,,1134.67,1147.26,-12.59,0,-52.33,-52.33,-52.33,-79.81,-10.4,-6.52,-49.99,-91.15,-9,0,0,519.896
+432.00,Consumer Cyclicals,E614,Consumer Publishing,ABBA,Mahaka Media Tbk,S,06/30/2022,Dec,U,,451.23,359.68,91.55,58.29,-25.86,-26.48,-21.17,-5.05,23.26,-49.14,10.66,3.93,-4,-22,-34,247.9516
+433.00,Consumer Cyclicals,E614,Consumer Publishing,DIGI,Arkadia Digital Media Tbk,S,06/30/2022,Dec,U,,25.81,22.81,3,18.85,-11.59,-11.51,-11.51,-8.21,1.85,-6.58,29.22,7.6,-58,-499,-79,54.057
+434.00,Consumer Cyclicals,E621,Entertainment & Movie Production,FILM,PT MD Pictures Tbk.,S,06/30/2022,Dec,U,,1598.75,92.88,1505.87,274.32,161.25,123.62,124.09,12.8,158.33,228.07,18.25,0.06,8,8,44,2889.5225
+435.00,Consumer Cyclicals,E611,Advertising,FORU,Fortune Indonesia Tbk,S,06/30/2022,Dec,U,,45.46,8.17,37.3,18.23,-4,-3.2,-3.2,0.63,80.17,462.06,3.62,0.22,1,1,2,290.2154
+436.00,Consumer Cyclicals,E613,Cable & Satellite,IPTV,MNC Vision Networks Tbk,S,06/30/2022,Dec,U,,11436.94,3371.66,8065.28,1460.96,94.47,112.42,118.56,3.66,191.13,23.2,0.44,0.42,1,2,11,84.0972
+437.00,Consumer Cyclicals,E612,Broadcasting,MARI,Mahaka Radio Integra Tbk,S,06/30/2022,Dec,U,,601.38,402.51,198.88,29.46,-44.85,-45.94,-24.13,-7.29,37.86,-25.92,4.99,2.02,-6,-19,-130,188.9214
+438.00,Consumer Cyclicals,E612,Broadcasting,MDIA,Intermedia Capital Tbk,S,09/30/2021,Dec,U,,5390.96,2828.71,2562.25,986.42,72.36,33,33.74,7.1,65.34,7.05,0.77,1.1,5,11,28,50.3118
+439.00,Consumer Cyclicals,E612,Broadcasting,MNCN,Media Nusantara Citra Tbk,S,06/30/2022,Dec,U,,21947.44,3189.75,18757.68,5274.31,1674.67,1342.74,1202.74,172.57,1246.38,5.3,0.73,0.17,11,13,45,909.8574
+440.00,Consumer Cyclicals,E621,Entertainment & Movie Production,MSIN,PT MNC Studios International Tbk.,S,06/30/2022,Dec,U,,6606.04,4601.32,2004.72,1931.34,359.8,280.64,278.98,37.27,175.17,153.59,32.68,2.3,6,21,22,5724.5556
+441.00,Consumer Cyclicals,E613,Cable & Satellite,MSKY,MNC Sky Vision Tbk,S,06/30/2022,Dec,U,,3654.9,1271.15,2383.74,585.19,-122.04,-95.15,-95.01,-102.38,1195.24,-2.79,0.24,0.53,-5,-8,-31,286.8576
+442.00,Consumer Cyclicals,E612,Broadcasting,NETV,Net Visi Media Tbk,S,06/30/2022,Dec,U,,1680.05,1679.84,0.21,202.67,-83.07,-87.81,-87.34,-7.6,0.01,-33.15,29965.46,7949.2,-11,-84370,-88,299.6546
+443.00,Consumer Cyclicals,E612,Broadcasting,SCMA,Surya Citra Media Tbk,S,06/30/2022,Dec,U,,11094.31,2487.79,8606.53,3163.59,778.43,565.72,616.44,16.72,116.35,11.96,1.77,0.29,11,14,39,205.9395
+444.00,Consumer Cyclicals,E614,Consumer Publishing,TMPO,Tempo Intimedia Tbk,S,06/30/2022,Dec,U,,386.01,195.34,190.67,101.06,-1.51,-1.24,-1.26,6.33,180.16,19.59,0.69,1.02,1,2,3,124.3104
+445.00,Consumer Cyclicals,E612,Broadcasting,VIVA,Visi Media Asia Tbk,S,09/30/2021,Dec,U,,8607.55,8509.05,98.49,1323.19,-64.75,-104.1,-106.41,4.26,5.98,11.73,8.36,86.39,1,71,5,49.9928
+446.00,Consumer Cyclicals,E743,Home Improvement Retail,ACES,Ace Hardware Indonesia Tbk,S,06/30/2022,Dec,U,,7378.12,1969.73,5408.39,3307.86,295.5,246.14,242.4,39.06,315.36,15.49,1.93,0.36,9,12,20,608.6448
+447.00,Consumer Cyclicals,E745,Automotive Retail,ASLC,Autopedia Sukses Lestari Tbk,S,06/30/2022,Dec,U,,834.25,134.85,699.4,159.5,0.19,-1.98,-2.6,-0.04,54.87,-4556.68,2.62,0.19,0,0,0,143.7594
+448.00,Consumer Cyclicals,E743,Home Improvement Retail,BAUT,Mitra Angkasa Sejahtera Tbk,S,06/30/2022,Dec,U,,246.61,54.64,191.97,86.19,6.08,4.31,4.3,1.15,39.99,43.52,1.25,0.28,0,0,0,49.9875
+449.00,Consumer Cyclicals,E745,Automotive Retail,BOGA,PT Bintang Oto Global Tbk,S,06/30/2022,Dec,U,,833,357.03,475.97,294.29,14.83,11.13,11.12,7.74,125.14,168.54,10.47,0.75,4,6,10,1310.2158
+450.00,Consumer Cyclicals,E745,Automotive Retail,CARS,PT Industri dan Perdagangan Bintraco Dharma Tbk,S,06/30/2022,Dec,U,,4006.08,3453.68,552.4,2680.18,109.48,64.83,52.47,-18.06,36.83,-3.82,1.87,6.25,-7,-49,-10,68.8721
+451.00,Consumer Cyclicals,E743,Home Improvement Retail,CSAP,Catur Sentosa Adiprana Tbk,S,06/30/2022,Dec,U,,9235.02,6848.58,2386.43,7075.31,157.43,123.36,112.62,54.89,535.27,15.39,1.54,2.87,3,10,3,824.3158
+452.00,Consumer Cyclicals,E743,Home Improvement Retail,DEPO,Caturkarda Depo Bangunan Tbk,S,06/30/2022,Dec,U,,1714.68,606.02,1108.66,1221.46,49.74,40.84,40.84,12.19,163.28,33.63,2.65,0.55,5,7,7,432.692
+453.00,Consumer Cyclicals,E742,Electronics Retail,ECII,Electronic City Indonesia Tbk,S,06/30/2022,Dec,U,,1944.68,541.63,1403.05,1029.24,10.24,10.24,10.22,3.66,1051.5,144.86,0.5,0.39,0,0,0,525.75
+454.00,Consumer Cyclicals,E742,Electronics Retail,ERAA,Erajaya Swasembada Tbk,S,06/30/2022,Dec,U,,15487.32,8674.28,6813.04,23399.96,707.03,498.29,507.52,64.53,427.15,7.56,1.14,1.27,6,14,4,486.951
+455.00,Consumer Cyclicals,E742,Electronics Retail,GLOB,Globe Kita Terang Tbk,S,06/30/2022,Dec,U,,11.25,864.83,-853.58,30.29,0.53,0.53,0.53,-53.66,-768.22,-2.22,-0.15,-1.01,-530,0,-197,115.233
+456.00,Consumer Cyclicals,E745,Automotive Retail,IMAS,Indomobil Sukses Internasional Tbk,S,06/30/2022,Dec,U,,52480.98,39308.86,13172.12,11798.23,406.91,253.33,172.09,-30.58,3297.74,-27.8,0.26,2.98,0,-1,-1,857.4124
+457.00,Consumer Cyclicals,E743,Home Improvement Retail,KLIN,PT Klinko Karya Imaji Tbk,0,06/30/2022,Dec,A,WTP,27.12,12.33,14.79,3.07,0.18,0.16,0.16,-0.76,11.31,-72.3,4.77,0.83,-4,-7,-32,53.9487
+458.00,Consumer Cyclicals,E731,Department Stores,LPPF,Matahari Department Store Tbk,S,06/30/2022,Dec,U,,5235.51,4856.68,378.83,3761.67,1152.26,918.37,918.37,549.28,160.22,6.97,23.9,12.82,25,343,35,3829.258
+459.00,Consumer Cyclicals,E741,Apparel & Textile Retail,MAPA,Map Aktif Adiperkasa Tbk,S,06/30/2022,Dec,U,,5822.16,2125.85,3696.3,4292.03,615.89,477.65,473.34,219.79,1296.77,15.47,2.62,0.58,11,17,15,3397.5374
+460.00,Consumer Cyclicals,E741,Apparel & Textile Retail,MAPI,Mitra Adiperkasa Tbk,S,06/30/2022,Dec,U,,17973.58,9709.86,8263.72,12248.01,1484.29,1199.12,1031.19,72.19,497.81,14.54,2.13,1.17,7,15,10,1060.3353
+461.00,Consumer Cyclicals,E711,Consumer Distributors,MKNT,Mitra Komunikasi Nusantara Tbk,S,06/30/2022,Dec,U,,469.12,467.91,1.21,1013.52,-12.72,-14.85,-10.85,-5.4,0.22,-9.25,227.65,387.35,-7,-2712,-3,50.083
+462.00,Consumer Cyclicals,E745,Automotive Retail,MPMX,PT Mitra Pinasthika Mustika Tbk.,S,06/30/2022,Dec,U,,7956.36,2138.68,5817.69,5110.9,251.46,306.24,306.23,112.83,1303.55,8.73,0.75,0.37,6,9,10,977.6625
+463.00,Consumer Cyclicals,E745,Automotive Retail,PMJS,PT Putra Mandiri Jembar Tbk,S,06/30/2022,Dec,U,,3770.96,1208.56,2562.4,5715.08,240.17,180.3,148.64,17.57,186.28,10.87,1.03,0.47,6,9,4,191.8684
+464.00,Consumer Cyclicals,E731,Department Stores,RALS,Ramayana Lestari Sentosa Tbk,S,06/30/2022,Dec,U,,5070.45,1412.36,3658.09,1856.09,322.15,286.03,286.03,44.92,515.51,13.13,1.14,0.39,6,9,17,587.6814
+465.00,Consumer Cyclicals,E742,Electronics Retail,SLIS,Gaya Abadi Sempurna Tbk,S,06/30/2022,Dec,U,,389.94,169.98,219.96,227.32,19.48,15.09,15.05,13.28,109.98,28.92,3.75,0.77,7,12,12,412.425
+466.00,Consumer Cyclicals,E731,Department Stores,SONA,Sona Topas Tourism Industry Tbk,S,06/30/2022,Dec,U,,883.71,285.43,598.28,77.85,-59.45,-49.66,-49.61,-157.36,1806.4,-23.07,2.01,0.48,-6,-9,-67,3630.864
+467.00,Consumer Cyclicals,E742,Electronics Retail,TELE,Tiphone Mobile Indonesia Tbk,S,06/30/2022,Dec,U,,146.35,4518.25,-4371.9,1360.15,-118.73,-118.73,-118.71,-23.92,-598.71,-2.09,-0.08,-1.03,-119,0,-13,47.8968
+468.00,Consumer Cyclicals,E743,Home Improvement Retail,TOOL,PT Rohartindo Nusantara Luas Tbk,S,12/31/2021,Dec,A,WTP,134.79,32.6,102.2,111.45,14.42,10.81,10.81,5.27,49.85,18.21,1.95,0.32,8,11,10,97.2075
+469.00,Consumer Cyclicals,E742,Electronics Retail,TRIO,Trikomsel Oke Tbk,S,06/30/2022,Dec,U,,92.21,4234.88,-4142.67,294.07,-18.57,-18.57,-18.62,-5.7,-159.29,-74.72,-2.67,-1.02,-161,0,-50,425.3043
+470.00,Consumer Cyclicals,E745,Automotive Retail,TURI,Tunas Ridean Tbk,S,06/30/2022,Dec,U,,7021.74,2407.33,4614.41,7374.41,552.96,459.1,457.66,140.14,826.96,11.13,1.89,0.52,11,17,11,1562.9544
+471.00,Consumer Cyclicals,E742,Electronics Retail,UFOE,Damai Sejahtera Abadi Tbk,S,06/30/2022,Dec,U,,418.68,233.33,185.35,364.23,7.5,5.51,5.49,5.54,81.03,81.58,5.7,1.26,3,7,3,461.871
+472.00,Consumer Cyclicals,E522,Consumer Support Services,YELO,PT Yelooo Integra Datanet Tbk.,S,06/30/2022,Dec,U,,315.09,18.39,296.69,600.98,9,5.36,5.12,7.85,155.11,11.46,0.58,0.06,11,11,6,89.9638
+473.00,Consumer Cyclicals,E741,Apparel & Textile Retail,ZONE,Mega Perintis Tbk,S,06/30/2022,Dec,U,,601.76,275.23,326.53,355.77,68.63,51.95,51.95,56.43,375.25,21,3.16,0.84,11,20,18,1185.79
+474.00,Consumer Cyclicals,E512,"Hotels, Resorts & Cruise Lines",RISE,Jaya Sukses Makmur Sentosa Tbk,S,06/30/2022,Dec,U,,2701.99,428.19,2273.8,131.64,7.49,4.88,5.85,5.8,207.75,148.19,4.16,0.19,2,3,48,864.24
+475.00,Consumer Cyclicals,E611,Advertising,WIFI,Solusi Sinergi Digital Tbk,S,06/30/2022,Dec,U,,1160.63,612.82,547.8,205.55,16.27,16.27,17.64,12.03,267.18,20.28,0.91,1.12,2,5,12,243.1338
+476.00,Healthcare,F121,Healthcare Providers,BMHS,Bundamedik Tbk,S,06/30/2022,Dec,U,,2894.38,1108.26,1786.12,814.91,101.22,78.95,53.46,15.57,207.61,36.92,2.77,0.62,5,8,16,575.0797
+477.00,Healthcare,F121,Healthcare Providers,CARE,PT Metro Healthcare Indonesia Tbk,S,06/30/2022,Dec,U,,4152.67,906.31,3246.36,112.67,-52.47,-51.91,-51.74,0.66,97.63,723.8,4.9,0.28,-1,-2,-54,478.387
+478.00,Healthcare,F121,Healthcare Providers,DGNS,PT Diagnos Laboratorium Utama Tbk,S,06/30/2022,Dec,U,,235.11,22.88,212.23,96.86,13.04,10.43,10.43,22.91,169.78,12.48,1.68,0.11,12,13,30,285.2304
+479.00,Healthcare,F121,Healthcare Providers,HEAL,PT Medikaloka Hermina Tbk.,S,06/30/2022,Dec,U,,7401.48,2995.07,4406.4,2329.11,282.53,214.02,164.39,41.69,294.96,35.74,5.05,0.68,8,14,27,1489.548
+480.00,Healthcare,F112,Healthcare Supplies & Distributions,IRRA,Itama Ranoraya Tbk,S,06/30/2022,Dec,U,,892.23,390.78,501.45,442.16,45.98,35.78,35.78,70.36,313.4,16.56,3.72,0.78,11,19,22,1165.848
+481.00,Healthcare,F112,Healthcare Supplies & Distributions,MEDS,PT Hetzer Medical Indonesia Tbk,S,12/31/2021,Dec,A,WTP,49.98,17.52,32.46,75.79,34.13,26.63,26.63,17.04,20.78,12.09,10.59,0.54,53,82,35,220.0602
+482.00,Healthcare,F121,Healthcare Providers,MIKA,PT Mitra Keluarga Karyasehat Tbk.,S,06/30/2022,Dec,U,,6425.8,804.89,5620.91,2072.66,729.32,576.62,529.76,80.21,394.55,33.16,6.74,0.14,18,20,55,2659.267
+483.00,Healthcare,F121,Healthcare Providers,MTMH,PT Murni Sadar Tbk,S,06/30/2022,Dec,U,,1532.78,418.61,1114.17,398.85,50.19,37.19,38.71,10.44,538.63,181.96,3.57,0.38,1,2,5,1922.9091
+484.00,Healthcare,F121,Healthcare Providers,PRDA,PT Prodia Widyahusada Tbk.,S,06/30/2022,Dec,U,,2446.78,403.69,2043.09,1037.01,201.25,159.79,159.79,605.97,2179.3,10.73,2.98,0.2,20,24,46,6494.314
+485.00,Healthcare,F121,Healthcare Providers,PRIM,PT Royal Prima Tbk.,S,06/30/2022,Dec,U,,1050.28,76.05,974.23,147.34,13.34,10.56,10.56,6.73,287.09,29.26,0.69,0.08,2,2,16,198.0921
+486.00,Healthcare,F121,Healthcare Providers,RSGK,Kedoya Adyaraya Tbk,S,06/30/2022,Dec,U,,933.64,163.27,770.36,166.01,14.22,8.51,8.64,2.64,828.63,494.5,1.57,0.21,0,0,1,1300.9491
+487.00,Healthcare,F121,Healthcare Providers,SAME,Sarana Meditama Metropolitan Tbk,S,06/30/2022,Dec,U,,5188.81,1198.04,3990.76,637.92,-19.33,-23,-24.77,0.88,233.19,424.98,1.61,0.3,0,0,2,375.4359
+488.00,Healthcare,F121,Healthcare Providers,SILO,PT Siloam International Hospitals Tbk.,S,06/30/2022,Dec,LR,,9170.4,2627.35,6543.05,4409.94,313.97,212.93,210.3,44.73,503.07,23.14,2.05,0.4,6,9,13,1031.2935
+489.00,Healthcare,F121,Healthcare Providers,SRAJ,Sejahteraraya Anugrahjaya Tbk,S,06/30/2022,Dec,U,,4744.86,2840.93,1903.93,900.17,-21.09,-23.92,-24,-1.16,158.65,-138.48,1,1.49,0,-1,-2,158.65
+490.00,Healthcare,F211,Pharmaceuticals,DVLA,Darya-Varia Laboratoria Tbk,S,06/30/2022,Dec,U,,2141.91,596.7,1545.21,1083.78,219.57,169.33,169.33,163.16,1379.65,15.81,1.87,0.39,9,12,17,2579.9455
+491.00,Healthcare,F211,Pharmaceuticals,INAF,Indofarma Tbk,S,06/30/2022,Dec,U,,1866.4,1448.8,417.59,574.05,-91.61,-90.72,-90.72,-41.71,134.74,-23.61,7.31,3.47,-7,-31,-23,984.9494
+492.00,Healthcare,F211,Pharmaceuticals,KAEF,Kimia Farma Tbk,S,06/30/2022,Dec,A,WTP,18415.46,11142.28,7273.18,4425.14,-256.11,-206.3,-205.12,7.12,1309.54,174.13,0.95,1.53,0,1,1,1244.063
+493.00,Healthcare,F211,Pharmaceuticals,KLBF,Kalbe Farma Tbk,S,06/30/2022,Dec,U,,25263.35,4533.53,20729.82,13874.59,2135.68,1672.75,1636.95,70.44,442.23,23,3.66,0.22,13,16,24,1618.5618
+494.00,Healthcare,F211,Pharmaceuticals,MERK,Merck Tbk,S,06/30/2022,Dec,U,,988.44,288.52,699.92,599.57,157.6,123.4,123.4,387.32,1562.33,12.91,3.2,0.41,18,25,29,4999.456
+495.00,Healthcare,F211,Pharmaceuticals,PEHA,Phapros Tbk,S,06/30/2022,Dec,U,,1892.62,1147.27,745.35,565.51,15.56,11.02,11.14,14.03,887.33,63.78,1.01,1.54,1,2,2,896.2033
+496.00,Healthcare,F211,Pharmaceuticals,PYFA,Pyridam Farma Tbk,S,06/30/2022,Dec,U,,1224.18,1047.78,176.39,307.11,9.13,9.29,9.05,-5.38,329.66,-182.25,2.97,5.94,0,2,1,979.0902
+497.00,Healthcare,F211,Pharmaceuticals,SCPI,Organon Pharma Indonesia Tbk,S,06/30/2022,Dec,U,,1458.81,382.05,1076.76,1075.72,120.7,104.21,104.21,41903.37,299100.26,0.69,0.1,0.35,10,14,14,29910.026
+498.00,Healthcare,F211,Pharmaceuticals,SIDO,Industri Jamu dan Farmasi Sido Muncul Tbk,S,06/30/2022,Dec,U,,3577.84,337.18,3240.65,1612.1,572.9,445.6,445.6,42.9,108.02,21.1,8.38,0.1,34,37,75,905.2076
+499.00,Healthcare,F211,Pharmaceuticals,SOHO,Soho Global Health Tbk,S,06/30/2022,Dec,U,,4271.02,1872.95,2398.07,3500.72,246.73,193.66,193.37,444.09,1889.48,13.4,3.15,0.78,11,19,13,5951.862
+500.00,Healthcare,F211,Pharmaceuticals,TSPC,Tempo Scan Pacific Tbk,S,06/30/2022,Dec,U,,10614.54,3590.81,7023.73,5941.45,490.15,401.92,378.86,175.89,1557.41,7.79,0.88,0.51,7,11,13,1370.5208
+501.00,Financials,G111,Banks,AGRO,PT Bank Rakyat Indonesia Agroniaga Tbk,S,06/30/2022,Dec,A,WTP,13193.29,10728.48,2464.8,293.13,126,47.71,47.71,-132.58,108.35,-4.19,5.08,4.35,-23,-122,-1029,550.418
+502.00,Financials,G111,Banks,AGRS,PT Bank IBK Indonesia Tbk.,S,06/30/2022,Dec,U,,15704.75,12712.82,2991.93,612.46,40.58,40.58,40.58,2.47,108.49,47.37,1.08,4.25,0,2,11,117.1692
+503.00,Financials,G111,Banks,AMAR,PT Bank Amar Indonesia Tbk.,S,03/31/2022,Dec,U,,4876.22,2828.25,2047.97,234.08,-8.8,-8.8,-8.8,-0.46,150.08,-596.49,1.81,1.38,0,0,-3,271.6448
+504.00,Financials,G111,Banks,ARTO,PT Bank Jago Tbk.,S,06/30/2022,Dec,U,,14611.94,6076.31,8277.06,705.32,37.29,28.92,28.92,11.05,597.35,957.25,17.7,0.73,1,2,23,10573.095
+505.00,Financials,G111,Banks,BABP,PT Bank MNC Internasional Tbk.,S,06/30/2022,Dec,U,,14767.3,12389.19,2378.11,560.06,44.78,34.88,34.88,1.37,75.78,78.89,1.41,5.21,0,2,8,106.8498
+506.00,Financials,G111,Banks,BACA,PT Bank Capital Indonesia Tbk,S,06/30/2022,Dec,U,,20802.91,18791.46,2011.45,304.18,11.83,9.23,9.23,4.58,284.18,25.11,0.4,9.34,0,2,11,113.672
+507.00,Financials,G111,Banks,BBCA,PT Bank Central Asia Tbk.,S,06/30/2022,Dec,U,,1264467.92,1055751.26,203128.59,34222.93,22298.43,18056.41,18049.47,284.05,1647.77,29.92,5.19,5.2,3,17,102,8551.9263
+508.00,Financials,G111,Banks,BBHI,PT Bank Harda Internasional Tbk.,S,06/30/2022,Dec,U,,9772.95,3502.62,6270.33,383.93,195.68,150.62,150.62,14.73,288.55,135.74,7.31,0.56,3,5,83,2109.3005
+509.00,Financials,G111,Banks,BBKP,Bank Bukopin Tbk,S,06/30/2022,Dec,U,,88943.57,79113.23,9830.34,2165.34,-4254.89,-3324.4,-3324.73,-85.22,145.21,-2.15,1.26,8.05,-6,-59,-266,182.9646
+510.00,Financials,G111,Banks,BBMD,PT Bank Mestika Dharma Tbk.,S,06/30/2022,Dec,U,,16729.13,12566.6,4162.53,648.25,313.17,244.28,244.28,135.45,1017.71,14.25,1.9,3.02,3,13,85,1933.649
+511.00,Financials,G111,Banks,BBNI,PT Bank Negara Indonesia (Persero) Tbk,S,06/30/2022,Dec,A,WTP,946495.28,816004.44,130490.84,33578.47,10818.63,8872.13,8803.21,786.93,6997.33,11.31,1.28,6.25,2,11,44,8956.5824
+512.00,Financials,G111,Banks,BBRI,PT Bank Rakyat Indonesia (Persero) Tbk,S,06/30/2022,Dec,U,,1652838.72,1366573.45,286265.26,90856.78,31224.28,24876.27,24786.2,286.23,1888.8,15.83,2.38,4.77,3,15,48,4495.344
+513.00,Financials,G111,Banks,BBSI,PT Bank Bisnis Internasional Tbk.,S,06/30/2022,Dec,A,WTP,3360.03,1271.82,2088.22,35.71,26.9,20.98,20.98,24.16,637.78,167.24,6.41,0.61,2,4,224,4088.1698
+514.00,Financials,G111,Banks,BBTN,PT Bank Tabungan Negara (Persero) Tbk,S,06/30/2022,Dec,U,,381741.25,338122.2,20985.49,12341.21,1917.48,1470.93,1470.93,276.4,1981.63,5.35,0.75,16.11,1,14,24,1486.2225
+515.00,Financials,G111,Banks,BBYB,PT Bank Neo Commerce Tbk.,S,06/30/2022,Dec,U,,14362.93,12219.66,2143.27,975.72,-606.92,-611.44,-611.44,-143.58,227.48,-9.19,5.8,5.7,-10,-68,-150,1319.384
+516.00,Financials,G111,Banks,BCIC,PT Bank JTrust Indonesia Tbk.,S,06/30/2022,Dec,U,,26258.96,23613.21,2645.75,726.76,15.72,15.72,15.72,-7.41,146.12,-19.16,0.99,8.92,-1,-5,-18,144.6588
+517.00,Financials,G111,Banks,BDMN,PT Bank Danamon Indonesia Tbk,S,06/30/2022,Dec,U,,193575.28,147775.38,45799.9,9251.42,2247.88,1747.43,1695,232.29,4686.11,11.15,0.54,3.23,1,5,25,2530.4994
+518.00,Financials,G111,Banks,BEKS,PT Bank Pembangunan Daerah Banten Tbk.,S,06/30/2022,Dec,U,,8272.62,6464.48,1808.14,226.85,-106.29,-83.16,-83.16,-4.76,34.86,-10.51,1.43,3.58,-3,-14,-109,49.8498
+519.00,Financials,G111,Banks,BGTG,PT Bank Ganesha Tbk.,S,06/30/2022,Dec,U,,11244.16,9045.57,2198.58,203.92,6.88,5.58,5.58,0.79,133.51,114.55,0.68,4.11,0,1,6,90.7868
+520.00,Financials,G111,Banks,BINA,PT Bank Ina Perdana Tbk.,S,06/30/2022,Dec,A,WTP,19334.98,16991.34,2343.64,505.82,68.59,52.91,52.91,11.7,394.74,327.26,9.8,7.25,0,3,14,3868.452
+521.00,Financials,G111,Banks,BJBR,Bank Pembangunan Daerah Jawa Barat dan Banten Tbk,S,06/30/2022,Dec,U,,172372.99,151067.88,13602.42,6959.9,1492.67,1197.84,1230.74,222.48,1292.83,6.09,1.05,11.11,1,17,34,1357.4715
+522.00,Financials,G111,Banks,BJTM,Bank Pembangunan Daerah Jawa Timur Tbk,S,06/30/2022,Dec,U,,108925.02,96183.56,10674.98,3382.8,1076.22,815.37,815.37,102.23,710.93,7.04,1.01,9.01,1,14,45,718.0393
+523.00,Financials,G111,Banks,BKSW,PT Bank QNB Indonesia Tbk,S,06/30/2022,Dec,U,,15794.61,11726.63,4067.98,467.54,52.47,52.47,52.47,-46.38,199.05,-2.35,0.55,2.88,-6,-23,-203,109.4775
+524.00,Financials,G111,Banks,BMAS,PT Bank Maspion Indonesia Tbk.,S,06/30/2022,Dec,A,WTP,13973.61,12589.87,1383.75,477.63,74.03,56.37,56.37,22.21,311.41,58.32,4.16,9.1,1,7,21,1295.4656
+525.00,Financials,G111,Banks,BMRI,PT Bank Mandiri (Persero) Tbk,S,06/30/2022,Dec,U,,1785706.84,1380959.49,220819.55,70268.53,27757.62,22044.31,20209.21,765.78,4731.85,12.11,1.99,6.25,2,16,51,9416.3815
+526.00,Financials,G111,Banks,BNBA,Bank Bumi Arta Tbk,S,06/30/2022,Dec,A,WTP,8791.46,6548.31,2243.15,271.7,34.22,26.4,26.4,10.36,809.22,142.42,1.87,2.92,0,1,11,1513.2414
+527.00,Financials,G111,Banks,BNGA,PT Bank CIMB Niaga Tbk,S,06/30/2022,Dec,U,,310980.16,267850.67,43129.49,10477.53,3301.45,2566.64,2534.38,179.15,1716.15,5.94,0.62,6.21,1,10,43,1064.013
+528.00,Financials,G111,Banks,BNII,PT Bank Maybank Indonesia Tbk,S,06/30/2022,Dec,U,,167327.95,138824.39,28503.56,5132.26,943.78,688.44,663.26,21.71,374.46,12.62,0.73,4.87,1,6,35,273.3558
+529.00,Financials,G111,Banks,BNLI,Bank Permata Tbk,0,06/30/2022,Dec,A,WTP,229793.44,192599.54,37193.9,6690.93,1845.79,1429.19,1429.19,55.87,1027.99,20.85,1.14,5.18,1,5,30,1171.9086
+530.00,Financials,G111,Banks,BRIS,PT Bank BRIsyariah Tbk,S,06/30/2022,Dec,A,WTP,277342.96,65428.28,26505.81,7513.34,2762.2,2131.29,2131.29,89.45,644.45,16.77,2.28,2.47,1,14,49,1469.346
+531.00,Financials,G111,Banks,BSIM,Bank Sinarmas Tbk,S,06/30/2022,Dec,U,,51302.9,37814.15,7133.89,1814.51,183.01,148.24,148.24,21.96,361.85,28.69,1.75,5.3,1,6,24,633.2375
+532.00,Financials,G111,Banks,BSWD,Bank of India Indonesia Tbk,S,06/30/2022,Dec,U,,4623.24,2590.11,2033.13,95.05,18.44,14.39,14.39,-15.59,851.09,-88.2,1.62,1.27,-1,-2,-39,1378.7658
+533.00,Financials,G111,Banks,BTPN,PT Bank BTPN Tbk,S,06/30/2022,Dec,U,,195466.9,148066.96,37784.13,7836.85,2483.16,1932.05,1675.17,331.27,4637.49,7.46,0.53,3.92,1,7,34,2457.8697
+534.00,Financials,G111,Banks,BTPS,PT Bank BTPN Syariah Tbk.,S,06/30/2022,Dec,U,,20031.34,2935.42,7480.11,2404.71,1097.16,856.29,856.29,201.38,970.98,13.31,2.81,0.39,8,21,65,2728.4538
+535.00,Financials,G111,Banks,BVIC,Bank Victoria International Tbk,S,06/30/2022,Dec,U,,24888.53,20742.69,3257.37,840.16,84.74,71.12,71.12,-5.62,310.61,-23.65,0.43,6.37,0,-2,-10,133.5623
+536.00,Financials,G111,Banks,DNAR,PT Bank Oke Indonesia Tbk.,S,06/30/2022,Dec,A,WTP,8510.61,5464.73,3045.88,301.03,7.91,5.14,5.14,1.26,217.82,136.24,0.78,1.79,0,1,6,169.8996
+537.00,Financials,G111,Banks,INPC,Bank Artha Graha Internasional Tbk,S,06/30/2022,Dec,U,,27274.63,23302.58,3972.05,713.12,39.84,39.84,39.84,-7.52,196.41,-12.23,0.47,5.87,-1,-4,-21,92.3127
+538.00,Financials,G111,Banks,MASB,Bank Multiarta Sentosa Tbk,S,06/30/2022,Dec,U,,20367.75,17745.65,2622.1,631.91,179.01,139.63,139.63,196.06,1955.66,18,1.81,6.77,1,10,42,3539.7446
+539.00,Financials,G111,Banks,MAYA,PT Bank Mayapada Internasional Tbk,S,06/30/2022,Dec,U,,123473.56,109573.71,13899.86,3705.68,92.13,74.82,74.82,3.51,1174.73,169.62,0.51,7.88,0,0,2,599.1123
+540.00,Financials,G111,Banks,MCOR,PT Bank China Construction Bank Indonesia Tbk,S,06/30/2022,Dec,U,,25538.25,19407.51,6130.74,641.46,78.33,61.1,61.1,2.92,161.68,31.12,0.56,3.17,0,1,13,90.5408
+541.00,Financials,G111,Banks,MEGA,Bank Mega Tbk,S,06/30/2022,Dec,U,,123548.74,106327,17221.74,4913.81,1854.73,1493.34,1493.34,335.49,1466.81,16.99,3.89,6.17,3,23,80,5705.8909
+542.00,Financials,G111,Banks,NISP,PT Bank OCBC NISP Tbk,S,06/30/2022,Dec,U,,223440.52,190654.04,32786.49,6363.36,2094.33,1649.35,1649.34,117.49,1428.9,6,0.49,5.82,1,8,42,700.161
+543.00,Financials,G111,Banks,NOBU,PT Bank Nationalnobu Tbk.,S,06/30/2022,Dec,A,WTP,20543.81,18785.7,1758.1,269.45,29.31,23.28,23.28,16.34,382.01,35.19,1.45,10.69,0,4,28,553.9145
+544.00,Financials,G111,Banks,PNBN,Bank Pan Indonesia Tbk,S,06/30/2022,Dec,U,,200171.06,151389.87,48781.19,6956.27,2033.43,1603.75,1562.85,92.13,2025.93,21.65,0.98,3.1,1,5,32,1985.4114
+545.00,Financials,G111,Banks,PNBS,PT Bank Panin Dubai Syariah Tbk.,S,06/30/2022,Dec,U,,13084.02,706.01,2329.69,277.56,143.57,111.98,111.98,-18.25,60.02,-4.05,1.23,0.3,-5,-30,-255,73.8246
+546.00,Financials,G111,Banks,SDRA,PT Bank Woori Saudara Indonesia 1906 Tbk,S,06/30/2022,Dec,U,,47780.37,38282.45,9497.92,1339.9,573.83,434.68,434.68,80.51,1108.5,7.08,0.51,4.03,2,8,56,565.335
+547.00,Financials,G211,Consumer Financing,ADMF,Adira Dinamika Multi Finance Tbk,S,06/30/2022,Dec,U,,23809.4,14833.13,8976.26,3355.95,849.72,661.17,661.17,1400.38,8976.26,5.93,0.92,1.65,6,16,42,8258.1592
+548.00,Financials,G211,Consumer Financing,BBLD,Buana Finance Tbk,S,06/30/2022,Dec,U,,3931.16,2672.14,1259.02,255.71,27.73,22.19,22.19,28.96,764.99,14.57,0.55,2.12,1,4,19,420.7445
+549.00,Financials,G211,Consumer Financing,BFIN,BFI Finance Indonesia Tbk,S,06/30/2022,Dec,U,,18140.57,10029.03,8111.54,2006.13,1028.34,828.92,828.93,92.24,508.02,13.55,2.46,1.24,8,18,73,1249.7292
+550.00,Financials,G211,Consumer Financing,BPFI,Batavia Prosperindo Finance Tbk,S,06/30/2022,Dec,U,,1296.35,341.33,955.03,96.31,33.44,26.71,26.71,21.29,357.15,30.29,1.81,0.36,4,6,59,646.4415
+551.00,Financials,G211,Consumer Financing,CFIN,Clipan Finance Indonesia Tbk,S,06/30/2022,Dec,U,,7115.62,2299.42,4816.2,532.44,10.89,10.08,10.08,1.84,1208.73,165.58,0.25,0.48,0,-1,-6,302.1825
+552.00,Financials,G211,Consumer Financing,DEFI,Danasupra Erapacific Tbk,S,06/30/2022,Dec,U,,63.6,0.75,62.85,1.47,-1.07,-1.07,-1.07,-5.35,91.45,-272.19,15.91,0.01,-6,-6,-251,1454.9695
+553.00,Financials,G211,Consumer Financing,FUJI,Fuji Finance Indonesia Tbk,S,06/30/2022,Dec,U,,159.82,3.52,156.29,6.51,7.62,6.88,6.88,8.56,141.44,75.35,4.45,0.02,6,6,145,629.408
+554.00,Financials,G211,Consumer Financing,HDFA,Radana Bhaskara Finance Tbk,S,06/30/2022,Dec,U,,1340.34,692.99,647.35,84.15,24.04,18.13,18.13,5.93,98.95,33.71,1.9,1.07,3,6,46,188.005
+555.00,Financials,G211,Consumer Financing,IBFN,Intan Baruprana Finance Tbk,S,06/30/2022,Dec,U,,551.08,1084.5,-533.42,8.99,-9.42,-11.59,-11.59,-133.8,-351.55,-0.72,-0.28,-2.03,-37,0,-2259,98.434
+556.00,Financials,G211,Consumer Financing,IMJS,Indomobil Multi Jasa Tbk,S,06/30/2022,Dec,U,,25150.14,21194.14,3956,2405.93,149.72,105.33,115.63,10.69,457.11,31.06,0.73,5.36,0,2,3,333.6903
+557.00,Financials,G211,Consumer Financing,MFIN,Mandala Multifinance Tbk,S,06/30/2022,Dec,U,,6001.18,3116.82,2884.35,1029.54,402.41,314.85,314.85,230.49,1088.43,6.81,1.44,1.08,10,21,59,1567.3392
+558.00,Financials,G211,Consumer Financing,POLA,Pool Advista Finance Tbk,S,06/30/2022,Dec,U,,255.41,4.7,250.71,7.11,-2.05,-2.05,-2.05,-14.68,91.86,-6.27,1,0.02,-18,-18,-634,91.86
+559.00,Financials,G211,Consumer Financing,TIFA,KDB Tifa Finance Tbk,S,06/30/2022,Dec,U,,1437.34,375.34,1062,67.29,33.32,28.94,28.94,9.03,298.97,61.48,1.86,0.35,3,4,59,556.0842
+560.00,Financials,G211,Consumer Financing,TRUS,Trust Finance Indonesia Tbk,S,06/30/2022,Dec,U,,364.89,28.15,336.74,22.1,11.98,9.89,9.89,27.25,420.93,15.05,0.97,0.08,6,6,99,408.3021
+561.00,Financials,G211,Consumer Financing,VRNA,Verena Multi Finance Tbk,S,06/30/2022,Dec,U,,2252.83,1581.56,671.27,131.41,45.19,45.09,45.09,2.02,118.03,59.54,1.02,2.36,1,2,9,120.3906
+562.00,Financials,G211,Consumer Financing,WOMF,Wahana Ottomitra Multiartha Tbk,S,06/30/2022,Dec,U,,5301.79,3914.58,1387.21,709.71,111.58,80.04,80.04,40.46,398.45,6.48,0.66,2.82,3,10,20,262.977
+563.00,Financials,G311,Investment Management,AMOR,Ashmore Asset Management Indonesia Tbk,S,03/31/2022,Jun,,,388.56,114.56,274,305.57,108.99,85.57,85.57,52.67,123.3,24.11,10.5,0.42,30,43,38,1294.65
+564.00,Financials,G312,Investment Banking & Brokerage Services,PADI,Minna Padi Investama Sekuritas Tbk,S,06/30/2022,Dec,U,,249.1,24.92,224.18,-7.76,-16.82,-16.79,-16.79,-2.36,19.83,-21.22,2.52,0.11,-11,-12,0,49.9716
+565.00,Financials,G312,Investment Banking & Brokerage Services,PANS,Panin Sekuritas Tbk,S,06/30/2022,Dec,U,,2213.31,623.99,1589.31,257.18,154.84,133.16,129.42,320.68,2207.38,5.32,0.77,0.39,10,15,90,1699.6826
+566.00,Financials,G312,Investment Banking & Brokerage Services,RELI,Reliance Sekuritas Indonesia Tbk,S,06/30/2022,Dec,U,,656.57,141.94,514.63,13.53,17.87,16.98,16.98,13.82,285.91,64.39,3.13,0.28,4,5,184,894.8983
+567.00,Financials,G312,Investment Banking & Brokerage Services,TRIM,Trimegah Sekuritas Indonesia Tbk,S,06/30/2022,Dec,U,,2816.39,1901.81,914.58,278.27,52.56,37.41,37.39,7.67,128.65,44.06,2.63,2.08,2,6,20,338.3495
+568.00,Financials,G312,Investment Banking & Brokerage Services,YULE,Yulie Sekuritas Indonesia Tbk,S,06/30/2022,Dec,U,,456.45,12.57,443.89,16.68,11.03,12.37,12.37,-3.67,248.68,-580.24,8.44,0.03,-1,-1,-39,2098.8592
+569.00,Financials,G412,General Insurance,ABDA,Asuransi Bina Dana Arta Tbk,S,06/30/2022,Dec,U,,2401.24,952.26,1448.98,381.86,76.97,67.35,67.35,243.17,2334.03,24.78,2.58,0.66,6,10,40,6021.7974
+570.00,Financials,G412,General Insurance,AHAP,Asuransi Harta Aman Pratama Tbk,S,06/30/2022,Dec,U,,689.87,563.46,126.42,477.26,4.33,4.33,4.33,-2.97,43,-35.71,2.47,4.46,0,0,0,106.21
+571.00,Financials,G412,General Insurance,AMAG,Asuransi Multi Artha Guna Tbk,S,06/30/2022,Dec,U,,4967.69,3338.18,1629.51,1522.67,85.26,80.88,80.88,28.24,325.8,12.67,1.1,2.05,3,9,10,358.38
+572.00,Financials,G412,General Insurance,ASBI,Asuransi Bintang Tbk,S,06/30/2022,Dec,U,,959.89,602.89,357,281.21,1.4,3.88,3.88,49.19,1024.73,6.22,0.3,1.69,2,6,8,307.419
+573.00,Financials,G412,General Insurance,ASDM,Asuransi Dayin Mitra Tbk,S,06/30/2022,Dec,U,,1133.26,780.32,352.95,750.73,8.27,7.06,7.06,107.93,1838.27,8.8,0.52,2.21,2,6,3,955.9004
+574.00,Financials,G412,General Insurance,ASJT,Asuransi Jasa Tania Tbk,S,06/30/2022,Dec,U,,502.13,196.25,305.88,107.62,0.14,0.11,0.11,0.29,237.32,455.26,0.57,0.64,0,0,0,135.2724
+575.00,Financials,G412,General Insurance,ASMI,Asuransi Maximus Graha Persada Tbk,S,06/30/2022,Dec,U,,1143.61,737.63,404.45,615.98,-56.75,-56.75,-56.75,-5.56,45.15,-23.19,2.97,1.82,-4,-12,-8,134.0955
+576.00,Financials,G412,General Insurance,ASRM,Asuransi Ramayana Tbk,S,06/30/2022,Dec,U,,1696.04,1121.98,574.06,1242.03,48.97,42.88,42.88,192.1,1886.6,8.3,0.81,1.95,3,10,5,1528.146
+577.00,Financials,G413,Life Insurance,BHAT,Bhakti Multi Artha Tbk,S,06/30/2022,Dec,U,,1024.44,487.4,537.04,76.99,3.74,3.74,3.56,2.02,107.41,535.24,10.06,0.91,1,1,9,1080.5446
+578.00,Financials,G413,Life Insurance,JMAS,Asuransi Jiwa Syariah Jasa Mitra Abadi Tbk,S,06/30/2022,Dec,A,WTP,311.09,193.32,117.22,22.03,2.52,2.52,2.52,6.13,117.22,22.02,1.15,1.65,2,5,28,134.803
+579.00,Financials,G413,Life Insurance,LIFE,Asuransi Jiwa Sinarmas MSIG Tbk,S,06/30/2022,Dec,U,,15476.13,7896.58,7512.7,1597.47,218.53,193.65,193.65,59.42,3577.47,102.66,1.71,1.05,1,2,9,6117.4737
+580.00,Financials,G412,General Insurance,LPGI,Lippo General Insurance Tbk,S,06/30/2022,Dec,U,,2995.94,2205.82,790.12,1315.72,100.27,92.74,92.74,680.86,5267.47,7.34,0.95,2.79,4,15,9,5004.0965
+581.00,Financials,G414,Reasurance,MREI,Maskapai Reasuransi Indonesia Tbk,S,06/30/2022,Dec,U,,4285.39,2839.37,1405.89,1370.88,66.09,77.77,77.77,-460.29,2715.17,-9.54,1.6,2.02,-6,-17,-17,4344.272
+582.00,Financials,G412,General Insurance,MTWI,Malacca Trust Wuwungan Insurance Tbk,S,03/31/2022,Dec,U,,600.84,464.84,135.99,86.19,-1.47,-1.47,-1.47,4.44,89.13,31.72,1.58,3.42,1,5,8,140.8254
+583.00,Financials,G412,General Insurance,PNIN,Paninvest Tbk,S,06/30/2022,Dec,U,,35922.66,5161.59,30707.51,1365.49,629.45,1348.92,968.24,201.83,7547.95,5.4,0.14,0.17,4,4,97,1056.713
+584.00,Financials,G413,Life Insurance,PNLF,Panin Financial Tbk,S,06/30/2022,Dec,U,,33386.05,4693.7,28676.9,2038.53,973.91,974.19,893.97,42.01,895.54,9.09,0.43,0.16,4,5,68,385.0822
+585.00,Financials,G412,General Insurance,TUGU,Asuransi Tugu Pratama Indonesia Tbk,S,06/30/2022,Dec,U,,21883.24,12946.08,8937.15,3713.58,265.15,225.39,191.29,204.81,5027.15,11.47,0.47,1.45,2,4,10,2362.7605
+586.00,Financials,G412,General Insurance,VINS,Victoria Insurance Tbk,S,06/30/2022,Dec,U,,295.33,109.16,186.17,73.18,1.97,1.97,1.97,8.42,127.46,17.82,1.18,0.59,4,7,17,150.4028
+587.00,Financials,G511,Financial Holdings,APIC,Pacific Strategic Financial Tbk,S,06/30/2022,Dec,U,,6612.23,4402.62,2209.61,1241.95,90.34,87.56,86.63,10.53,187.79,113.44,6.36,1.99,1,3,5,1194.3444
+588.00,Financials,G511,Financial Holdings,BCAP,MNC Kapital Indonesia Tbk,S,06/30/2022,Dec,U,,22643.45,16601.17,6042.28,1384.39,60.44,61.16,52.38,4.27,141.77,26.95,0.81,2.75,1,3,13,114.8337
+589.00,Financials,G511,Financial Holdings,BPII,Batavia Prosperindo Internasional Tbk,S,06/30/2022,Dec,U,,3065.07,1736.47,1328.6,557.07,115.34,87.56,69.33,263.31,2363.11,30,3.34,1.31,5,11,27,7892.7874
+590.00,Financials,G511,Financial Holdings,CASA,Capital Financial Indonesia Tbk,S,06/30/2022,Dec,U,,36443.77,24460.41,8421.1,4775.36,31.89,29.29,23.36,0.52,154.58,1483.14,5.01,2.9,0,0,1,774.4458
+591.00,Financials,G512,Investment Companies,DNET,PT Indoritel Makmur Internasional Tbk.,S,06/30/2022,Dec,U,,18308.66,6578.38,11730.28,469.74,668.02,645.21,614.6,90.19,827.01,41.13,4.49,0.56,7,11,272,3713.2749
+592.00,Financials,G511,Financial Holdings,GSMF,Equity Development Investment Tbk,S,06/30/2022,Dec,A,WTP,5621.84,3039.59,2582.25,264.14,9.18,4.08,3.26,0.34,181.46,242.43,0.45,1.18,0,0,2,81.657
+593.00,Financials,G512,Investment Companies,LPPS,PT Lenox Pasifik Investama Tbk,S,06/30/2022,Dec,U,,1143.61,0.04,1143.58,0.1,-97.78,-97.78,-97.78,14.25,441.83,6.45,0.21,0,-13,-13,-142846,92.7843
+594.00,Financials,G512,Investment Companies,MGNA,PT Magna Investama Mandiri Tbk,S,06/30/2022,Dec,U,,0.13,3.58,-3.45,0,-1.6,-1.6,-1.6,-1.78,-1.86,-28.16,-26.89,-1.04,-2950,0,0,50.0154
+595.00,Financials,G512,Investment Companies,NICK,PT Charnic Capital Tbk.,S,06/30/2022,Dec,U,,310.92,1.65,309.28,-4.27,-5,-5,-5,329.95,474.97,1.35,0.94,0.01,49,49,0,446.4718
+596.00,Financials,G511,Financial Holdings,OCAP,Onix Capital Tbk,S,06/30/2022,Dec,U,,8.26,211.94,-203.68,0,-8.67,-8.67,-8.67,-32.53,-745.55,-4.89,-0.21,-1.04,-108,0,0,156.5655
+597.00,Financials,G511,Financial Holdings,PEGE,Panca Global Kapital Tbk,S,06/30/2022,Dec,U,,450.31,104.99,345.32,-48.36,-53.19,-53.4,-53.4,-61.43,121.87,-11.15,5.62,0.3,-39,-50,0,684.9094
+598.00,Financials,G511,Financial Holdings,PLAS,Polaris Investama Tbk,S,06/30/2020,Dec,U,,185.25,31.27,153.99,1.98,-1.44,-1.49,-1.49,-0.32,130.03,0,0.38,0.2,0,0,-19,49.4114
+599.00,Financials,G511,Financial Holdings,POOL,Pool Advista Indonesia Tbk,S,06/30/2022,Dec,U,,410.1,9.75,400.36,19.23,-8.58,-8.58,-8.17,-19.05,170.99,-2.62,0.29,0.02,-11,-11,-232,49.5871
+600.00,Financials,G511,Financial Holdings,SFAN,Surya Fajar Capital Tbk,S,06/30/2022,Dec,U,,296.92,116.02,180.9,-0.25,-32.45,-32.45,-33.48,-34.14,133.02,-45.84,11.8,0.64,-16,-26,0,1569.636
+601.00,Financials,G511,Financial Holdings,SMMA,Sinarmas Multiartha Tbk,S,06/30/2022,Dec,U,,121937.04,98990.56,22946.49,14842.19,327.08,292.44,254.61,82.77,3603.6,148.61,3.41,4.31,0,2,4,12288.276
+602.00,Financials,G512,Investment Companies,SRTG,PT Saratoga Investama Sedaya Tbk.,S,06/30/2022,Dec,U,,62541.92,4071.06,58470.86,1397.31,3858.77,3320.24,3310.28,952.45,4310.47,2.77,0.61,0.07,21,22,925,2629.3867
+603.00,Financials,G511,Financial Holdings,STAR,Buana Artha Anugerah Tbk,S,06/30/2022,Dec,U,,510.3,3.12,507.18,2.08,0.8,0.8,0.8,0.95,105.66,130.98,1.18,0.01,1,1,221,124.6788
+604.00,Financials,G511,Financial Holdings,VICO,Victoria Investama Tbk,S,06/30/2022,Dec,U,,25793.14,21159.78,3744.89,1146.81,82.54,68.92,25.46,-3.51,372.09,-47.02,0.44,5.65,0,-1,-2,163.7196
+605.00,Properties & Real Estate,H111,Real Estate Development & Management,ADCP,Adhi Commuter Properti Tbk,S,06/30/2022,Dec,U,,6219.18,3828.61,2390.57,307.98,37.63,37.59,37.59,6.03,107.58,13.27,0.75,1.6,2,6,44,80.685
+606.00,Properties & Real Estate,H111,Real Estate Development & Management,AMAN,Makmur Berkah Amanda Tbk,S,06/30/2022,Dec,U,,880.6,256.53,624.08,45.65,4.91,4.77,6.13,7.99,161.11,80.71,4,0.41,4,6,78,644.44
+607.00,Properties & Real Estate,H111,Real Estate Development & Management,APLN,Agung Podomoro Land Tbk,S,06/30/2022,Dec,LR,,29048.37,18771.81,10276.56,2202.59,-139.82,-233.95,-383.41,-19.49,452.73,-6.11,0.26,1.83,-2,-6,-28,117.7098
+608.00,Properties & Real Estate,H111,Real Estate Development & Management,ARMY,Armidian Karyatama Tbk,S,09/30/2021,Dec,U,,1713.25,237.05,1476.2,41.34,3.35,3.35,3.35,0.61,163.91,81.64,0.31,0.16,0,0,13,50.8121
+609.00,Properties & Real Estate,H111,Real Estate Development & Management,ASPI,Andalan Sakti Primaindo Tbk,S,06/30/2022,Dec,U,,101.79,28.79,72.99,4.57,0.05,0.05,0.1,-1.35,107.06,-67.23,0.85,0.39,-1,-1,-18,91.001
+610.00,Properties & Real Estate,H111,Real Estate Development & Management,ASRI,Alam Sutera Realty Tbk,S,06/30/2022,Dec,U,,21840.54,12082.43,9758.1,1953.91,208.47,218.5,216.84,30.91,496.61,5.6,0.34,1.24,3,6,31,168.8474
+611.00,Properties & Real Estate,H111,Real Estate Development & Management,ATAP,Trimitra Prawara Goldland Tbk,S,06/30/2022,Dec,U,,110.85,32.36,78.49,13.66,0.58,0.19,0.19,1.23,62.79,87.73,1.72,0.41,1,2,11,107.9988
+612.00,Properties & Real Estate,H111,Real Estate Development & Management,BAPA,Bekasi Asri Pemula Tbk,S,06/30/2022,Dec,U,,137.31,6.89,130.41,1.92,-2.11,-2.11,-2.11,-2.68,197.06,-58.69,0.85,0.05,-1,-1,-92,167.501
+613.00,Properties & Real Estate,H111,Real Estate Development & Management,BAPI,Bhakti Agung Propertindo Tbk,S,06/30/2022,Dec,U,,644.94,216.89,428.05,10.23,0.56,0.3,0.3,-0.17,76.55,-287.56,0.65,0.51,1,1,33,49.7575
+614.00,Properties & Real Estate,H111,Real Estate Development & Management,BBSS,Bumi Benowo Sukses Sejahtera Tbk,S,06/30/2022,Dec,U,,253.62,3.47,250.15,0.43,-0.62,-0.67,-0.67,-0.22,52.11,-261.44,1.19,0.01,0,0,-247,62.0109
+615.00,Properties & Real Estate,H111,Real Estate Development & Management,BCIP,Bumi Citra Permai Tbk,S,06/30/2022,Dec,U,,893.65,436.7,456.95,47.22,10.44,8.01,7.23,4.96,319.56,12.7,0.2,0.96,1,2,15,63.912
+616.00,Properties & Real Estate,H111,Real Estate Development & Management,BEST,Bekasi Fajar Industrial Estate Tbk,S,06/30/2022,Dec,U,,5988.82,1564.71,4424.11,345.24,139.36,130.21,130.22,-0.31,458.58,-442.26,0.3,0.35,2,3,39,137.574
+617.00,Properties & Real Estate,H111,Real Estate Development & Management,BIKA,Binakarya Jaya Abadi Tbk,S,06/30/2022,Dec,U,,3131.39,3331.04,-199.65,40.08,-46.88,-46.88,-13.91,68.33,-337.09,2.05,-0.42,-16.68,1,0,101,141.5778
+618.00,Properties & Real Estate,H111,Real Estate Development & Management,BIPP,Bhuwanatala Indah Permai Tbk,S,06/30/2022,Dec,U,,1956.64,829.76,1126.88,188.13,26.94,20.44,7.49,0.42,224.09,124.44,0.23,0.74,0,0,1,51.5407
+619.00,Properties & Real Estate,H111,Real Estate Development & Management,BKDP,Bukit Darmo Property Tbk,S,06/30/2022,Dec,U,,774.08,349.59,424.49,19.09,-20.37,-22.07,-22.07,-5.18,56.49,-22.39,1.52,0.82,-5,-9,-204,85.8648
+620.00,Properties & Real Estate,H111,Real Estate Development & Management,BKSL,Sentul City Tbk,S,06/30/2022,Dec,A,WTP,16603.83,6136.74,10467.09,408.56,-25.06,-26.54,-21.31,-0.81,156.03,-64.23,0.33,0.59,0,-1,-13,51.4899
+621.00,Properties & Real Estate,H111,Real Estate Development & Management,BSDE,Bumi Serpong Damai Tbk,S,06/30/2022,Dec,U,,63690.88,27594.04,36096.84,3835.62,510.06,509.04,463.64,51.8,1704.98,17.76,0.54,0.76,2,3,30,920.6892
+622.00,Properties & Real Estate,H111,Real Estate Development & Management,CITY,Natura City Developments Tbk,S,06/30/2022,Dec,U,,940.2,77.42,862.78,13.92,-12.57,-12.8,-12.8,-0.76,159.62,-203.64,0.93,0.09,0,0,-29,148.4466
+623.00,Properties & Real Estate,H111,Real Estate Development & Management,COWL,Cowell Development Tbk,S,09/30/2019,Dec,U,,3660.96,2768.59,892.38,236.94,-5.77,-25.89,-25.92,-9.28,183.19,0,0.27,3.1,-1,-5,-19,49.4613
+624.00,Properties & Real Estate,H111,Real Estate Development & Management,CPRI,Capri Nusa Satu Properti Tbk,S,03/31/2022,Dec,U,,210.34,26.44,183.91,0.79,-0.44,-0.51,-0.51,-1.67,75.58,-29.91,0.66,0.14,-2,-2,-513,49.8828
+625.00,Properties & Real Estate,H111,Real Estate Development & Management,CSIS,Cahayasakti Investindo Sukses Tbk,S,06/30/2022,Dec,U,,538.9,244.68,294.22,31.18,7.24,7.24,2.78,6.99,225.11,11.44,0.36,0.83,2,3,29,81.0396
+626.00,Properties & Real Estate,H111,Real Estate Development & Management,CTRA,Ciputra Development Tbk,S,06/30/2022,Dec,U,,40920.41,20517.01,20403.4,4665.19,1240.33,1092.01,1004.81,121.59,1099.3,7.85,0.86,1.01,6,11,48,945.398
+627.00,Properties & Real Estate,H111,Real Estate Development & Management,DADA,Diamond Citra Propertindo Tbk,S,06/30/2022,Dec,U,,767.11,423.09,344.02,19,5.86,5.86,5.85,1.13,47.92,44.27,1.04,1.23,1,2,43,49.8368
+628.00,Properties & Real Estate,H111,Real Estate Development & Management,DART,Duta Anggada Realty Tbk,S,06/30/2022,Dec,U,,6514.13,4225.94,2288.19,149.36,-205.09,-215.1,-215.09,-135.42,728.4,-1.46,0.27,1.85,-7,-19,-285,196.668
+629.00,Properties & Real Estate,H111,Real Estate Development & Management,DILD,Intiland Development Tbk,S,06/30/2022,Dec,LR,,16567.06,10762.65,5804.41,960.41,-183.05,-217.41,-162.92,-6.15,559.95,-29.26,0.32,1.85,-1,-2,-13,179.184
+630.00,Properties & Real Estate,H111,Real Estate Development & Management,DMAS,Puradelta Lestari Tbk,S,06/30/2022,Dec,U,,6763.52,872.26,5891.26,1067.07,669.45,660.7,660.04,22.54,122.23,7.81,1.44,0.15,16,18,102,176.0112
+631.00,Properties & Real Estate,H111,Real Estate Development & Management,DUTI,Duta Pertiwi Tbk,S,06/30/2022,Dec,U,,15192.03,4669.49,10522.54,1256,264.64,263.94,257.76,287.27,5687.86,16.88,0.85,0.44,4,6,50,4834.681
+632.00,Properties & Real Estate,H111,Real Estate Development & Management,ELTY,Bakrieland Development Tbk,S,03/31/2022,Dec,,,11661.6,3547.11,8114.49,218.54,-24.26,-26.8,-12.22,0,186.45,0,0.27,0.44,0,0,0,50.3415
+633.00,Properties & Real Estate,H111,Real Estate Development & Management,EMDE,Megapolitan Developments Tbk,S,06/30/2022,Dec,U,,3776.96,2118.88,1658.08,58.3,-36.87,-36.87,-36.76,301.28,494.95,0.47,0.28,1.28,27,61,1731,138.586
+634.00,Properties & Real Estate,H111,Real Estate Development & Management,FMII,Fortune Mate Indonesia Tbk,S,06/30/2022,Dec,U,,791.03,156.3,634.73,11.15,0,-0.29,-0.29,3.37,233.27,101.57,1.5,0.25,1,1,82,349.905
+635.00,Properties & Real Estate,H111,Real Estate Development & Management,FORZ,Forza Land Indonesia Tbk,S,09/30/2020,Dec,U,,596.7,305.17,291.53,11.4,5.7,5.7,5.68,6.37,146.94,0,0.34,1.05,2,4,111,49.9596
+636.00,Properties & Real Estate,H111,Real Estate Development & Management,GAMA,Aksara Global Development Tbk,S,06/30/2022,Dec,U,,1378.55,322.67,1055.88,10.19,-14.74,-14.79,-14.5,-2.87,105.47,-17.43,0.47,0.31,-2,-3,-282,49.5709
+637.00,Properties & Real Estate,H111,Real Estate Development & Management,GMTD,Gowa Makassar Tourism Development Tbk,S,06/30/2022,Dec,U,,1145.8,582.34,563.47,86.83,6.59,6.4,6.4,-320.38,5549.33,-45.34,2.62,1.03,-1,-3,-18,14539.2446
+638.00,Properties & Real Estate,H111,Real Estate Development & Management,GPRA,Perdana Gapuraprima Tbk,S,06/30/2022,Dec,U,,1762.33,625.01,1137.32,151.53,31.44,31.41,31.04,14.55,265.94,5.98,0.33,0.55,3,5,41,87.7602
+639.00,Properties & Real Estate,H111,Real Estate Development & Management,GWSA,Greenwood Sejahtera Tbk,S,06/30/2022,Dec,U,,7677.88,641.48,7036.4,20.79,41.19,41.19,41.74,3.52,902.01,43.99,0.18,0.09,0,0,132,162.3618
+640.00,Properties & Real Estate,H111,Real Estate Development & Management,HOMI,Grand House Mulia Tbk,S,03/31/2022,Dec,U,,290.91,170.33,120.58,6.44,0.84,0.67,0.67,3.44,76.56,174.66,7.84,1.41,2,4,84,600.2304
+641.00,Properties & Real Estate,H112,Real Estate Services,INDO,PT Royalindo Investa Wijaya Tbk,S,06/30/2022,Dec,U,,1000.58,1.98,998.6,3.03,15.31,15.31,15.31,3.22,229.15,32.59,0.46,0,2,2,654,105.409
+642.00,Properties & Real Estate,H111,Real Estate Development & Management,INPP,Indonesian Paradise Property Tbk,S,06/30/2022,Dec,U,,8835.68,3106.19,5729.49,300.82,-3.22,11.3,8.46,1.34,512.39,296.3,0.78,0.54,0,0,5,399.6642
+643.00,Properties & Real Estate,H111,Real Estate Development & Management,IPAC,Era Graharealty Tbk,0,06/30/2022,Dec,U,,33.85,7.34,26.51,10.47,0.95,0.73,0.73,4.46,27.91,25.8,4.12,0.28,11,14,35,114.9892
+644.00,Properties & Real Estate,H111,Real Estate Development & Management,JRPT,Jaya Real Property Tbk,S,06/30/2022,Dec,U,,12221.97,4012.52,8209.44,1008.9,380.49,374.24,368.32,55.97,597.05,8.54,0.8,0.49,6,9,76,477.64
+645.00,Properties & Real Estate,H111,Real Estate Development & Management,KBAG,Karya Bersama Anugerah Tbk,S,06/30/2022,Dec,U,,460.81,73.14,387.68,30.75,6.69,6.18,6.18,1.08,54.22,46.18,0.92,0.19,2,2,25,49.8824
+646.00,Properties & Real Estate,H111,Real Estate Development & Management,KIJA,Kawasan Industri Jababeka Tbk,S,06/30/2022,Dec,U,,12420.87,6095.3,6325.57,1137.2,-37.43,-43.11,-56.18,3.91,303.75,38.88,0.51,0.96,1,1,7,154.9125
+647.00,Properties & Real Estate,H111,Real Estate Development & Management,KOTA,DMS Propertindo Tbk,S,06/30/2022,Dec,U,,1552,309.21,1242.79,8.9,-16.48,-16.48,-16.48,-1.84,117.84,-27.16,0.42,0.25,-1,-2,-218,49.4928
+648.00,Properties & Real Estate,H111,Real Estate Development & Management,LAND,Trimitra Propertindo Tbk,S,06/30/2022,Dec,U,,750.91,279.22,471.69,22.14,-3.79,-4.18,-4.18,-3.03,168.91,-23.45,0.44,0.59,-1,-2,-38,74.3204
+649.00,Properties & Real Estate,H111,Real Estate Development & Management,LCGP,Eureka Prima Jakarta Tbk,S,09/30/2021,Dec,U,,1632.53,40.03,1592.49,1.64,-1.3,-1.34,-1.32,0.06,282.86,2008.04,0.4,0.03,0,0,20,113.144
+650.00,Properties & Real Estate,H111,Real Estate Development & Management,LPCK,Lippo Cikarang Tbk,S,06/30/2022,Dec,U,,9228.96,2601.47,6627.49,750.1,225.85,222.54,222.53,60.38,2473.31,19.05,0.46,0.39,2,2,22,1137.7226
+651.00,Properties & Real Estate,H111,Real Estate Development & Management,LPKR,Lippo Karawaci Tbk,S,06/30/2022,Dec,LR,,51437.48,30248.67,21188.81,6762.71,-895.68,-1066.95,-1205.96,-34.22,298.86,-3.36,0.38,1.43,-5,-12,-38,113.5668
+652.00,Properties & Real Estate,H111,Real Estate Development & Management,LPLI,Star Pacific Tbk,S,06/30/2022,Dec,U,,1108.04,17.48,1090.56,11.86,-8.63,-8.63,-8.63,102.23,931.76,2.8,0.31,0.02,-11,-11,-1044,288.8456
+653.00,Properties & Real Estate,H111,Real Estate Development & Management,MDLN,Modernland Realty Tbk,S,06/30/2022,Dec,U,,13716.8,9174.04,4542.75,466.84,493.72,353.29,353.29,57.59,362.46,2.05,0.33,2.02,5,16,155,119.6118
+654.00,Properties & Real Estate,H111,Real Estate Development & Management,MKPI,Metropolitan Kentjana Tbk,S,06/30/2022,Dec,U,,8339.46,2339.66,5999.8,859.39,340.69,274.4,274.43,463.31,6327.61,48.56,3.56,0.39,5,7,51,22526.2916
+655.00,Properties & Real Estate,H111,Real Estate Development & Management,MMLP,Mega Manunggal Property Tbk,S,06/30/2022,Dec,U,,7458.11,1215.43,6242.69,165.12,90.36,89.23,48.45,28.07,906.16,16.39,0.49,0.19,3,3,117,444.0184
+656.00,Properties & Real Estate,H111,Real Estate Development & Management,MPRO,Maha Properti Indonesia Tbk,S,06/30/2022,Dec,U,,1740.03,398.65,1341.39,12.18,-12.91,-13.21,-13.3,-1.78,134.91,-382.09,5.04,0.3,-2,-2,-226,679.9464
+657.00,Properties & Real Estate,H111,Real Estate Development & Management,MTLA,Metropolitan Land Tbk,S,06/30/2022,Dec,U,,6656.11,2124.35,4531.76,488.81,148.5,125.58,110.65,52.01,591.99,6.77,0.63,0.47,6,9,81,372.9537
+658.00,Properties & Real Estate,H111,Real Estate Development & Management,MTSM,Metro Realty Tbk,S,06/30/2022,Dec,U,,63.36,25.2,38.17,10.68,-3.47,-4.62,-4.61,-18.92,163.92,-9.36,1.08,0.66,-9,-14,-51,177.0336
+659.00,Properties & Real Estate,H111,Real Estate Development & Management,MYRX,Hanson International Tbk,S,09/30/2019,Dec,U,,12904.25,4401.98,8502.27,923.01,117.26,98.13,77.43,-0.09,98.06,0,0.51,0.52,0,0,-1,50.0106
+660.00,Properties & Real Estate,H111,Real Estate Development & Management,MYRXP,Hanson International (Seri B) Tbk,S,09/30/2019,Dec,U,,12904.25,4401.98,8502.27,923.01,117.26,98.13,77.43,-7.04,7584.57,0,0.01,0.52,0,0,-1,75.8457
+661.00,Properties & Real Estate,H111,Real Estate Development & Management,NIRO,City Retail Developments Tbk,S,06/30/2022,Dec,U,,11997.05,5742.99,6254.06,410.22,-144.12,-183.21,-76.4,-4.27,281.73,-34.65,0.53,0.92,-1,-2,-23,149.3169
+662.00,Properties & Real Estate,H111,Real Estate Development & Management,NZIA,Nusantara Almazia Tbk,S,06/30/2022,Dec,U,,623.72,110.88,512.84,45.31,2.15,1.55,0.45,0.69,233.37,194.48,0.58,0.22,0,0,3,135.3546
+663.00,Properties & Real Estate,H111,Real Estate Development & Management,OMRE,Indonesia Prima Property Tbk,S,06/30/2022,Dec,U,,4106.65,798.35,3308.3,39.57,-77.95,-77.78,-77.88,-87.02,1895.87,-5.8,0.25,0.24,-4,-5,-384,473.9675
+664.00,Properties & Real Estate,H111,Real Estate Development & Management,PAMG,Bima Sakti Pertiwi Tbk,S,06/30/2022,Dec,U,,581.92,157.91,424.01,26.6,-1.86,-2.01,-2.01,-2.7,135.68,-31.13,0.62,0.37,-1,-2,-32,84.1216
+665.00,Properties & Real Estate,H111,Real Estate Development & Management,PLIN,Plaza Indonesia Realty Tbk,S,06/30/2022,Dec,U,,12185.67,1213.44,10972.23,499.67,175.73,174.78,174.78,120.79,3090.77,17.63,0.69,0.11,3,4,83,2132.6313
+666.00,Properties & Real Estate,H111,Real Estate Development & Management,POLI,Pollux Hotels Group Tbk,S,06/30/2022,Dec,U,,2589.7,690.22,1899.49,147.56,174.22,170.68,170.68,93.46,944.77,8.56,0.85,0.36,7,10,127,803.0545
+667.00,Properties & Real Estate,H111,Real Estate Development & Management,POLL,Pollux Properties Indonesia Tbk,S,03/31/2022,Dec,,,6812.39,5431.73,1380.66,99.01,11.24,11.24,5.62,-16.37,165.97,-19.06,1.88,3.93,-2,-10,-138,312.0236
+668.00,Properties & Real Estate,H111,Real Estate Development & Management,POSA,Bliss Properti Indonesia Tbk,S,06/30/2022,Dec,U,,899.26,954.53,-55.26,29.51,-38.74,-38.97,-38.77,-15.81,-6.59,-3.16,-7.59,-17.27,-15,0,-449,50.0181
+669.00,Properties & Real Estate,H111,Real Estate Development & Management,PPRO,PP Properti Tbk,S,03/31/2022,Dec,U,,21396.65,16895.36,4501.29,380.97,11.49,1.46,1.29,0.33,72.98,149.42,0.69,3.75,0,0,5,50.3562
+670.00,Properties & Real Estate,H111,Real Estate Development & Management,PUDP,Pudjiadi Prestige Tbk,S,06/30/2022,Dec,U,,694.05,399.92,294.13,24.96,-6.6,-7.32,-7.32,-73.09,892.5,-5.2,0.43,1.36,-3,-6,-74,383.775
+671.00,Properties & Real Estate,H111,Real Estate Development & Management,PURI,Puri Global Sukses Tbk,S,06/30/2022,Dec,U,,254.81,128.64,126.17,17.15,0.89,0.89,1.13,5.63,126.17,76.42,3.55,1.02,2,4,33,447.9035
+672.00,Properties & Real Estate,H111,Real Estate Development & Management,PWON,Pakuwon Jati Tbk,S,06/30/2022,Dec,U,,29722.33,9683.26,20039.07,2750.92,859.18,859.48,753.51,34.71,416.1,13.02,1.09,0.48,6,8,61,453.549
+673.00,Properties & Real Estate,H111,Real Estate Development & Management,RBMS,Ristia Bintang Mahkotasejati Tbk,S,06/30/2022,Dec,U,,749.91,219.4,530.51,21.81,-25.46,-25.63,-25.44,-12.56,199.73,-3.98,0.25,0.41,-4,-6,-153,49.9325
+674.00,Properties & Real Estate,H111,Real Estate Development & Management,RDTX,Roda Vivatex Tbk,S,06/30/2022,Dec,U,,3198.34,286.16,2912.18,247.3,160.88,135.49,135.49,938.88,10834,9.32,0.81,0.1,8,9,102,8775.54
+675.00,Properties & Real Estate,H111,Real Estate Development & Management,REAL,Repower Asia Indonesia Tbk,S,06/30/2022,Dec,U,,352.94,1.47,351.47,3.01,0.3,0.23,0.23,0.13,52.98,385.61,0.94,0,0,0,29,49.8012
+676.00,Properties & Real Estate,H111,Real Estate Development & Management,RIMO,Rimo International Lestari Tbk,S,09/30/2019,Dec,U,,6741.4,569.64,6171.76,507.99,81.94,80.61,76.89,1.6,136.9,0,0.37,0.09,1,1,14,50.653
+677.00,Properties & Real Estate,H111,Real Estate Development & Management,ROCK,Rockfields Properti Indonesia Tbk,S,06/30/2022,Dec,U,,1047.96,284.97,762.99,43.38,4.89,0.53,0.53,-5.32,531.63,-65.06,0.69,0.37,-1,-1,-18,366.8247
+678.00,Properties & Real Estate,H111,Real Estate Development & Management,RODA,Pikko Land Development Tbk,S,06/30/2022,Dec,U,,3642.79,1436.66,2206.13,63.15,-29.32,-24.03,-24.13,-1.39,162.31,-54.52,0.47,0.65,-1,-1,-30,76.2857
+679.00,Properties & Real Estate,H111,Real Estate Development & Management,SATU,Kota Satu Properti Tbk,S,06/30/2022,Dec,U,,256.16,189.78,66.37,10.8,-2.98,-2.73,-2.67,-10.74,48.27,-6.98,1.64,2.86,-6,-22,-137,79.1628
+680.00,Properties & Real Estate,H111,Real Estate Development & Management,SMDM,Suryamas Dutamakmur Tbk,S,06/30/2022,Dec,U,,3343.98,463.52,2880.46,313.88,107.79,100.94,83.42,23.04,603.6,8.51,0.32,0.16,4,5,45,193.152
+681.00,Properties & Real Estate,H111,Real Estate Development & Management,SMRA,Summarecon Agung Tbk,S,06/30/2022,Dec,U,,27236.83,15907.03,11329.8,2728.94,426.95,307.62,254.61,28.46,686.3,21.08,0.87,1.4,2,4,17,597.081
+682.00,Properties & Real Estate,H111,Real Estate Development & Management,SWID,PT Saraswanti Indoland Development Tbk,S,06/30/2022,Dec,U,,261.65,130.88,130.77,58.07,8.31,7.96,7.96,3.95,24.28,30.11,5.11,1,8,16,37,124.0708
+683.00,Properties & Real Estate,H111,Real Estate Development & Management,TARA,Agung Semesta Sejahtera Tbk,S,06/30/2022,Dec,U,,1082.32,21.09,1061.24,1.09,-1.45,-1.45,-1.46,1.08,105.39,46.5,0.47,0.02,1,1,993,49.5333
+684.00,Properties & Real Estate,H111,Real Estate Development & Management,TRIN,Perintis Triniti Properti Tbk,S,06/30/2022,Dec,A,WTP,2060.61,1489.44,571.17,0.7,-42.49,-42.49,-29.36,-10.05,129.68,-29.06,2.34,2.61,-2,-8,-6336,303.4512
+685.00,Properties & Real Estate,H111,Real Estate Development & Management,TRUE,Triniti Dinamik Tbk,S,06/30/2022,Dec,U,,799.96,442.53,357.43,122.36,1.56,1.56,1.56,4.41,47.21,13.83,1.29,1.24,2,5,16,60.9009
+686.00,Properties & Real Estate,H111,Real Estate Development & Management,URBN,Urban Jakarta Propertindo Tbk,S,06/30/2022,Dec,U,,4274.85,2244.49,2030.36,17.67,12.9,7.46,7.63,17.56,628.18,10.42,0.29,1.11,1,3,321,182.1722
+687.00,Technology,I121,IT Services & Consulting,ATIC,Anabatic Technologies Tbk,S,06/30/2022,Dec,U,,4250.2,4075.96,174.24,3733.34,183.03,134.6,97.53,-58.59,75.25,-7.07,5.5,23.39,-3,-78,-4,413.875
+688.00,Technology,I111,Online Applications & Services,BUKA,Bukalapakcom Tbk,S,06/30/2022,Dec,U,,33822.75,1599.13,32223.63,1691.17,8798.71,8589.92,8593.49,74.58,312.66,4.02,0.96,0.05,23,24,455,300.1536
+689.00,Technology,I111,Online Applications & Services,CASH,Cashlez Worldwide Indonesia Tbk,0,06/30/2022,Dec,U,,148.12,52.72,95.4,42.98,-11.26,-9.65,-9.31,-10.27,66.66,-15.39,2.33,0.55,-10,-15,-34,155.3178
+690.00,Technology,I121,IT Services & Consulting,DCII,DCI Indonesia Tbk,S,06/30/2022,Dec,U,,3066.97,1709.01,1357.96,458.17,178.97,143.01,143.01,123.27,569.68,298.54,64.51,1.26,10,22,64,36750.0568
+691.00,Technology,I111,Online Applications & Services,DIVA,Distribusi Voucher Nusantara Tbk,S,06/30/2022,Dec,U,,2439.78,201.88,2237.9,2319.91,98.47,96.44,92.07,469,1566.53,1.86,0.56,0.09,27,30,29,877.2568
+692.00,Technology,I121,IT Services & Consulting,DMMX,Digital Mediatama Maxima Tbk,S,06/30/2022,Dec,U,,1116.32,154.18,962.13,924.3,13.12,10.78,10.13,17.38,125.08,66.47,9.27,0.16,12,14,14,1159.4916
+693.00,Technology,I121,IT Services & Consulting,EDGE,Indointernet Tbk,S,06/30/2022,Dec,U,,1307.51,206.19,1101.32,382.6,83.6,69.27,69.15,339.89,2725.69,59.28,7.39,0.19,11,12,36,20142.8491
+694.00,Technology,I111,Online Applications & Services,EMTK,Elang Mahkota Teknologi Tbk,S,06/30/2022,Dec,U,,43886.3,4819.74,39066.57,7099.93,3004.84,2818.66,2704.9,132.25,637.91,11.95,2.38,0.12,18,21,114,1518.2258
+695.00,Technology,I121,IT Services & Consulting,ENVY,Envy Technologies Indonesia Tbk,S,09/30/2020,Dec,U,,369.93,75.25,294.68,2.62,-21.75,-21.75,-20.46,-10.01,163.71,0,0.31,0.26,-5,-6,-687,50.7501
+696.00,Technology,I131,Software,GOTO,PT GoTo Gojek Tokopedia Tbk,S,06/30/2022,Dec,U,,158921.41,15787.09,143134.32,3399.99,-14185.26,-14169.7,-13647.81,-22,120.85,-13.73,2.5,0.11,0,0,0,302.125
+697.00,Technology,I111,Online Applications & Services,HDIT,Hensel Davest Indonesia Tbk,S,06/30/2022,Dec,U,,367.67,11.81,355.86,1852.18,3.16,2.22,2.11,0.26,233.4,329.02,0.4,0.03,0,0,0,93.36
+698.00,Technology,I111,Online Applications & Services,KIOS,Kioson Komersial Indonesia Tbk,S,06/30/2022,Dec,U,,110.96,46.97,63.99,146.37,3.17,2.36,2.42,3.2,59.48,167.37,8.83,0.73,3,5,2,525.2084
+699.00,Technology,I111,Online Applications & Services,KREN,Kresna Graha Investama Tbk,S,06/30/2022,Dec,U,,3193.63,817.37,2376.26,6306.31,3.81,-5.59,-28.82,-19.96,130.5,-2.51,0.39,0.34,-11,-15,-6,50.895
+700.00,Technology,I121,IT Services & Consulting,LMAS,Limas Indonesia Makmur Tbk,S,06/30/2021,Dec,U,,347.75,228.01,119.74,22.76,-4.68,-4.48,-2.98,-7.01,151.98,0,0.33,1.9,-2,-5,-24,50.1534
+701.00,Technology,I111,Online Applications & Services,MCAS,M Cash Integrasi Tbk,S,06/30/2022,Dec,U,,2207.39,795.51,1411.88,6310.71,35.13,25.69,16.54,36.91,1626.72,310.22,7.04,0.56,1,2,1,11452.1088
+702.00,Technology,I121,IT Services & Consulting,MLPT,Multipolar Technology Tbk,S,06/30/2022,Dec,U,,2676.87,1814.91,861.96,1670.26,349.21,293.61,296.5,249.26,459.71,9.03,4.87,2.11,17,54,28,2238.7877
+703.00,Technology,I111,Online Applications & Services,NFCX,NFC Indonesia Tbk,S,06/30/2022,Dec,U,,1936.22,537.06,1399.17,5058.25,41.79,37.39,30.81,143.14,2098.75,58.86,4.01,0.38,5,7,2,8415.9875
+704.00,Technology,I111,Online Applications & Services,PGJO,Tourindo Guide Indonesia Tbk,0,06/30/2022,Dec,U,,18.78,0.36,18.42,1.77,-5.61,-5.61,-5.61,-16.22,24.18,-4.38,2.94,0.02,-66,-67,-697,71.0892
+705.00,Technology,I131,Software,RUNS,Global Sukses Solusi Tbk,0,06/30/2022,Dec,U,,84.96,12.65,72.31,8.82,0.36,0.17,0.11,-11.09,73.52,-17.13,2.58,0.17,0,0,0,189.6816
+706.00,Technology,I131,Software,SKYB,PT Northcliff Citranusa Indonesia Tbk.,S,09/30/2019,Dec,U,,38.15,7.94,30.21,3.66,-0.54,-0.02,-0.03,-1.46,51.65,0,0.99,0.26,-2,-3,-23,51.1335
+707.00,Technology,I121,IT Services & Consulting,TECH,Indosterling Technomedia Tbk,S,06/30/2022,Dec,U,,68.21,9.73,58.48,8.22,0.31,0.5,0.52,5.14,46.55,1234.99,136.42,0.17,8,10,68,6350.351
+708.00,Technology,I111,Online Applications & Services,TFAS,Telefast Indonesia Tbk,S,06/30/2022,Dec,U,,292.9,96.69,196.21,403.54,0.51,0.12,1.06,7.75,117.73,345.85,22.76,0.49,4,7,3,2679.5348
+709.00,Technology,I111,Online Applications & Services,UVCR,Trimegah Karya Pratama Tbk,0,06/30/2022,Dec,A,WTP,112.15,31.03,81.12,657.76,4.02,3.08,3.08,3.8,40.56,36.6,3.43,0.38,7,9,1,139.1208
+710.00,Technology,I131,Software,WGSH,Wira Global Solusi Tbk,0,06/30/2022,Dec,U,,58.32,2.99,55.34,14.9,5.06,4.36,4.35,3.79,53.08,44.86,3.2,0.05,0,0,0,169.856
+711.00,Technology,I131,Software,WIRG,PT WIR ASIA Tbk,S,06/30/2022,Dec,U,,751.96,161.36,590.6,650.71,30.88,24.17,21.85,0,49.55,0,10.6,0.27,0,0,0,525.23
+712.00,Technology,I221,Computer Hardware,AXIO,PT Tera Data Indonusa Tbk,S,06/30/2022,Dec,U,,947.59,674.59,273,246.44,6.71,5.99,5.07,23.3,46.75,11.59,5.78,2.47,14,50,55,270.215
+713.00,Technology,I231,Electronic Equipment & Instruments,GLVA,Galva Technologies Tbk,S,06/30/2022,Dec,U,,904.22,630.36,273.87,1008.18,34.09,26.04,24.5,36.36,182.58,8.47,1.69,2.3,6,20,5,308.5602
+714.00,Technology,I221,Computer Hardware,LUCK,Sentral Mitra Informatika Tbk,S,06/30/2022,Dec,U,,180.58,44.94,135.64,68.47,1.79,0.39,0.41,1.16,189.51,153.56,1.01,0.33,0,1,1,191.4051
+715.00,Technology,I221,Computer Hardware,MTDL,Metrodata Electronics Tbk,S,06/30/2022,Dec,U,,8000.56,3826.43,4174.13,9727.38,504.11,380.38,271.28,43.77,340,15.99,2.06,0.92,7,13,6,700.4
+716.00,Technology,I211,Networking Equipment,PTSN,Sat Nusapersada Tbk,S,06/30/2022,Dec,U,,2183.16,807.11,1376.05,1113.81,76.44,40.18,40.18,15.03,258.93,12.78,0.75,0.59,4,6,7,194.1975
+717.00,Technology,I221,Computer Hardware,ZYRX,Zyrexindo Mandiri Buana Tbk,S,06/30/2022,Dec,U,,395.57,197.65,197.92,107.92,10.77,8.11,8.11,55.8,148.44,8.57,3.19,1,19,38,69,473.5236
+718.00,Infrastructures,J111,Airport Operators,CASS,Cardig Aero Services Tbk,S,06/30/2022,Dec,U,,1477.88,886.08,591.8,771.19,161.98,121.31,52.19,30.22,283.57,13.24,1.41,1.5,4,11,8,399.8337
+719.00,Infrastructures,J112,Highways & Railtracks,CMNP,Citra Marga Nusaphala Persada Tbk,S,06/30/2022,Dec,U,,16082.97,5022.72,11060.26,1734.49,564.74,468.77,465.84,161.04,2034.98,12.42,0.98,0.45,5,8,50,1994.2804
+720.00,Infrastructures,J111,Airport Operators,GMFI,Garuda Maintenance Facility Aero Asia Tbk,S,06/30/2022,Dec,U,,5674.67,10843.37,-5168.69,1425.73,-208.41,-163.09,-163.39,-56.04,-183.07,-1.32,-0.4,-2.1,-28,0,-111,73.228
+721.00,Infrastructures,J113,Marine Ports & Services,IPCC,PT Indonesia Kendaraan Terminal Tbk.,S,06/30/2022,Dec,U,,2005.99,895.58,1110.41,302.34,63.1,45.42,45.42,42.58,610.66,13.03,0.91,0.81,5,8,30,555.7006
+722.00,Infrastructures,J113,Marine Ports & Services,IPCM,PT Jasa Armada Indonesia Tbk.,S,06/30/2022,Dec,U,,1528.35,398.36,1129.99,428.2,84.6,64.7,64.7,26.65,213.82,10.88,1.36,0.35,9,12,33,290.7952
+723.00,Infrastructures,J112,Highways & Railtracks,JSMR,Jasa Marga (Persero) Tbk,S,06/30/2022,Dec,A,WTP,100647.67,74935.18,25712.49,7540.33,1165.04,529.08,734.76,205.9,3542.7,15.83,0.91,2.91,1,6,20,3223.857
+724.00,Infrastructures,J113,Marine Ports & Services,KARW,ICTSI JASA PRIMA Tbk,S,06/30/2022,Dec,U,,233.81,742.79,-508.98,43.41,6.2,4.34,4.34,23.31,-866.87,3.6,-0.1,-1.46,6,0,32,86.687
+725.00,Infrastructures,J112,Highways & Railtracks,META,Nusantara Infrastructure Tbk,S,06/30/2022,Dec,A,WTP,6572.61,3144.23,3428.38,397.9,81.28,59.8,35.38,0.97,193.58,147.72,0.73,0.92,0,1,4,141.3134
+726.00,Infrastructures,J113,Marine Ports & Services,PORT,PT Nusantara Pelabuhan Handal Tbk.,S,06/30/2022,Dec,U,,1867.16,1020.98,846.18,552.4,8.19,-11.09,-2.5,-18.81,300.71,-36.41,2.23,1.21,-3,-6,-10,670.5833
+727.00,Infrastructures,J211,Heavy Constructions & Civil Engineering,ACST,PT Acset Indonusa Tbk.,S,06/30/2022,Dec,U,,2159.89,1161.42,998.47,508.7,-118.94,-117.28,-114.46,-50.56,78.77,-3.14,2.02,1.16,0,0,0,159.1154
+728.00,Infrastructures,J211,Heavy Constructions & Civil Engineering,ADHI,PT Adhi Karya (Persero) Tbk.,S,06/30/2022,Dec,U,,39209.34,33145.24,6064.09,6326.78,168.78,35.39,10.23,16.05,1702.99,50.48,0.48,5.47,0,1,1,817.4352
+729.00,Infrastructures,J211,Heavy Constructions & Civil Engineering,BUKK,Bukaka Teknik Utama Tbk,S,06/30/2022,Dec,U,,5266.45,1732.36,3534.09,1766.91,202.03,176.62,176.19,175.96,1338.44,6.62,0.85,0.49,9,13,26,1137.674
+730.00,Infrastructures,J211,Heavy Constructions & Civil Engineering,DGIK,Nusa Konstruksi Enjiniring  Tbk,S,06/30/2022,Dec,U,,916.76,306.54,610.22,181.09,-7.08,-7.31,-7.31,0.06,110.13,1839.95,1.04,0.5,0,0,0,114.5352
+731.00,Infrastructures,J211,Heavy Constructions & Civil Engineering,FIMP,Fimperkasa Utama Tbk,0,06/30/2022,Dec,A,WTP,31.32,4.01,27.31,0.55,-0.57,-2.14,-2.14,-8.25,68.28,-6.91,0.83,0.15,-11,-12,-605,56.6724
+732.00,Infrastructures,J211,Heavy Constructions & Civil Engineering,IDPR,PT Indonesia Pondasi Raya Tbk.,S,06/30/2022,Dec,U,,1595.97,970.94,625.03,525.73,2.64,1.5,2.59,-52.45,312.05,-3.18,0.54,1.55,-3,-8,-10,168.507
+733.00,Infrastructures,J211,Heavy Constructions & Civil Engineering,JKON,Jaya Konstruksi Manggala Pratama Tbk,S,06/30/2022,Dec,U,,3942.33,1261.37,2680.96,1520.83,60.17,36.86,36.75,5.45,164.39,27.7,0.92,0.47,2,3,6,151.2388
+734.00,Infrastructures,J211,Heavy Constructions & Civil Engineering,KRYA,PT Bangun Karya Perkasa Jaya Tbk,S,06/30/2022,Dec,A,WTP,140.99,81.51,59.48,92.23,12.58,10.13,10.13,6.33,36.6,39.8,7.38,1.37,7,17,11,270.108
+735.00,Infrastructures,J211,Heavy Constructions & Civil Engineering,MTPS,PT Meta Epsi Tbk.,S,06/30/2022,Dec,U,,175.44,73.92,101.53,0,-5.88,-6.22,-6.22,-91.29,48.7,-0.56,1.03,0.73,-108,-187,0,50.161
+736.00,Infrastructures,J211,Heavy Constructions & Civil Engineering,MTRA,PT Mitra Pemuda Tbk.,S,06/30/2020,Dec,U,,319.29,217.58,101.71,93.94,3.33,0.59,0.6,12.38,132.09,0,1.85,2.14,3,9,10,244.3665
+737.00,Infrastructures,J211,Heavy Constructions & Civil Engineering,NRCA,PT Nusa Raya Cipta Tbk.,S,06/30/2022,Dec,U,,2453.76,1279.05,1174.71,1157.92,75.86,43.88,43.88,34.89,470.59,8.89,0.65,1.09,4,7,8,305.8835
+738.00,Infrastructures,J211,Heavy Constructions & Civil Engineering,PBSA,PT Paramita Bangun Sarana Tbk,S,06/30/2022,Dec,U,,885.8,304.22,581.58,423.53,79.87,71.15,71.06,50.04,193.86,6.2,1.6,0.52,17,26,35,310.176
+739.00,Infrastructures,J211,Heavy Constructions & Civil Engineering,PPRE,PT PP Presisi Tbk.,S,06/30/2022,Dec,U,,7816.99,4766,3050.99,1731.07,144.02,89.88,46.26,8.54,298.41,18.98,0.54,1.56,1,3,5,161.1414
+740.00,Infrastructures,J211,Heavy Constructions & Civil Engineering,PTDU,PT Djasa Ubersakti Tbk,S,06/30/2022,Dec,U,,306.13,222.72,83.4,79.59,-12.24,-12.24,-11.88,-2.75,55.6,-26.9,1.29,2.67,-1,-5,-5,71.724
+741.00,Infrastructures,J211,Heavy Constructions & Civil Engineering,PTPP,PP (Persero) Tbk,S,06/30/2022,Dec,U,,58274.6,43714.17,14560.43,9023.48,363.12,112.25,86.96,43.05,2348.5,20.79,0.38,3,0,2,3,892.43
+742.00,Infrastructures,J211,Heavy Constructions & Civil Engineering,PTPW,PT Pratama Widya Tbk.,S,06/30/2022,Dec,U,,591.34,108.31,483.03,200.68,49.17,49.14,49.14,75.33,550.04,13.94,1.91,0.22,14,18,42,1050.5764
+743.00,Infrastructures,J211,Heavy Constructions & Civil Engineering,RONY,PT Aesler Grup Internasional Tbk,S,09/30/2021,Dec,U,,38.66,6.66,32,2.07,-2.89,-2.98,-2.98,-4.34,25.6,-184.35,31.25,0.21,-14,-17,-263,800
+744.00,Infrastructures,J211,Heavy Constructions & Civil Engineering,SMKM,PT Sumber Mas Konstruksi Tbk,0,06/30/2022,Dec,U,,217.27,23.06,194.22,70.57,10.44,8.15,8.15,7.99,155,47.55,2.44,0.12,5,5,14,378.2
+745.00,Infrastructures,J211,Heavy Constructions & Civil Engineering,SSIA,PT Surya Semesta Internusa Tbk,S,06/30/2022,Dec,U,,8216.35,4096.76,4119.59,1548.6,82.83,92.09,79.51,-42.11,875.53,-8.69,0.42,0.99,1,2,5,367.7226
+746.00,Infrastructures,J211,Heavy Constructions & Civil Engineering,TAMA,PT Lancartama Sejati Tbk.,S,06/30/2022,Dec,U,,190.22,132.08,58.14,20.58,-0.18,-0.73,-0.73,-0.9,48.45,-55.62,1.03,2.27,-1,-2,-5,49.9035
+747.00,Infrastructures,J211,Heavy Constructions & Civil Engineering,TOPS,PT Totalindo Eka Persada Tbk.,S,06/30/2022,Dec,U,,2428.16,1579.97,848.2,412.39,12.8,1.88,1.88,0.03,25.45,1967.32,1.96,1.86,0,0,0,49.882
+748.00,Infrastructures,J211,Heavy Constructions & Civil Engineering,TOTL,Total Bangun Persada Tbk,S,06/30/2022,Dec,U,,3021.54,1830.67,1190.87,1114.06,44.79,44.24,44.28,28.73,349.23,10.79,0.89,1.54,3,8,8,310.8147
+749.00,Infrastructures,J211,Heavy Constructions & Civil Engineering,WEGE,PT Wijaya Karya Bangunan Gedung Tbk.,S,06/30/2022,Dec,U,,5725.14,3319.69,2405.45,1183.7,65.3,65.3,64.52,19.88,251.3,9.61,0.76,1.38,3,7,15,190.988
+750.00,Infrastructures,J211,Heavy Constructions & Civil Engineering,WIKA,PT Wijaya Karya (Persero) Tbk,S,06/30/2022,Dec,U,,72247.32,54813.37,17433.96,7183.81,26.2,12.35,-13.32,4.55,1943.6,235.06,0.55,3.14,0,0,0,1068.98
+751.00,Infrastructures,J211,Heavy Constructions & Civil Engineering,WSKT,PT Waskita Karya (Persero) Tbk,S,06/30/2022,Dec,U,,97143.94,77206.69,19937.24,6090.38,451.96,293.92,-236.52,-51.61,692.1,-9.65,0.73,3.87,-2,-7,-24,505.233
+752.00,Infrastructures,J321,Wireless Telecommunication Services,BALI,PT Bali Towerindo Sentra Tbk.,S,06/30/2022,Dec,A,WTP,5053.65,2595.44,2458.21,489.87,113.46,102.56,102.56,52.45,624.77,18.68,1.57,1.06,4,8,42,980.8889
+753.00,Infrastructures,J321,Wireless Telecommunication Services,BTEL,Bakrie Telecom Tbk,S,06/30/2022,Dec,U,,45.4,5810.1,-5764.7,27.02,-28.95,-29.7,-29.7,-1.41,-156.55,-35.44,-0.32,-1.01,-114,0,-192,50.096
+754.00,Infrastructures,J321,Wireless Telecommunication Services,CENT,PT Centratama Telekomunikasi Indonesia Tbk.,S,06/30/2022,Dec,U,,19554.2,18498.5,1055.7,1139.34,-884.96,-968.69,-968.69,-18.07,33.85,-9.46,5.05,17.52,-5,-99,-92,170.9425
+755.00,Infrastructures,J321,Wireless Telecommunication Services,EXCL,PT XL Axiata Tbk,S,06/30/2022,Dec,A,WTP,76418.06,56082.02,20336.04,14074.83,728.08,617.01,614.91,110.66,1896.19,23.77,1.39,2.76,2,6,8,2635.7041
+756.00,Infrastructures,J321,Wireless Telecommunication Services,FREN,Smartfren Telecom Tbk,S,06/30/2022,Dec,U,,43780.55,31071.18,12709.37,5453.34,-182.75,54.6,54.6,0.23,40.33,349.74,1.98,2.44,0,1,1,79.8534
+757.00,Infrastructures,J321,Wireless Telecommunication Services,GHON,PT Gihon Telekomunikasi Indonesia Tbk,S,06/30/2022,Dec,LR,,1041.04,330.55,710.49,90.71,41.6,39.82,39.82,154.67,1291.79,13.06,1.6,0.47,8,12,94,2066.864
+758.00,Infrastructures,J321,Wireless Telecommunication Services,GOLD,PT Visi Telekomunikasi Infrastruktur Tbk.,S,06/30/2022,Dec,U,,394.78,44.84,349.93,23.78,10.32,9.57,9.57,12.53,273.97,26.97,1.25,0.13,4,5,67,342.4625
+759.00,Infrastructures,J321,Wireless Telecommunication Services,IBST,Inti Bangun Sejahtera Tbk,S,06/30/2022,Dec,U,,10041.19,3407.44,6633.75,539.34,53.59,48.87,48.87,29.41,4910.59,278.77,1.67,0.51,0,1,7,8200.6853
+760.00,Infrastructures,J321,Wireless Telecommunication Services,ISAT,PT Indosat Tbk,S,06/30/2022,Dec,LR,,104432.91,74156.27,30276.64,22526.57,3975.8,3566.9,3260.31,547.36,3755.15,13.52,1.93,2.45,4,15,20,7247.4395
+761.00,Infrastructures,J311,Wired Telecommunication Service,JAST,Jasnita Telekomindo Tbk,S,06/30/2022,Dec,U,,114.53,34,80.53,33.47,-8.53,-8.56,-8.56,-9.7,74.38,-10,1.3,0.42,-9,-13,-31,96.694
+762.00,Infrastructures,J311,Wired Telecommunication Service,KBLV,First Media Tbk,S,06/30/2022,Dec,U,,1673.96,1952.71,-278.74,61.4,-232.7,-234.32,-231.98,-937.7,-160,-0.21,-1.21,-7.01,-98,0,-2661,193.6
+763.00,Infrastructures,J321,Wireless Telecommunication Services,LCKM,PT LCK Global Kedaton Tbk,S,06/30/2022,Dec,U,,149.41,13.15,136.26,14.29,1.57,1.3,1.3,1.52,136.26,192.73,2.14,0.1,1,1,8,291.5964
+764.00,Infrastructures,J311,Wired Telecommunication Service,LINK,Link Net Tbk,S,06/30/2022,Dec,U,,10721.07,5324.04,5397.04,2109.63,199.14,141.26,141.26,266.97,1884.97,17.79,2.52,0.99,5,10,26,4750.1244
+765.00,Infrastructures,J311,Wired Telecommunication Service,MORA,PT Mora Telematika Indonesia Tbk,S,06/30/2022,Dec,A,WTP,14958.92,9992.15,4966.78,2146.38,512.4,400.46,346.06,26.41,210.04,24.8,3.12,2.01,4,13,29,655.3248
+766.00,Infrastructures,J321,Wireless Telecommunication Services,MTEL,Dayamitra Telekomunikasi Tbk,S,06/30/2022,Dec,U,,55063.27,21568.52,33494.75,3726.41,1217.21,891.54,891.54,17.93,401.06,40.72,1.82,0.64,3,5,42,729.9292
+767.00,Infrastructures,J321,Wireless Telecommunication Services,OASA,PT Protech Mitra Perkasa Tbk,S,03/31/2022,Dec,U,,49.1,1.11,47.99,3.2,0.24,0.24,0.24,1.32,133.82,444.32,4.37,0.02,1,1,15,584.7934
+768.00,Infrastructures,J321,Wireless Telecommunication Services,SUPR,Solusi Tunas Pratama Tbk,S,06/30/2022,Dec,U,,9515.72,5364.44,4151.29,933.94,481.6,505.28,505.29,81.36,3649.23,412.36,9.19,1.29,2,5,24,33536.4237
+769.00,Infrastructures,J321,Wireless Telecommunication Services,TBIG,PT Tower Bersama Infrastructure Tbk,S,06/30/2022,Dec,U,,42678.16,29520.22,13157.94,3303.55,945.93,849.05,826.14,75.56,580.75,37.06,4.87,2.24,4,13,52,2828.2525
+770.00,Infrastructures,J312,Integrated Telecommunication Service,TLKM,Telkom Indonesia (Persero) Tbk,S,06/30/2022,Dec,U,,275272,134593,140679,71983,21429,17555,13310,258.62,1420.11,17.63,3.21,0.96,9,18,36,4558.5531
+771.00,Infrastructures,J321,Wireless Telecommunication Services,TOWR,Sarana Menara Nusantara Tbk,S,06/30/2022,Dec,U,,63373.36,50452.26,12921.1,5316.33,2033.91,1705.65,1691.15,68.44,253.28,18.12,4.9,3.9,5,27,64,1241.072
+772.00,Infrastructures,J411,Electric Utilities,ARKO,PT Arkora Hydro Tbk.,S,06/30/2022,Dec,U,,800.1,603.67,196.43,116.02,32.56,25.4,24.93,0,67.07,0,8.87,3.07,0,0,0,594.9109
+773.00,Infrastructures,J421,Gas Utilities,HADE,Himalaya Energi Perkasa Tbk,S,06/30/2022,Dec,U,,15.15,1.92,13.23,1.93,-0.27,-0.27,-0.22,-0.06,6.24,-855.45,8.01,0.14,-1,-1,-6,49.9824
+774.00,Infrastructures,J411,Electric Utilities,KEEN,Kencana Energi Lestari Tbk,S,06/30/2022,Dec,U,,4605.16,2067.13,2538.03,303.05,166.74,141.08,101.47,33.42,692.26,21.25,1.03,0.81,3,5,45,713.0278
+775.00,Infrastructures,J411,Electric Utilities,LAPD,Leyand International Tbk,S,06/30/2022,Dec,A,WTP,0.07,257.26,-257.19,0,-8.69,-8.69,-8.69,-23.7,-64.84,-2.11,-0.77,-1,-134299,0,0,49.9268
+776.00,Infrastructures,J411,Electric Utilities,MPOW,Megapower Makmur Tbk,S,06/30/2022,Dec,U,,228.01,87.71,140.3,20.81,-2.51,-2.59,-2.59,6.58,171.73,19.16,0.73,0.63,1,1,8,125.3629
+777.00,Infrastructures,J411,Electric Utilities,POWR,Cikarang Listrindo Tbk,S,06/30/2022,Dec,U,,20674.01,10378.83,10295.18,3991.07,854.12,602.29,602.29,83.68,639.96,8.13,1.06,1.01,6,13,33,678.3576
+778.00,Infrastructures,J411,Electric Utilities,TGRA,Terregra Asia Energy Tbk,S,06/30/2022,Dec,U,,463.02,99.23,363.79,0,-2.06,-1.73,-1.74,2.61,132.29,20.32,0.4,0.27,2,2,0,52.916
+779.00,Transportation & Logistic,K111,Airlines,IATA,MNC Energy Investments Tbk,S,06/30/2022,Dec,U,,2233.07,3488.72,-1255.65,1257.56,624.59,479.06,209.94,19.96,-109.99,6.86,-1.23,-2.78,10,0,18,135.2877
+780.00,Transportation & Logistic,K132,Road Transportation,ASSA,Adi Sarana Armada Tbk,S,06/30/2022,Dec,U,,7311.16,4736.42,2574.74,3170.5,126.71,97.25,114.79,51.81,721.95,28.18,2.02,1.84,3,7,6,1458.339
+781.00,Transportation & Logistic,K132,Road Transportation,BIRD,PT Blue Bird Tbk,S,06/30/2022,Dec,U,,6715.14,1570.44,5144.7,1548.06,188.9,147.97,146.18,73.55,2056.15,18.36,0.66,0.31,3,4,12,1357.059
+782.00,Transportation & Logistic,K132,Road Transportation,BPTR,PT Batavia Prosperindo Trans Tbk.,S,03/31/2022,Dec,U,,914.96,664.9,250.06,71.11,7.67,5.16,5.16,8.28,161.33,21.85,1.12,2.66,1,5,18,180.6896
+783.00,Transportation & Logistic,K111,Airlines,CMPP,AirAsia Indonesia Tbk,S,06/30/2022,Dec,U,,5064.05,11326.44,-6262.39,1145.27,-1057.32,-1057.32,-1060.21,-208.41,-586.09,-1.09,-0.39,-1.81,-44,0,-194,228.5751
+784.00,Transportation & Logistic,K111,Airlines,GIAA,Garuda Indonesia (Persero) Tbk,S,03/31/2022,Dec,U,,101192.61,192143.66,-90951.05,5027.18,-3692.19,-3218.01,-3225.47,-2292.68,-3513.44,-0.1,-0.06,-2.11,-56,0,-1133,210.8064
+785.00,Transportation & Logistic,K111,Airlines,HELI,Jaya Trishindo Tbk,S,06/30/2022,Dec,U,,293.98,152.5,141.48,15.53,0.36,0.31,0.31,4.31,169.87,62.17,1.58,1.08,1,3,23,268.3946
+786.00,Transportation & Logistic,K132,Road Transportation,LRNA,PT Eka Sari Lorena Transport Tbk.,S,06/30/2022,Dec,U,,228.72,43.42,185.3,44.94,-6.73,-6.73,-6.73,-63.72,529.43,-2.98,0.36,0.23,-10,-12,-50,190.5948
+787.00,Transportation & Logistic,K132,Road Transportation,SAFE,Steady Safe Tbk,S,06/30/2022,Dec,U,,281.62,345.63,-64.01,115.85,4.22,4.22,4.22,6.35,-104.06,33.07,-2.15,-5.4,1,0,3,223.729
+788.00,Transportation & Logistic,K132,Road Transportation,TAXI,Express Transindo Utama Tbk,S,06/30/2022,Dec,U,,82.59,12.37,70.22,1.13,-5.96,-5.85,-5.85,21.08,6.87,2.37,7.28,0.18,257,302,18759,50.0136
+789.00,Transportation & Logistic,K132,Road Transportation,TRJA,PT Transkon Jaya Tbk.,S,06/30/2022,Dec,U,,788.35,452.79,335.56,228.43,26.3,20.55,20.51,32.64,222.2,7.23,1.05,1.35,6,15,22,233.31
+790.00,Transportation & Logistic,K132,Road Transportation,WEHA,PT WEHA Transportasi Indonesia Tbk,S,06/30/2022,Dec,U,,220.97,106.44,114.52,76.53,7.77,6.06,6.06,2.12,78.41,54.24,1.47,0.93,1,3,4,115.2627
+791.00,Transportation & Logistic,K211,Logistics & Deliveries,AKSI,PT Maming Enam Sembilan Mineral Tbk.,S,06/30/2022,Dec,U,,381.79,207.19,174.6,237.29,53.76,43.69,43.58,25.47,242.49,11.94,1.25,1.19,11,25,18,303.1125
+792.00,Transportation & Logistic,K211,Logistics & Deliveries,BLTA,Berlian Laju Tanker Tbk,S,06/30/2022,Dec,U,,1053.41,542.31,511.1,125.79,36.01,34.37,34.37,3.43,19.7,14.58,2.54,1.06,7,14,58,50.038
+793.00,Transportation & Logistic,K211,Logistics & Deliveries,DEAL,PT Dewata Freightinternational Tbk.,S,06/30/2022,Dec,U,,157.05,193.73,-36.68,45.33,-3.63,-3.63,-3.63,-14.78,-32,-3.38,-1.56,-5.28,-14,0,-49,49.92
+794.00,Transportation & Logistic,K211,Logistics & Deliveries,ELPI,PT Pelayaran Nasional Ekalya Purnamasari Tbk,S,12/31/2021,Dec,A,WTP,1634.29,297.96,1336.34,540.59,105.74,105.2,107.65,14.52,180.29,16.25,1.31,0.22,7,8,20,236.1799
+795.00,Transportation & Logistic,K211,Logistics & Deliveries,HAIS,Hasnur Internasional Shipping Tbk,S,06/30/2022,Dec,U,,568.96,93.37,475.6,313.77,49.09,45.09,45.09,24.32,181.09,9.54,1.28,0.2,11,13,20,231.7952
+796.00,Transportation & Logistic,K211,Logistics & Deliveries,HATM,PT Habco Trans Maritima Tbk,S,06/30/2022,Dec,A,WTP,469.84,67.04,402.79,178.92,68.94,66.79,66.79,19.58,57.54,22.06,7.51,0.17,29,34,77,432.1254
+797.00,Transportation & Logistic,K211,Logistics & Deliveries,JAYA,PT Armada Berjaya Trans Tbk.,S,06/30/2022,Dec,U,,124.8,8.76,116.05,38.16,3.74,3.06,3.06,7.03,145.86,15.79,0.76,0.08,4,5,15,110.8536
+798.00,Transportation & Logistic,K211,Logistics & Deliveries,KJEN,PT Krida Jaringan Nusantara Tbk.,S,06/30/2022,Dec,U,,69.38,7.6,61.78,4.54,-0.45,-0.47,-0.47,-3.42,123.56,-88.85,2.27,0.12,-2,-3,-38,280.4812
+799.00,Transportation & Logistic,K211,Logistics & Deliveries,MIRA,Mitra International Resources Tbk,S,06/30/2022,Dec,U,,294.03,99.68,194.34,37.38,-9.55,-8.98,-9.07,-3.48,49.06,-14.39,1.02,0.51,-5,-7,-37,50.0412
+800.00,Transportation & Logistic,K211,Logistics & Deliveries,NELY,Pelayaran Nelly Dwi Putri Tbk,S,06/30/2022,Dec,U,,594.79,87.39,507.4,114.71,40.32,39.08,39.08,27.88,215.92,10.91,1.41,0.17,12,14,64,304.4472
+801.00,Transportation & Logistic,K211,Logistics & Deliveries,PPGL,PT Prima Globalindo Logistik Tbk.,0,06/30/2022,Dec,U,,158.46,20.03,138.43,141.83,15.05,11.87,9.87,23.27,179.5,5.5,0.71,0.14,12,14,14,127.445
+802.00,Transportation & Logistic,K211,Logistics & Deliveries,PURA,PT Putra Rajawali Kencana Tbk.,S,06/30/2022,Dec,U,,498.39,38.46,459.94,61.05,9.88,7.95,7.95,1.41,77.12,35.43,0.65,0.08,2,2,19,50.128
+803.00,Transportation & Logistic,K211,Logistics & Deliveries,RCCC,PT Utama Radar Cahaya Tbk,0,01/31/2022,Dec,A,,21.84,4.43,17.41,3.74,0.64,0.49,0.49,3.96,23.22,30.33,5.17,0.25,14,17,79,120.0474
+804.00,Transportation & Logistic,K211,Logistics & Deliveries,SAPX,PT Satria Antaran Prima Tbk.,S,06/30/2022,Dec,U,,256.1,79.66,176.45,294.69,10.82,8.46,8.46,42.68,211.74,23.2,4.68,0.45,14,20,12,990.9432
+805.00,Transportation & Logistic,K211,Logistics & Deliveries,SDMU,Sidomulyo Selaras Tbk,S,06/30/2022,Dec,U,,170.63,170.27,0.36,46.63,2.25,2.25,2.3,-0.08,0.32,-796.07,208.76,474.42,4,2016,16,66.8032
+806.00,Transportation & Logistic,K211,Logistics & Deliveries,SMDR,Samudera Indonesia Tbk,S,06/30/2022,Dec,U,,15827.91,7983.43,7844.48,8202.32,2668.32,2634.49,1722.86,826.39,2395.17,3.12,1.08,1.02,17,35,33,2586.7836
+807.00,Transportation & Logistic,K211,Logistics & Deliveries,TMAS,PT Temas Tbk.,S,06/30/2022,Dec,U,,4301.28,2427.07,1874.21,2322.85,721.74,686.76,659.83,175.83,328.51,14.1,7.55,1.29,24,56,45,2480.2505
+808.00,Transportation & Logistic,K211,Logistics & Deliveries,TNCA,PT Trimuda Nuansa Citra Tbk.,S,06/30/2022,Dec,U,,52.26,10.7,41.56,34.57,0.94,0.42,0.42,3.21,98.57,166.63,5.43,0.26,2,3,3,535.2351
+809.00,Transportation & Logistic,K211,Logistics & Deliveries,TRUK,PT Guna Timur Raya Tbk.,S,06/30/2022,Dec,U,,73.52,16.7,56.82,18.52,-2.06,-1.92,-1.92,-9.07,130.62,-13.23,0.92,0.29,-5,-7,-21,120.1704
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Market PER,14.13,,,,,,,,,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,
+,Market PBV,1.19,,,,,,,,,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,
